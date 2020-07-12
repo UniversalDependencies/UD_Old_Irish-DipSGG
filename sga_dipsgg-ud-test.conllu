@@ -13307,11 +13307,12 @@
 
 # sent_id = 1253
 # reference = f.50 bottom marg. (TPH p.xx)
-# text = feria cai hodie
+# text = ᚛ᚃᚓᚏᚔᚐ ᚉᚐᚔ ᚆᚑᚇᚔᚓ
 # translation = False
-1	feria	_	X	_	Foreign=Yes	_	_	_	_
-2	cai	cai	PROPN	_	_	_	_	_	_
-3	hodie	_	X	_	Foreign=Yes	_	_	_	_
+1	᚛	᚛	PUNCT	_	_	_	_	_	_
+2	ᚃᚓᚏᚔᚐ	_	X	_	Foreign=Yes	_	_	_	_
+3	ᚉᚐᚔ	cai	PROPN	_	_	_	_	_	_
+4	ᚆᚑᚇᚔᚓ	_	X	_	Foreign=Yes	_	_	_	_
 
 # sent_id = 1254
 # reference = 50b1
@@ -18316,10 +18317,11 @@
 
 # sent_id = 1806
 # reference = f.70 top marg. (TPH p.xx)
-# text = fel martain
+# text = ᚛ᚃᚓᚂ ᚋᚐᚏᚈᚐᚔᚅ
 # translation = feast of Martinus
-1	fel	_	X	_	Foreign=Yes	_	_	_	_
-2	martain	martan	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
+1	᚛	᚛	PUNCT	_	_	_	_	_	_
+2	ᚃᚓᚂ	féil	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+3	ᚋᚐᚏᚈᚐᚔᚅ	martan	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
 
 # sent_id = 1807
 # reference = 70a1
@@ -27636,10 +27638,11 @@
 
 # sent_id = 2634
 # reference = f.170 top marg. (TPH p.xxi)
-# text = min chasc
+# text = ᚛ᚋᚔᚅ ᚉᚆᚐᚄᚉ
 # translation = little easter
-1	min	min	ADJ	_	Degree=Pos|Prefix=Yes	_	_	_	_
-2	chasc	cásc	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+1	᚛	᚛	PUNCT	_	_	_	_	_	_
+2	ᚋᚔᚅ	min	ADJ	_	Degree=Pos|Prefix=Yes	_	_	_	_
+3	ᚉᚆᚐᚄᚉ	cásc	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 2635
 # reference = 170a1
@@ -30085,9 +30088,10 @@
 
 # sent_id = 2835
 # reference = f.193 top marg. (TPH p.xxi)
-# text = cocart
+# text = ᚛ᚉᚑᚉᚐᚏᚈ
 # translation = correction
-1	cocart	cocart	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+1	᚛	᚛	PUNCT	_	_	_	_	_	_
+2	ᚉᚑᚉᚐᚏᚈ	cocart	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 2836
 # reference = 193a1
@@ -30273,9 +30277,10 @@
 
 # sent_id = 2852
 # reference = f.194 top marg. (TPH p.xxi)
-# text = cocart
+# text = ᚛ᚉᚑᚉᚐᚏᚈ
 # translation = correction
-1	cocart	cocart	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+1	᚛	᚛	PUNCT	_	_	_	_	_	_
+2	ᚉᚑᚉᚐᚏᚈ	cocart	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 2853
 # reference = 194b1
@@ -30298,9 +30303,9 @@
 
 # sent_id = 2855
 # reference = f.195 top marg. (TPH p.xxi)
-# text = cocart
+# text = ᚉᚑᚉᚐᚏᚈ
 # translation = correction
-1	cocart	cocart	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+1	ᚉᚑᚉᚐᚏᚈ	cocart	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 2856
 # reference = f.195 top marg. (TPH p.xxi)
@@ -30334,25 +30339,13 @@
 6	néis	éis	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
 # sent_id = 2859
-# reference = f.195 bottom marg. (TPH p.xxi)
-# text = ní áer mall roscríbad in letráim so
-# translation = This page has not been written very slowly
-1	ní	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop|Voice=Act	_	_	_	_
-2	áer	ér	PART	_	Prefix=Yes	_	_	_	_
-3	mall	mall	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
-4	roscríbad	scríbaid	VERB	_	Aspect=Perf|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
-5	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
-6	letráim	letraim	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-7	so	so	PART	_	PronType=Dem	_	_	_	_
-
-# sent_id = 2860
 # reference = 195b1
 # text = tri thóbae
 # translation = through concision
 1	tri	tre	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 2	thóbae	tóbae	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 
-# sent_id = 2861
+# sent_id = 2860
 # reference = 195b2
 # text = ni secitus dogní
 # translation = it is not secitus that it makes
@@ -30360,7 +30353,7 @@
 2	secitus	_	X	_	Foreign=Yes	_	_	_	_
 3	dogní	dogní	VERB	_	Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
 
-# sent_id = 2862
+# sent_id = 2861
 # reference = 195b3
 # text = .i. o nd í as cano
 # translation = i.e. from cano
@@ -30371,7 +30364,7 @@
 5	as	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop|Voice=Act	_	_	_	_
 6	cano	_	X	_	Foreign=Yes	_	_	_	_
 
-# sent_id = 2863
+# sent_id = 2862
 # reference = 195b4
 # text = .i. ni thechta ind ranngabál ar a chuit sidi
 # translation = i.e. the participle has it (i) not as far as that goes
@@ -30385,14 +30378,27 @@
 8	chuit	cuit	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 9	sidi	side	PRON	_	PronType=Ana	_	_	_	_
 
+# sent_id = 2863
+# reference = f.195 bottom marg. (TPH p.xxi)
+# text = ní áer mall roscríbad in letráim so
+# translation = This page has not been written very slowly
+1	ní	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop|Voice=Act	_	_	_	_
+2	áer	ér	PART	_	Prefix=Yes	_	_	_	_
+3	mall	mall	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
+4	roscríbad	scríbaid	VERB	_	Aspect=Perf|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
+5	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
+6	letráim	letraim	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+7	so	so	PART	_	PronType=Dem	_	_	_	_
+
 # sent_id = 2864
 # reference = f.196 top marg. (TPH p.xxi)
-# text = a cocart in so
-# translation = this is their correction
-1	a	a	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-2	cocart	cocart	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-3	in	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
-4	so	so	PART	_	PronType=Dem	_	_	_	_
+# text = ᚛ᚐ ᚙᚑᚉᚐᚏᚈ ᚔᚅ ᚄᚑ
+# translation = this is his correction
+1	᚛	᚛	PUNCT	_	_	_	_	_	_
+2	ᚐ	a	PRON	_	| Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
+3	ᚙᚑᚉᚐᚏᚈ	cocart	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+4	ᚔᚅ	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
+5	ᚄᚑ	so	PART	_	PronType=Dem	_	_	_	_
 
 # sent_id = 2865
 # reference = 196a1
@@ -33505,9 +33511,10 @@ may the Lord be kind to me! I write well under the greenwood
 
 # sent_id = 3091
 # reference = f.204 top marg. (TPH p.xxii)
-# text = latheirt
-# translation = drunkenness
-1	latheirt	laithirt	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+# text = ᚛ᚂᚐᚈᚆᚓᚔᚏᚈ
+# translation = massive hangover
+1	᚛	᚛	PUNCT	_	_	_	_	_	_
+2	ᚂᚐᚈᚆᚓᚔᚏᚈ	laithirt	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 3092
 # reference = 204b1
