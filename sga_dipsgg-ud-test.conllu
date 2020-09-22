@@ -1131,11 +1131,11 @@
 3	ar	ar	ADP	_	AdpType=Prep|Definite=Def|Prefix=Yes	_	_	_	_
 4	ind	a	DET	_	AdpType=Prep|Case=Dat|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 5	í	í	PART	_	PartType=Dct	_	_	_	_
-6	bed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	_	_	_	_
+6	bed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
 7	leth	leth	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 8	ṅgotho	guth	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 9	no	no	PART	_	PartType=Vb	_	_	_	_
-10	bed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
+10	bed	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 11	indib	i	ADP	_	AdpType=Prep|Definite=Ind|Number=3|Person=Plur|PronType=Prs	_	_	_	_
 12	sem	som	PRON	_	Number=Plur|Person=3|PronType=Emp	_	_	_	_
 13	ar	ar	SCONJ	_	_	_	_	_	_
@@ -6501,7 +6501,7 @@
 21	dodrumenatar	domoinethar	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
 22	alaaili	aile	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	_
 23	no	no	PART	_	PartType=Vb	_	_	_	_
-24	mbetis	is	AUX	_	Mood=Sub|Number=Plur|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
+24	mbetis	attá	VERB	_	Mood=Sub|Number=Plur|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 25	in	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 26	oen	oín	NUM	_	_	_	_	_	_
 27	rainn	rann	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
@@ -8488,7 +8488,7 @@
 9	chúl	cúl	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 10	ma	má	SCONJ	_	_	_	_	_	_
 11	nu	no	PART	_	PartType=Vb	_	_	_	_
-12	bed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	_	_	_	_
+12	bed	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
 13	quia	_	X	_	Foreign=Yes	_	_	_	_
 14	non	_	X	_	Foreign=Yes	_	_	_	_
 15	fit	_	X	_	Foreign=Yes	_	_	_	_
@@ -8524,7 +8524,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	amal	amal	SCONJ	_	_	_	_	_	_
 3	no	no	PART	_	PartType=Vb	_	_	_	_
-4	bed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	_	_	_	_
+4	bed	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
 5	noch	noch	SCONJ	_	_	_	_	_	_
 6	ní	ní	PART	_	Polarity=Neg	_	_	_	_
 7	fail	attá	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
@@ -8543,7 +8543,7 @@
 20	sin	sin	PART	_	PronType=Dem	_	_	_	_
 21	ma	má	SCONJ	_	_	_	_	_	_
 22	nu	no	PART	_	PartType=Vb	_	_	_	_
-23	bed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	_	_	_	_
+23	bed	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
 24	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 25	ndib	dá	NUM	_	_	_	_	_	_
 26	sem	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	_	_	_	_
@@ -9060,7 +9060,7 @@
 8	bid	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	_	_	_	_
 9	emelides	_	X	_	Foreign=Yes	_	_	_	_
 10	no	no	PART	_	PartType=Vb	_	_	_	_
-11	bed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
+11	bed	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 12	and	i	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=3|Person=Sing|PronType=Prs	_	_	_	_
 
 # sent_id = 799
@@ -11610,7 +11610,7 @@
 # reference = 42b9
 # text = bed trebairiu
 # translation = it should be ,more prudent’
-1	bed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	_	_	_	_
+1	bed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
 2	trebairiu	trebar	ADJ	_	Degree=Cmp	_	_	_	_
 
 # sent_id = 1055
@@ -16072,7 +16072,7 @@
 25	bed	is	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	_	_	_	_
 26	figurate	_	X	_	Foreign=Yes	_	_	_	_
 27	no	no	PART	_	PartType=Vb	_	_	_	_
-28	mbed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
+28	mbed	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 29	a	_	X	_	Foreign=Yes	_	_	_	_
 30	virgo	_	X	_	Foreign=Yes	_	_	_	_
 31	filius	_	X	_	Foreign=Yes	_	_	_	_
@@ -17285,13 +17285,13 @@
 8	and	i	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=3|Person=Sing|PronType=Prs	_	_	_	_
 9	in	in	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 10	tain	tan	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-11	bed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	_	_	_	_
+11	bed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
 12	femininum	_	X	_	Foreign=Yes	_	_	_	_
 13	⁊	ocus	CCONJ	_	_	_	_	_	_
 14	derba	derbae	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 15	in	in	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 16	tain	tan	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-17	bed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	_	_	_	_
+17	bed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
 18	mascul	mascul	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 1695
@@ -22597,7 +22597,7 @@
 3	fil	attá	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 4	ainmnid	ainmmnid	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 5	no	no	PART	_	PartType=Vb	_	_	_	_
-6	bed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
+6	bed	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 7	acht	acht	SCONJ	_	_	_	_	_	_
 8	int	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 9	i	í	PART	_	PartType=Dct	_	_	_	_
@@ -23755,7 +23755,7 @@
 2	ce	cía	SCONJ	_	_	_	_	_	_
 3	chonístis	conicc	VERB	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=3|Tense=Past|Voice=Pass	_	_	_	_
 4	no	no	PART	_	PartType=Vb	_	_	_	_
-5	mbetis	is	AUX	_	Mood=Sub|Number=Plur|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
+5	mbetis	attá	VERB	_	Mood=Sub|Number=Plur|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 6	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 7	chuit	cuit	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 8	analoige	analach	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
@@ -25076,7 +25076,7 @@
 6	écrichdatu	éccríchdatu	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 7	sin	sin	PART	_	PronType=Dem	_	_	_	_
 8	no	no	PART	_	PartType=Vb	_	_	_	_
-9	bed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
+9	bed	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 10	and	i	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=3|Person=Sing|PronType=Prs	_	_	_	_
 11	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 12	cumaṅg	cumang	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -26979,7 +26979,7 @@
 4	doḟoirṅded	dofoirndea	VERB	_	Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 5	persin	persan	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 6	deirb	derb	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
-7	bed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	_	_	_	_
+7	bed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
 8	choitchen	coitchenn	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 9	iter	eter	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 10	huathad	úathad	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
@@ -27027,7 +27027,7 @@
 3	immaircide	immaircide	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 4	ce	cía	SCONJ	_	_	_	_	_	_
 5	no	no	PART	_	PartType=Vb	_	_	_	_
-6	bed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
+6	bed	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 7	indi	i	ADP	_	AdpType=Prep|Definite=Ind|Gender=Fem|Number=3|Person=Sing|PronType=Prs	_	_	_	_
 8	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 9	cumscugud	cumscugud	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -28454,7 +28454,7 @@
 4	ní	ní	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 5	fri	fri	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	sa	a	PART	_	PronType=Rel	_	_	_	_
-7	mbed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
+7	mbed	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 8	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 9	ndechor	dechor	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 10	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
@@ -28916,7 +28916,7 @@
 6	sain	sain	ADJ	_	Degree=Pos|Prefix=Yes	_	_	_	_
 7	dilis	díles	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
 8	no	no	PART	_	PartType=Vb	_	_	_	_
-9	bed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	_	_	_	_
+9	bed	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
 10	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 11	ndíruidigud	díṡruthigud	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 12	semper	_	X	_	Foreign=Yes	_	_	_	_
@@ -29921,7 +29921,7 @@
 6	ranngabala	ranngabál	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 7	amal	amal	SCONJ	_	_	_	_	_	_
 8	no	no	PART	_	PartType=Vb	_	_	_	_
-9	bed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
+9	bed	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 10	e	_	X	_	Foreign=Yes	_	_	_	_
 11	re	re	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 12	bam	_	X	_	Foreign=Yes	_	_	_	_
@@ -31734,7 +31734,7 @@
 3	ed	ed	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 4	nammá	nammá	ADV	_	_	_	_	_	_
 5	no	no	PART	_	PartType=Vb	_	_	_	_
-6	bed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
+6	bed	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 7	i	i	ADP	_	AdpType=Prep|Definite=Def|Prefix=Yes	_	_	_	_
 8	sind	in	DET	_	AdpType=Prep|Case=Dat|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 9	herchóiliud	érchoiliud	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
@@ -32664,7 +32664,7 @@
 11	asberad	asbeir	VERB	_	Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 12	bes	bés	ADV	_	_	_	_	_	_
 13	no	no	PART	_	PartType=Vb	_	_	_	_
-14	bed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
+14	bed	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 15	nach	nach	PRON	_	PronType=Ind	_	_	_	_
 16	aile	aile	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 17	leis	la	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=3|Person=Sing|PronType=Prs	_	_	_	_
@@ -33934,7 +33934,7 @@ may the Lord be kind to me! I write well under the greenwood
 7	n	in	DET	_	AdpType=Prep|Case=Dat|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 8	chetnidiu	cétnaide	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
 9	no	no	PART	_	PartType=Vb	_	_	_	_
-10	bed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
+10	bed	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 11	ar	ar	SCONJ	_	_	_	_	_	_
 12	no	no	PART	_	PartType=Vb	_	_	_	_
 13	biad	attá	VERB	_	Mood=Cnd|Number=Sing|Person=3|PronType=Rel|Tense=Fut|Voice=Act	_	_	_	_
@@ -34535,7 +34535,7 @@ may the Lord be kind to me! I write well under the greenwood
 2	ar	ar	ADP	_	AdpType=Prep|Definite=Def|Prefix=Yes	_	_	_	_
 3	ind	a	DET	_	AdpType=Prep|Case=Dat|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 4	í	í	PART	_	PartType=Dct	_	_	_	_
-5	bed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	_	_	_	_
+5	bed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
 6	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 7	sui	_	X	_	Foreign=Yes	_	_	_	_
 8	ɫ	nó	CCONJ	_	_	_	_	_	_
@@ -34544,7 +34544,7 @@ may the Lord be kind to me! I write well under the greenwood
 11	cham	camm	ADJ	_	Degree=Pos|Prefix=Yes	_	_	_	_
 12	thuislib	tuisel	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
 13	no	no	PART	_	PartType=Vb	_	_	_	_
-14	bed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
+14	bed	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 15	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 16	gním	gním	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 17	ɫ	nó	CCONJ	_	_	_	_	_	_
@@ -35488,7 +35488,7 @@ may the Lord be kind to me! I write well under the greenwood
 5	pronomen	_	X	_	Foreign=Yes	_	_	_	_
 6	tantum	_	X	_	Foreign=Yes	_	_	_	_
 7	no	no	PART	_	PartType=Vb	_	_	_	_
-8	bed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
+8	bed	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 9	foilsigud	foillsigud	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 3235
