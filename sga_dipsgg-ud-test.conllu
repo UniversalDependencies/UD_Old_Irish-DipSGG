@@ -41,7 +41,7 @@
 4	in	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 5	dias	días	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	sa	so	PART	_	PronType=Dem	_	_	_	_
-7	rosechestar	sechithir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+7	rosechestar	sechithir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 8	som	som	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Emp	_	_	_	_
 
 # sent_id = 5
@@ -177,7 +177,7 @@
 6	libur	lebor	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 7	ar	ara	SCONJ	_	_	_	_	_	_
 8	na	ná	SCONJ	_	Polarity=Neg	_	_	_	_
-9	roib	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
+9	roib	attá	VERB	_	Mood=Sub|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
 10	cummasc	cummasc	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 11	foir	for	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 
@@ -689,7 +689,7 @@
 4	chuit	cuit	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 5	foguir	fogur	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 6	ní	ní	PART	_	Polarity=Neg	_	_	_	_
-7	ruban	attá	VERB	_	Aspect=Hab|Mood=Pot|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
+7	ruban	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 8	and	i	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 9	ní	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
 10	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -909,7 +909,7 @@
 10	duellatar	doella	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
 11	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 12	con	co	SCONJ	_	_	_	_	_	_
-13	roib	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
+13	roib	attá	VERB	_	Mood=Sub|Number=Sing|PartType=Aug|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 14	comṡuidigud	comṡuidigud	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 15	liter	liter	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
 16	no	nó	CCONJ	_	_	_	_	_	_
@@ -1074,7 +1074,7 @@
 7	didiu	didiu	ADV	_	_	_	_	_	_
 8	⁊	ocus	CCONJ	_	_	_	_	_	_
 9	ni	ní	PART	_	Polarity=Neg	_	_	_	_
-10	rograigther	fograigidir	VERB	_	Mood=Pot,Sub|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Pass	_	_	_	_
+10	rograigther	fograigidir	VERB	_	Mood=Sub|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Pres|Voice=Pass	_	_	_	_
 11	cen	cen	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 12	guttai	guttae	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
 
@@ -1258,7 +1258,7 @@
 # text = .i. doruarthatar
 # translation = i.e. they have remained
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	doruarthatar	dofúarat	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	_	_	_	_
+2	doruarthatar	dofúarat	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 
 # sent_id = 105
 # reference = 5a14
@@ -1338,7 +1338,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	quasi	_	X	_	Foreign=Yes	_	_	_	_
 3	dixisset	_	X	_	Foreign=Yes	_	_	_	_
-4	nírbu	is	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbType=Cop	_	_	_	_
+4	nírbu	is	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Polarity=Neg|Tense=Past|VerbType=Cop	_	_	_	_
 5	liter	liter	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	ade	side	PRON	_	PronType=Ana	_	_	_	_
 7	con	co	SCONJ	_	_	_	_	_	_
@@ -1633,7 +1633,7 @@
 # text = ní roscríbad ar aill na
 # translation = it has not been written for anything else unless, etc.
 1	ní	ní	PART	_	Polarity=Neg	_	_	_	_
-2	roscríbad	scríbaid	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	_	_	_	_
+2	roscríbad	scríbaid	VERB	_	Mood=Ind|PartType=Aug|Voice=Act	_	_	_	_
 3	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 4	aill	aile	ADJ	_	Case=Acc|Degree=Pos|Number=Plur	_	_	_	_
 5	na	nach	PRON	_	PronType=Ind	_	_	_	_
@@ -1781,7 +1781,7 @@
 # reference = 6b18
 # text = dorochuirsemmar
 # translation = we have summoned
-1	dorochuirsemmar	docuirethar	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|Voice=Act	_	_	_	_
+1	dorochuirsemmar	docuirethar	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|PartType=Aug|Person=1|Tense=Past|Voice=Act	_	_	_	_
 
 # sent_id = 156
 # reference = 6b19
@@ -2071,7 +2071,7 @@
 # text = ní rubai nach cruth ailiu
 # translation = it cannot be otherwise
 1	ní	ní	PART	_	Polarity=Neg	_	_	_	_
-2	rubai	attá	VERB	_	Aspect=Hab|Mood=Pot|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
+2	rubai	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 3	nach	nach	PRON	_	PronType=Ind	_	_	_	_
 4	cruth	cruth	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 5	ailiu	aile	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
@@ -2140,7 +2140,7 @@
 # reference = 7b10
 # text = rotoltanaigestar
 # translation = it has pleased
-1	rotoltanaigestar	toltanaigid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+1	rotoltanaigestar	toltanaigid	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 
 # sent_id = 191
 # reference = 7b11
@@ -2217,7 +2217,7 @@
 2	potestatibus	_	X	_	Foreign=Yes	_	_	_	_
 3	vel	_	X	_	Foreign=Yes	_	_	_	_
 4	virtutibus	_	X	_	Foreign=Yes	_	_	_	_
-5	rothecht	techtaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+5	rothecht	techtaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 6	digaimm	digaimm	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 197
@@ -2249,7 +2249,7 @@
 # text = a nasrochumlai a nainm sin do u .i. vau
 # translation = when that name, i.e. vau, has gone out to u
 1	a	a	SCONJ	_	_	_	_	_	_
-2	nasrochumlai	ascomlai	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+2	nasrochumlai	ascomlai	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 3	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 4	nainm	ainm	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	sin	sin	PART	_	PronType=Dem	_	_	_	_
@@ -2737,7 +2737,7 @@
 13	isnaib	i	ADP	_	AdpType=Prep|Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_
 14	consonaib	conson	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
 15	ucut	ucut	PART	_	PronType=Dem	_	_	_	_
-16	roċruthaigsemmar	cruthaigidir	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|Voice=Act	_	_	_	_
+16	roċruthaigsemmar	cruthaigidir	VERB	_	Mood=Ind|Number=Plur|PartType=Aug|Person=1|Tense=Past|Voice=Act	_	_	_	_
 17	camaiph	camaiph	SCONJ	_	_	_	_	_	_
 18	immurgu	immurgu	SCONJ	_	_	_	_	_	_
 19	oen	oín	NUM	_	_	_	_	_	_
@@ -2896,7 +2896,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	a	_	X	_	Foreign=Yes	_	_	_	_
 3	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-4	dirogbad	dogaib	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	_	_	_	_
+4	dirogbad	dogaib	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Pass	_	_	_	_
 5	a	_	X	_	Foreign=Yes	_	_	_	_
 6	díib	de	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 
@@ -3940,7 +3940,7 @@
 # text = nis narróetmar ni sidi
 # translation = we have not accepted this
 1	nis	ní	PART	_	Polarity=Neg|PronClass=A|PronGend=Fem|PronNum=Sing|PronPers=3|PronType=Prs	_	_	_	_
-2	narróetmar	arfoím	VERB	_	Aspect=Perf|Mood=Ind|Voice=Act	_	_	_	_
+2	narróetmar	arfoím	VERB	_	Mood=Ind|PartType=Aug|Voice=Act	_	_	_	_
 3	ni	ni	PRON	_	Number=Plur|Person=1|PronType=Emp	_	_	_	_
 4	sidi	side	PRON	_	PronType=Ana	_	_	_	_
 
@@ -4156,7 +4156,7 @@
 # text = ar robbu digaim ind f híc co nducad b in ná loc
 # translation = for the f here was digamma and b was put in its place
 1	ar	ar	SCONJ	_	_	_	_	_	_
-2	robbu	is	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	_	_	_	_
+2	robbu	is	AUX	_	Mood=Ind|Number=Sing|PartType=Aug|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	_	_	_	_
 3	digaim	digaimm	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	ind	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 5	f	_	X	_	Foreign=Yes	_	_	_	_
@@ -4444,7 +4444,7 @@
 12	airdíxi	airdíxa	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Dual	_	_	_	_
 13	dofuasilcther	dofúasailci	VERB	_	Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Pass	_	_	_	_
 14	deogur	déḟogur	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-15	dorruairthetar	dofúarat	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	_	_	_	_
+15	dorruairthetar	dofúarat	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 16	di	dá	NUM	_	_	_	_	_	_
 17	aimsir	aimser	NOUN	_	Case=Nom|Number=Dual	_	_	_	_
 18	vocalis	_	X	_	Foreign=Yes	_	_	_	_
@@ -4593,7 +4593,7 @@
 # text = .i. conroscaiged ei ɫ i in e hi suidib
 # translation = i.e. ei or i was changed into e in these examples
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	conroscaiged	conoscaigi	VERB	_	Aspect=Perf|Mood=Ind|Voice=Pass	_	_	_	_
+2	conroscaiged	conoscaigi	VERB	_	Mood=Ind|PartType=Aug|Voice=Pass	_	_	_	_
 3	ei	_	X	_	Foreign=Yes	_	_	_	_
 4	ɫ	nó	CCONJ	_	_	_	_	_	_
 5	i	_	X	_	Foreign=Yes	_	_	_	_
@@ -4972,7 +4972,7 @@
 2	Cenmithá	cenmithá	SCONJ	_	_	_	_	_	_
 3	inna	a	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Art	_	_	_	_
 4	hí	í	PART	_	PartType=Dct	_	_	_	_
-5	asrubart	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+5	asrubart	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 6	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 7	oblitus	_	X	_	Foreign=Yes	_	_	_	_
 8	reliqua	_	X	_	Foreign=Yes	_	_	_	_
@@ -5000,7 +5000,7 @@
 # translation = i.e. for there cannot be aspiration before x and n, etc.
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	ar	ar	SCONJ	_	_	_	_	_	_
-3	nirubi	is	AUX	_	Aspect=Hab|Mood=Cnd|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
+3	nirubi	is	AUX	_	Aspect=Hab|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
 4	tinfed	tinfed	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	belaib	bél	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
@@ -5073,7 +5073,7 @@
 5	inna	in	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_
 6	ranna	rann	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 7	aili	aile	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	_
-8	asrubart	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+8	asrubart	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 9	tuas	túas	ADV	_	_	_	_	_	_
 
 # sent_id = 469
@@ -5377,7 +5377,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	ordd	ord	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	abbgitir	abgitir	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-4	dorat	dobeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+4	dorat	dobeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 5	forsna	for	ADP	_	AdpType=Prep|Case=Acc|Definite=Def|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_
 6	consona	conson	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
 
@@ -6450,7 +6450,7 @@
 18	⁊	ocus	CCONJ	_	_	_	_	_	_
 19	remsuidigud	remṡuidigud	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 20	má	má	SCONJ	_	_	_	_	_	_
-21	dodrumenatar	domoinethar	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
+21	dodrumenatar	domoinethar	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|PartType=Aug|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
 22	alaaili	aile	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	_
 23	no	no	PART	_	PartType=Vb	_	_	_	_
 24	mbetis	attá	VERB	_	Mood=Sub|Number=Plur|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
@@ -7278,7 +7278,7 @@
 # text = .i. dorochair i ndílsi di conid nomen di pudicitia
 # translation = i.e. it has fallen into propriety to her (Penelope), so that Pudicitia is a name of hers
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	dorochair	dotuit	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+2	dorochair	dotuit	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 3	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 4	ndílsi	dílse	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 5	di	do	ADP	_	AdpType=Prep|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -7403,7 +7403,7 @@
 # text = .i. dorochair i dílsi marti
 # translation = i.e. it has fallen into propriety to Mars
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	dorochair	dotuit	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+2	dorochair	dotuit	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 3	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 4	dílsi	dílse	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 5	marti	_	X	_	Foreign=Yes	_	_	_	_
@@ -7514,7 +7514,7 @@
 6	asberar	asbeir	VERB	_	Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Pass	_	_	_	_
 7	diib	de	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 8	huare	óre	SCONJ	_	_	_	_	_	_
-9	rombí	attá	VERB	_	Aspect=Hab|Mood=Pot|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
+9	rombí	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
 10	cechtar	cechtar	PRON	_	PronType=Ind	_	_	_	_
 11	de	de	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 12	sech	sech	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -7540,7 +7540,7 @@
 3	cuit	cuit	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	atoíbthe	attoíbed	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 5	huare	óre	SCONJ	_	_	_	_	_	_
-6	rombí	attá	VERB	_	Aspect=Hab|Mood=Pot|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
+6	rombí	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
 7	cechtar	cechtar	PRON	_	PronType=Ind	_	_	_	_
 8	de	de	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 9	sech	sech	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -8049,7 +8049,7 @@
 2	de	de	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 3	rét	ret	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 4	ailiu	aile	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
-5	roainmnichthe	ainmnigidir	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
+5	roainmnichthe	ainmnigidir	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
 6	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 7	deainmmnichdecha	déainmnigthech	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 8	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
@@ -8071,7 +8071,7 @@
 3	airi	ar	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 4	i	_	X	_	Foreign=Yes	_	_	_	_
 5	sin	sin	PART	_	PronType=Dem	_	_	_	_
-6	doratad	dobeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
+6	doratad	dobeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
 7	foir	for	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 8	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 9	nainmm	ainm	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -8082,12 +8082,12 @@
 14	laithe	lae	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 15	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 16	sin	sin	PART	_	PronType=Dem	_	_	_	_
-17	roṅgenair	gainithir	VERB	_	Aspect=Perf|Mood=Ind|PronType=Rel|Voice=Act	_	_	_	_
+17	roṅgenair	gainithir	VERB	_	Mood=Ind|PartType=Aug|PronType=Rel|Voice=Act	_	_	_	_
 18	som	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	_	_	_	_
 19	ní	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
 20	arind	ar	ADP	_	AdpType=Prep|Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 21	i	í	PART	_	PartType=Dct	_	_	_	_
-22	roṅgenad	gainithir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+22	roṅgenad	gainithir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 23	som	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	_	_	_	_
 24	isind	i	ADP	_	AdpType=Prep|Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 25	luc	loc	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
@@ -8209,7 +8209,7 @@
 # translation = i.e. Cecrops has built the city, and of the children of Theseus were they, i.e. of the Greeks were they all
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	cicrops	_	X	_	Foreign=Yes	_	_	_	_
-3	dorósat	dobeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+3	dorósat	dobeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 4	in	in	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 5	cathraig	cathair	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 6	⁊	ocus	CCONJ	_	_	_	_	_	_
@@ -8243,12 +8243,12 @@
 # text = Romuil doḟorsat in cathraig ó æneas rocinnset ind romaini
 # translation = Romulus has built the city: from Aenaeas the Romans have descended
 1	Romuil	romuil	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
-2	doḟorsat	dofuisim	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+2	doḟorsat	dofuisim	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 3	in	in	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 4	cathraig	cathair	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 5	ó	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	æneas	aeneas	PROPN	_	Case=Dat|Number=Sing	_	_	_	_
-7	rocinnset	cinnid	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	_	_	_	_
+7	rocinnset	cinnid	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 8	ind	in	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	_	_	_	_
 9	romaini	rómán	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 
@@ -8442,11 +8442,11 @@
 5	do	do	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 6	aeneus	_	X	_	Foreign=Yes	_	_	_	_
 7	⁊	ocus	CCONJ	_	_	_	_	_	_
-8	nírbu	is	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbType=Cop	_	_	_	_
+8	nírbu	is	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Polarity=Neg|Tense=Past|VerbType=Cop	_	_	_	_
 9	cognomen	_	X	_	Foreign=Yes	_	_	_	_
 10	challéic	calléic	ADV	_	_	_	_	_	_
 11	acht	acht	SCONJ	_	_	_	_	_	_
-12	darigni	dogní	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronClass=A|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs|Tense=Past|Voice=Act	_	_	_	_
+12	darigni	dogní	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronClass=A|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs|Tense=Past|Voice=Act	_	_	_	_
 13	amin	amein	ADV	_	_	_	_	_	_
 14	síc	_	X	_	Foreign=Yes	_	_	_	_
 15	peleus	_	X	_	Foreign=Yes	_	_	_	_
@@ -8655,13 +8655,13 @@
 5	a	a	PRON	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 6	mmuntar	muinter	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 7	sidi	side	PRON	_	PronType=Ana	_	_	_	_
-8	adrothreb	adtreba	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+8	adrothreb	adtreba	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 9	si	si	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Emp	_	_	_	_
 10	lee	la	ADP	_	AdpType=Prep|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 11	it	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 12	he	é	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 13	con	_	X	_	Foreign=Yes	_	_	_	_
-14	conrótgatar	conutaing	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+14	conrótgatar	conutaing	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 15	in	in	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 16	cathraig	cathair	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 
@@ -10264,7 +10264,7 @@
 4	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 5	a	a	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 6	rangabalda	ranngabálda	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
-7	asrubart	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+7	asrubart	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 
 # sent_id = 935
 # reference = 39a6
@@ -10892,7 +10892,7 @@
 # text = a conrodelgg
 # translation = when he has compared
 1	a	a	SCONJ	_	_	_	_	_	_
-2	conrodelgg	condelca	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+2	conrodelgg	condelca	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 
 # sent_id = 998
 # reference = 40a21
@@ -10986,7 +10986,7 @@
 # text = ní arrbartatar bith
 # translation = they have never used
 1	ní	ní	PART	_	Polarity=Neg	_	_	_	_
-2	arrbartatar	arbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	_	_	_	_
+2	arrbartatar	arbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 3	bith	bith	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
 # sent_id = 1008
@@ -11007,7 +11007,7 @@
 # translation = when they used
 1	in	in	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 2	tan	tan	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-3	ararubatar	arbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+3	ararubatar	arbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 4	bith	bith	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
 # sent_id = 1011
@@ -11374,7 +11374,7 @@
 # translation = i.e. she was not full-glad
 1	venus	_	X	_	Foreign=Yes	_	_	_	_
 2	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-3	nírbu	is	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbType=Cop	_	_	_	_
+3	nírbu	is	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Polarity=Neg|Tense=Past|VerbType=Cop	_	_	_	_
 4	lán	lán	ADJ	_	Degree=Pos|Prefix=Yes	_	_	_	_
 5	ḟalid	fáilid	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
 
@@ -11382,7 +11382,7 @@
 # reference = 42a8
 # text = nírbu lán brón
 # translation = she was not full-sad
-1	nírbu	is	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbType=Cop	_	_	_	_
+1	nírbu	is	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Polarity=Neg|Tense=Past|VerbType=Cop	_	_	_	_
 2	lán	lán	ADJ	_	Degree=Pos|Prefix=Yes	_	_	_	_
 3	brón	brón	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
@@ -11582,7 +11582,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	in	in	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 3	tan	tan	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-4	adcóidemmar	adfét	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	_	_	_	_
+4	adcóidemmar	adfét	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 5	di	de	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	comparit	comparit	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
@@ -11826,7 +11826,7 @@
 # text = .i. robbí uár recar less dígbail ind ḟolaid conid écen suin fri a slond sidi huare nád robatar suin do ṡlund in dúildetad inchoisget
 # translation = i.e. there may be a time when it is necessary to diminish the substance so that there is need of words to signify it, because there were not words (enough) to signify the proper nature which they express
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	robbí	attá	VERB	_	Aspect=Hab|Mood=Pot|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
+2	robbí	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 3	uár	úar	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	recar	roicc	VERB	_	Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Pass	_	_	_	_
 5	less	less	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
@@ -11842,7 +11842,7 @@
 15	sidi	side	PRON	_	PronType=Ana	_	_	_	_
 16	huare	óre	SCONJ	_	_	_	_	_	_
 17	nád	ná	PART	_	Polarity=Neg|PronType=Rel	_	_	_	_
-18	robatar	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+18	robatar	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 19	suin	son	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 20	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 21	ṡlund	slond	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
@@ -14120,7 +14120,7 @@
 3	dí	dá	NUM	_	_	_	_	_	_
 4	guttai	guttae	NOUN	_	Case=Nom|Number=Dual	_	_	_	_
 5	ḟodlaidi	fodlaide	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Dual	_	_	_	_
-6	dirótha	dosoí	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
+6	dirótha	dosoí	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
 7	ind	i	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 8	⁊	ocus	CCONJ	_	_	_	_	_	_
 9	ní	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
@@ -14312,7 +14312,7 @@
 # translation = i.e. of the rule that he has mentioned above
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	iuris	_	X	_	Foreign=Yes	_	_	_	_
-3	asrubart	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+3	asrubart	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 4	anúas	anúas	ADV	_	_	_	_	_	_
 
 # sent_id = 1389
@@ -14572,7 +14572,7 @@
 1	cenmathá	cenmithá	SCONJ	_	_	_	_	_	_
 2	inna	a	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Art	_	_	_	_
 3	hí	í	PART	_	PartType=Dct	_	_	_	_
-4	asrubart	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+4	asrubart	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 
 # sent_id = 1416
 # reference = 57a1
@@ -14695,7 +14695,7 @@
 2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 3	iar	íar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 4	narsidib	arsaid	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	_	_	_	_
-5	robbátar	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+5	robbátar	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 6	in	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 7	tis	_	X	_	Foreign=Yes	_	_	_	_
 8	non	_	X	_	Foreign=Yes	_	_	_	_
@@ -14794,7 +14794,7 @@
 # text = ci asidruburt a mbuith a nominibus secundae declinationis ⁊ tertiae
 # translation = although I have said that they are from nouns of the second and third declension
 1	ci	cía	SCONJ	_	_	_	_	_	_
-2	asidruburt	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs|Tense=Past|Voice=Act	_	_	_	_
+2	asidruburt	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=1|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs|Tense=Past|Voice=Act	_	_	_	_
 3	a	a	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 4	mbuith	both	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	a	_	X	_	Foreign=Yes	_	_	_	_
@@ -15035,7 +15035,7 @@
 # translation = i.e. so that there may be alternation and difference between the two syllables, for they are alike
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	co	co	SCONJ	_	_	_	_	_	_
-3	nroib	attá	VERB	_	Aspect=Hab|Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
+3	nroib	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 4	ailidetu	ailidetu	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	⁊	ocus	CCONJ	_	_	_	_	_	_
 6	dechor	dechor	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -15415,7 +15415,7 @@
 # reference = 60b18
 # text = doǽrbai
 # translation = it cut off
-1	doǽrbai	doeipen	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+1	doǽrbai	doeipen	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 
 # sent_id = 1507
 # reference = 60b19
@@ -15584,7 +15584,7 @@
 # reference = 61a15
 # text = dorurgabtha
 # translation = they had been uttered
-1	dorurgabtha	dofurgaib	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Pass	_	_	_	_
+1	dorurgabtha	dofurgaib	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|PartType=Aug|Person=3|Tense=Past|Voice=Pass	_	_	_	_
 
 # sent_id = 1525
 # reference = 61a16
@@ -15970,7 +15970,7 @@
 # reference = 62b7
 # text = immreræ
 # translation = he rowed
-1	immreræ	immrá	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+1	immreræ	immrá	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 
 # sent_id = 1563
 # reference = 62b8
@@ -16513,7 +16513,7 @@
 # translation = it was no wonder that a god should have been made of the stone
 1	níbu	is	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbType=Cop	_	_	_	_
 2	machdath	machdad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-3	dorónta	dogní	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
+3	dorónta	dogní	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
 4	dia	día	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	dind	de	ADP	_	AdpType=Prep|Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 6	liac	lía	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
@@ -16707,7 +16707,7 @@
 # translation = i.e. as for instance Antias
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	amal	amal	SCONJ	_	_	_	_	_	_
-3	rongab	gaibid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs|Tense=Past|Voice=Act	_	_	_	_
+3	rongab	gaibid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs|Tense=Past|Voice=Act	_	_	_	_
 4	antias	_	X	_	Foreign=Yes	_	_	_	_
 
 # sent_id = 1647
@@ -17238,7 +17238,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	lase	lase	SCONJ	_	_	_	_	_	_
 3	con	co	SCONJ	_	_	_	_	_	_
-4	rothinoll	doinóla	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+4	rothinoll	doinóla	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 
 # sent_id = 1704
 # reference = 66b24
@@ -18500,7 +18500,7 @@
 # translation = as ‘amo’ (love) is from that which is ‘verbum’ (verb) and ‘bene’ (good) from that which is ‘adverbium’ (adverb) and etc.
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	amal	amal	SCONJ	_	_	_	_	_	_
-3	rondgab	gaibid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
+3	rondgab	gaibid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
 4	amo	_	X	_	Foreign=Yes	_	_	_	_
 5	as	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
 6	ind	a	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
@@ -18547,7 +18547,7 @@
 2	ed	ed	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 3	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 4	amal	amal	SCONJ	_	_	_	_	_	_
-5	rongabsat	gaibid	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
+5	rongabsat	gaibid	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|PartType=Aug|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
 6	in	in	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	_	_	_	_
 7	túisil	tuisel	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 8	ol	ol	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -18561,7 +18561,7 @@
 # translation = i.e. as such as the nominative from which there is declension
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	amal	amal	SCONJ	_	_	_	_	_	_
-3	rongab	gaibid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
+3	rongab	gaibid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
 4	int	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 5	ainmnid	ainmmnid	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	a	a	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -18715,7 +18715,7 @@
 9	taat	attá	VERB	_	Mood=Ind|Number=Plur|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
 10	ar	ar	SCONJ	_	_	_	_	_	_
 11	ní	ní	PART	_	Polarity=Neg	_	_	_	_
-12	rochinnset	cinnid	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	_	_	_	_
+12	rochinnset	cinnid	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 13	ó	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 14	nach	nach	PRON	_	PronType=Ind	_	_	_	_
 15	uathuth	úathad	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
@@ -18785,7 +18785,7 @@
 10	beit	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 11	dobriathra	dobríathar	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 12	persandi	persandae	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	_
-13	robiat	attá	VERB	_	Aspect=Hab|Mood=Pot|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
+13	robiat	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Plur|PartType=Aug|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 14	sidi	side	PRON	_	PronType=Ana	_	_	_	_
 15	cen	cen	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 16	áraim	áram	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
@@ -18806,7 +18806,7 @@
 # text = amal rongab nanmmanaib slond persine ⁊ ní aiccidit in cal calléic
 # translation = as there is in nouns the signification of person and yet it is not an accident of theirs
 1	amal	amal	SCONJ	_	_	_	_	_	_
-2	rongab	gaibid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
+2	rongab	gaibid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
 3	nanmmanaib	ainm	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
 4	slond	slond	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	persine	persan	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
@@ -18826,7 +18826,7 @@
 3	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 4	octo	_	X	_	Foreign=Yes	_	_	_	_
 5	amal	amal	SCONJ	_	_	_	_	_	_
-6	rongab	gaibid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
+6	rongab	gaibid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
 7	in	_	X	_	Foreign=Yes	_	_	_	_
 8	nomine	_	X	_	Foreign=Yes	_	_	_	_
 9	persona	_	X	_	Foreign=Yes	_	_	_	_
@@ -19152,7 +19152,7 @@
 16	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 17	rind	rind	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 18	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-19	roṡoithe	soid	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
+19	roṡoithe	soid	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
 
 # sent_id = 1902
 # reference = 73a12
@@ -19490,7 +19490,7 @@
 4	asbeir	asbeir	VERB	_	Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
 5	iss	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 6	echtar	echtar	ADV	_	_	_	_	_	_
-7	rolaa	foceird	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+7	rolaa	foceird	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 8	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 9	dilledchi	dílledche	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 10	ní	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
@@ -19563,7 +19563,7 @@
 # translation = i.e. though I have said to you above, alter utra for altera utra, the ancients, however, had altera utra and alterum utrum, i.e. composition of two integrals in the feminine and neuter as is in the masculine
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	ci	cía	SCONJ	_	_	_	_	_	_
-3	asidruburt	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs|Tense=Past|Voice=Act	_	_	_	_
+3	asidruburt	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs|Tense=Past|Voice=Act	_	_	_	_
 4	frit	fri	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=2|PronType=Prs	_	_	_	_
 5	tuas	túas	ADV	_	_	_	_	_	_
 6	alter	_	X	_	Foreign=Yes	_	_	_	_
@@ -19571,7 +19571,7 @@
 8	pro	_	X	_	Foreign=Yes	_	_	_	_
 9	altera	_	X	_	Foreign=Yes	_	_	_	_
 10	utra	_	X	_	Foreign=Yes	_	_	_	_
-11	robói	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+11	robói	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 12	camaiph	camaiph	SCONJ	_	_	_	_	_	_
 13	dano	dano	ADV	_	_	_	_	_	_
 14	la	la	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -19592,7 +19592,7 @@
 29	⁊	ocus	CCONJ	_	_	_	_	_	_
 30	neutur	neutur	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 31	amal	amal	SCONJ	_	_	_	_	_	_
-32	rondgab	gaibid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs|Tense=Past|Voice=Act	_	_	_	_
+32	rondgab	gaibid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs|Tense=Past|Voice=Act	_	_	_	_
 33	i	_	X	_	Foreign=Yes	_	_	_	_
 34	isin	i	ADP	_	AdpType=Prep|Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 35	mascul	mascul	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
@@ -19616,7 +19616,7 @@
 # reference = 75b4
 # text = robói són dano leo
 # translation = this, then, they had
-1	robói	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+1	robói	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 2	són	són	PRON	_	PronType=Ana	_	_	_	_
 3	dano	dano	ADV	_	_	_	_	_	_
 4	leo	la	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs	_	_	_	_
@@ -20016,7 +20016,7 @@
 # reference = 78a1
 # text = ararubart bith
 # translation = that he has used
-1	ararubart	arbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+1	ararubart	arbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 2	bith	bith	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
 # sent_id = 1974
@@ -20308,7 +20308,7 @@
 2	cesu	cía	SCONJ	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 3	pater	_	X	_	Foreign=Yes	_	_	_	_
 4	familias	_	X	_	Foreign=Yes	_	_	_	_
-5	asruburt	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+5	asruburt	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=1|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 
 # sent_id = 2001
 # reference = 91b1
@@ -20934,7 +20934,7 @@
 # text = .i. rombí fri tobarthid in hoc exemplo
 # translation = i.e. it can be with the dative in this example
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	rombí	attá	VERB	_	Aspect=Hab|Mood=Cnd|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
+2	rombí	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
 3	fri	fri	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 4	tobarthid	tobarthaid	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 5	in	_	X	_	Foreign=Yes	_	_	_	_
@@ -20977,7 +20977,7 @@
 8	as	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
 9	iuppiter	_	X	_	Foreign=Yes	_	_	_	_
 10	cia	cía	SCONJ	_	_	_	_	_	_
-11	asidruburt	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs|Tense=Past|Voice=Act	_	_	_	_
+11	asidruburt	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=1|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs|Tense=Past|Voice=Act	_	_	_	_
 12	túas	túas	ADV	_	_	_	_	_	_
 13	ar	ar	SCONJ	_	_	_	_	_	_
 14	biid	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
@@ -21086,7 +21086,7 @@
 # translation = i.e. so that he has made Hiber from Hiberus
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	co	co	SCONJ	_	_	_	_	_	_
-3	ndergéni	dogní	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+3	ndergéni	dogní	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 4	hiber	_	X	_	Foreign=Yes	_	_	_	_
 5	dind	de	ADP	_	AdpType=Prep|Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 6	nd	_	X	_	Foreign=Yes	_	_	_	_
@@ -21547,7 +21547,7 @@
 16	la	la	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 17	atacu	atac	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
 18	⁊	ocus	CCONJ	_	_	_	_	_	_
-19	contorád	contoí	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+19	contorád	contoí	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 20	ind	_	X	_	Foreign=Yes	_	_	_	_
 21	υ	_	X	_	Foreign=Yes	_	_	_	_
 22	in	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -21565,7 +21565,7 @@
 2	analogia	_	X	_	Foreign=Yes	_	_	_	_
 3	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 4	amal	amal	SCONJ	_	_	_	_	_	_
-5	contorád	contoí	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+5	contorád	contoí	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 6	υ	_	X	_	Foreign=Yes	_	_	_	_
 7	in	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 8	ο	_	X	_	Foreign=Yes	_	_	_	_
@@ -21676,7 +21676,7 @@
 3	⁊	ocus	CCONJ	_	_	_	_	_	_
 4	combad	co	SCONJ	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
 5	uad	ó	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
-6	roainmnigthe	ainmnigidir	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
+6	roainmnigthe	ainmnigidir	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
 7	quando	_	X	_	Foreign=Yes	_	_	_	_
 8	fastus	_	X	_	Foreign=Yes	_	_	_	_
 9	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
@@ -22089,7 +22089,7 @@
 # translation = if it were Greek it would be of the second declension, as pelagus
 1	mad	má	SCONJ	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 2	grec	gréc	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-3	roppad	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
+3	roppad	is	AUX	_	Mood=Sub|Number=Sing|PartType=Aug|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
 4	diil	díall	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 5	tanaisi	tánaise	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
 6	ut	_	X	_	Foreign=Yes	_	_	_	_
@@ -22641,7 +22641,7 @@
 7	tiagdde	téit	VERB	_	Mood=Ind|Number=Plur|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
 8	in	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 9	í	_	X	_	Foreign=Yes	_	_	_	_
-10	ropad	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	_	_	_	_
+10	ropad	is	AUX	_	Mood=Sub|Number=Sing|PartType=Aug|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	_	_	_	_
 11	antepeneuilt	antepeneuilt	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 12	no	no	PART	_	PartType=Vb	_	_	_	_
 13	acuitigfide	acuitigidir	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Fut|Voice=Pass	_	_	_	_
@@ -23493,13 +23493,13 @@
 # reference = 138a5
 # text = robiat ar chuit folid ce nid rubat ar chuit suin
 # translation = they can be in respect of substance, though they cannot be in respect of sound
-1	robiat	attá	VERB	_	Aspect=Hab|Mood=Cnd|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
+1	robiat	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Plur|PartType=Aug|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 2	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 3	chuit	cuit	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 4	folid	folad	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 5	ce	cía	SCONJ	_	_	_	_	_	_
 6	nid	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
-7	rubat	is	AUX	_	Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbType=Cop	_	_	_	_
+7	rubat	is	AUX	_	Mood=Cnd|Number=Sing|PartType=Aug|Person=3|Polarity=Pos|Tense=Fut|VerbType=Cop	_	_	_	_
 8	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 9	chuit	cuit	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 10	suin	son	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
@@ -23510,7 +23510,7 @@
 # translation = in that he (Cicero) has said tonstriculae
 1	isind	i	ADP	_	AdpType=Prep|Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 2	í	í	PART	_	PartType=Dct	_	_	_	_
-3	asrubart	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+3	asrubart	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 4	tostriculae	_	X	_	Foreign=Yes	_	_	_	_
 
 # sent_id = 2308
@@ -23896,7 +23896,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 3	thaidbse	taidbsiu	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-4	rombói	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+4	rombói	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 5	fo	fo	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	r	_	X	_	Foreign=Yes	_	_	_	_
 7	amal	amal	SCONJ	_	_	_	_	_	_
@@ -24172,7 +24172,7 @@
 6	auctoru	augtar	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
 7	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 8	samlid	amal	ADV	_	_	_	_	_	_
-9	daárbuid	doadbat	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronClass=A|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs|Tense=Past|Voice=Act	_	_	_	_
+9	daárbuid	doadbat	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronClass=A|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs|Tense=Past|Voice=Act	_	_	_	_
 10	reliqua	_	X	_	Foreign=Yes	_	_	_	_
 
 # sent_id = 2371
@@ -24681,23 +24681,23 @@
 19	i	i	ADP	_	AdpType=Prep|Definite=Ind|PronType=Rel	_	_	_	_
 20	mbói	attá	VERB	_	Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 21	et	_	X	_	Foreign=Yes	_	_	_	_
-22	robu	is	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	_	_	_	_
+22	robu	is	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	_	_	_	_
 23	anfiss	anfiss	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 24	do	do	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 25	som	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	_	_	_	_
 26	in	in	PART	_	PronType=Int	_	_	_	_
-27	rolég	légaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+27	rolég	légaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 28	fa	fa	SCONJ	_	_	_	_	_	_
 29	nacc	nacc	ADV	_	Polarity=Neg	_	_	_	_
 30	dég	dég	SCONJ	_	_	_	_	_	_
-31	rombu	is	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
+31	rombu	is	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
 32	écṅdaircc	écndairc	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 33	do	do	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 34	⁊	ocus	CCONJ	_	_	_	_	_	_
 35	afamenad	afameinn	CCONJ	_	_	_	_	_	_
-36	raḟesed	rofinnadar	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|PronClass=A|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs|Tense=Past|Voice=Act	_	_	_	_
+36	raḟesed	rofinnadar	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|PartType=Aug|Person=3|PronClass=A|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs|Tense=Past|Voice=Act	_	_	_	_
 37	in	in	PART	_	PronType=Int	_	_	_	_
-38	roleg	légaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+38	roleg	légaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 
 # sent_id = 2420
 # reference = 148a7
@@ -24723,7 +24723,7 @@
 # translation = i.e. they were not, however, for it is not proper to wish for what you have
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	ní	ní	PART	_	Polarity=Neg	_	_	_	_
-3	rabatar	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	_	_	_	_
+3	rabatar	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 4	cidecht	cedacht	ADV	_	_	_	_	_	_
 5	ar	ar	SCONJ	_	_	_	_	_	_
 6	ní	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
@@ -24739,7 +24739,7 @@
 # text = ní roilgius immurgu
 # translation = I have not read, however
 1	ní	ní	PART	_	Polarity=Neg	_	_	_	_
-2	roilgius	légaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Act	_	_	_	_
+2	roilgius	légaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=1|Tense=Past|Voice=Act	_	_	_	_
 3	immurgu	immurgu	SCONJ	_	_	_	_	_	_
 
 # sent_id = 2424
@@ -24789,7 +24789,7 @@
 # text = .i. robá óc legund
 # translation = i.e. ‘that I was reading’
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	robá	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Act	_	_	_	_
+2	robá	attá	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=1|Tense=Past|Voice=Act	_	_	_	_
 3	óc	oc	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 4	legund	léigend	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
@@ -24822,7 +24822,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	intinscanta	intinscanta	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 3	ní	ní	PART	_	Polarity=Neg	_	_	_	_
-4	dechuid	teit	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+4	dechuid	teit	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 5	dochom	dochum	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	for	for	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 7	cinn	cenn	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
@@ -25592,7 +25592,7 @@
 # text = .i. robatar et biet hi frecṅdairc
 # translation = i.e. they have been and they will be in the present
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	robatar	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	_	_	_	_
+2	robatar	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 3	et	_	X	_	Foreign=Yes	_	_	_	_
 4	biet	attá	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	_	_	_	_
 5	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -25603,7 +25603,7 @@
 # text = .i. robu frecṅdairc riam
 # translation = i.e. it has been present formerly
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	robu	is	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	_	_	_	_
+2	robu	is	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	_	_	_	_
 3	frecṅdairc	frecndairc	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 4	riam	re	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 
@@ -25614,7 +25614,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	conid	co	SCONJ	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
 3	airi	ar	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
-4	rolaad	foceird	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
+4	rolaad	foceird	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
 5	fo	fo	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	dead	dead	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 
@@ -25665,7 +25665,7 @@
 6	nil	il	ADJ	_	Degree=Pos|Prefix=Yes	_	_	_	_
 7	chial	cíall	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
 8	techtas	techtaid	VERB	_	Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
-9	arróet	arfoím	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+9	arróet	arfoím	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 10	aimnigud	ainmmnigud	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 11	acht	acht	SCONJ	_	_	_	_	_	_
 12	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
@@ -25994,7 +25994,7 @@
 5	tuasolcud	túasulcud	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	ind	a	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 7	imchomairc	imchomarc	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-8	asrubart	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+8	asrubart	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 9	riam	re	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 
 # sent_id = 2530
@@ -26157,7 +26157,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	demnigid	deimnigidir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 3	appollonius	_	X	_	Foreign=Yes	_	_	_	_
-4	rongab	gaibid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
+4	rongab	gaibid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
 5	a	a	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 6	ndede	déde	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 7	se	so	PART	_	PronType=Dem	_	_	_	_
@@ -26361,7 +26361,7 @@
 # translation = i.e. as for example now the verbal group of the second person in -as
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	amal	amal	SCONJ	_	_	_	_	_	_
-3	rongab	gaibid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
+3	rongab	gaibid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
 4	ind	in	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 5	os	foss	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 6	sa	so	PART	_	PronType=Dem	_	_	_	_
@@ -26905,7 +26905,7 @@
 1	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 2	immaircide	immaircide	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 3	ce	cía	SCONJ	_	_	_	_	_	_
-4	rubé	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
+4	rubé	attá	VERB	_	Mood=Sub|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
 5	subiunctivus	_	X	_	Foreign=Yes	_	_	_	_
 6	pro	_	X	_	Foreign=Yes	_	_	_	_
 7	imperativo	_	X	_	Foreign=Yes	_	_	_	_
@@ -26941,7 +26941,7 @@
 # reference = 163b8
 # text = robói do in sin
 # translation = that it (volo) had
-1	robói	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+1	robói	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 2	do	do	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 3	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 4	sin	sin	PART	_	PronType=Dem	_	_	_	_
@@ -27291,10 +27291,10 @@
 # text = acht rop ré forciunn robbe da ⁊ nip he som bes ḟorcenn is timmorte acht asringba oin syllaib
 # translation = provided the da- (of dare, datus) be before the end, and it be not the end, it is shortened, provided it exceeds one syllable
 1	acht	acht	SCONJ	_	_	_	_	_	_
-2	rop	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
+2	rop	is	AUX	_	Mood=Sub|Number=Sing|PartType=Aug|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 3	ré	re	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 4	forciunn	forcenn	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-5	robbe	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
+5	robbe	attá	VERB	_	Mood=Sub|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
 6	da	_	X	_	Foreign=Yes	_	_	_	_
 7	⁊	ocus	CCONJ	_	_	_	_	_	_
 8	nip	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
@@ -27305,7 +27305,7 @@
 13	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 14	timmorte	timortae	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 15	acht	acht	SCONJ	_	_	_	_	_	_
-16	asringba	asingaib	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
+16	asringba	asingaib	VERB	_	Mood=Sub|Number=Sing|PartType=Aug|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 17	oin	oin	NUM	_	_	_	_	_	_
 18	syllaib	sillab	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 
@@ -27315,7 +27315,7 @@
 # translation = that there may not be doubt (as to the meaning of mictum)
 1	ar	ara	SCONJ	_	_	_	_	_	_
 2	na	ná	SCONJ	_	Polarity=Neg	_	_	_	_
-3	roib	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
+3	roib	attá	VERB	_	Mood=Sub|Number=Sing|PartType=Aug|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 4	dubita-tio	_	X	_	Foreign=Yes	_	_	_	_
 
 # sent_id = 2630
@@ -27429,7 +27429,7 @@
 2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 3	ind	i	ADP	_	AdpType=Prep|Case=Dat|Definite=Def|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 4	ranngabail	ranngabál	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-5	adrodarcar	adcí	VERB	_	Mood=Pot|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Pass	_	_	_	_
+5	adrodarcar	adcí	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Pres|Voice=Pass	_	_	_	_
 6	a	a	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 7	ndéde	déde	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 8	sin	sin	PART	_	PronType=Dem	_	_	_	_
@@ -27478,7 +27478,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	fo	fo	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 3	bíth	bíth	SCONJ	_	_	_	_	_	_
-4	rongab	gaibid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
+4	rongab	gaibid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
 5	torsum	_	X	_	Foreign=Yes	_	_	_	_
 6	⁊	ocus	CCONJ	_	_	_	_	_	_
 7	tortum	_	X	_	Foreign=Yes	_	_	_	_
@@ -27622,13 +27622,13 @@
 5	hí	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	constantinopoil	constantinopol	PROPN	_	Case=Dat|Number=Sing	_	_	_	_
 7	ar	ar	SCONJ	_	_	_	_	_	_
-8	rohucad	beirid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	_	_	_	_
+8	rohucad	beirid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Pass	_	_	_	_
 9	airechas	airechas	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 10	inna	in	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 11	rómae	róm	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 12	co	co	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 13	constantinopoil	constantinopol	PROPN	_	Case=Acc|Number=Sing	_	_	_	_
-14	rucad	beirid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+14	rucad	beirid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 15	dano	dano	ADV	_	_	_	_	_	_
 16	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 17	ainmm	ainm	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -27678,7 +27678,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 3	ngair	gair	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-4	robói	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+4	robói	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 5	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	ruitus	_	X	_	Foreign=Yes	_	_	_	_
 7	fortchomi	forcomai	VERB	_	Mood=Ind|Number=Sing|Person=3|PronClass=B|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs|Tense=Pres|Voice=Act	_	_	_	_
@@ -27767,7 +27767,7 @@
 # text = .i. roseircset .i. nis fil hodie
 # translation = i.e. they have become obsolete, i.e. they are not today
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	roseircset	seircid	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	_	_	_	_
+2	roseircset	seircid	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 3	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 4	nis	ní	PART	_	Polarity=Neg|PronClass=A|PronNum=Plur|PronPers=3|PronType=Prs	_	_	_	_
 5	fil	attá	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
@@ -27997,7 +27997,7 @@
 # text = .i. adrogegon sa
 # translation = i.e. I have wounded again
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	adrogegon	adgoin	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Act	_	_	_	_
+2	adrogegon	adgoin	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=1|Tense=Past|Voice=Act	_	_	_	_
 3	sa	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	_	_	_	_
 
 # sent_id = 2695
@@ -28058,7 +28058,7 @@
 # text = .i. adrothoirndius non repugi
 # translation = i.e. I have pricked again
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	adrothoirndius	adtóirndea	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Act	_	_	_	_
+2	adrothoirndius	adtóirndea	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=1|Tense=Past|Voice=Act	_	_	_	_
 3	non	_	X	_	Foreign=Yes	_	_	_	_
 4	repugi	_	X	_	Foreign=Yes	_	_	_	_
 
@@ -28287,7 +28287,7 @@
 # reference = 184a2
 # text = dorrochuirestar
 # translation = he has invited
-1	dorrochuirestar	docuirethar	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+1	dorrochuirestar	docuirethar	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 
 # sent_id = 2719
 # reference = 184b1
@@ -28438,7 +28438,7 @@
 2	IIIae	_	X	_	Foreign=Yes	_	_	_	_
 3	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 4	acht	acht	SCONJ	_	_	_	_	_	_
-5	asringba	asingaib	VERB	_	Mood=Cnd,Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
+5	asringba	asingaib	VERB	_	Mood=Sub|Number=Sing|PartType=Aug|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 6	désyllábchi	déṡillabche	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 7	ma	má	SCONJ	_	_	_	_	_	_
 8	thechtaid	techtaid	VERB	_	Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
@@ -28587,7 +28587,7 @@
 # translation = i.e. so that they made of it a serparate part
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	co	co	SCONJ	_	_	_	_	_	_
-3	ndergensat	dogní	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	_	_	_	_
+3	ndergensat	dogní	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 4	rainn	rann	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 5	fo	fo	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	leith	leth	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
@@ -28600,7 +28600,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	participia	_	X	_	Foreign=Yes	_	_	_	_
 3	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-4	ataruirmiset	adrími	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|PronClass=B|PronNum=Plur|PronPers=3|PronType=Prs|Tense=Past|Voice=Act	_	_	_	_
+4	ataruirmiset	adrími	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|PartType=Aug|Person=3|PronClass=B|PronNum=Plur|PronPers=3|PronType=Prs|Tense=Past|Voice=Act	_	_	_	_
 5	la	la	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	gerind	gerind	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 
@@ -28849,7 +28849,7 @@
 # translation = i.e. before it was connected with the derivative
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	resiu	resíu	SCONJ	_	_	_	_	_	_
-3	adrochomolta	adcomla	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Pass	_	_	_	_
+3	adrochomolta	adcomla	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Pass	_	_	_	_
 4	frisa	fri	ADP	_	AdpType=Prep|Case=Acc|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 5	ndíruidigthe	díṡruthigthe	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	_	_	_	_
 
@@ -29051,7 +29051,7 @@
 2	amal	amal	SCONJ	_	_	_	_	_	_
 3	inna	a	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Art	_	_	_	_
 4	anman	ainm	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
-5	asrubartmar	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+5	asrubartmar	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 6	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 7	annus	_	X	_	Foreign=Yes	_	_	_	_
 8	reliqua	_	X	_	Foreign=Yes	_	_	_	_
@@ -29305,7 +29305,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	huare	óre	SCONJ	_	_	_	_	_	_
 3	nád	ná	PART	_	Polarity=Neg|PronType=Rel	_	_	_	_
-4	roṡluinter	sluindid	VERB	_	Mood=Sub|Number=Plur|Person=3|PronType=Rel|Tense=Pres|Voice=Pass	_	_	_	_
+4	roṡluinter	sluindid	VERB	_	Mood=Sub|Number=Plur|PartType=Aug|Person=3|PronType=Rel|Tense=Pres|Voice=Pass	_	_	_	_
 5	tri	tre	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	brethir	bríathar	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 7	in	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
@@ -29313,7 +29313,7 @@
 9	sluindte	sluindid	VERB	_	Mood=Ind|Number=Plur|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
 10	tuisil	tuisel	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 11	nominis	_	X	_	Foreign=Yes	_	_	_	_
-12	rosluinter	sluindid	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
+12	rosluinter	sluindid	VERB	_	Mood=Sub|Number=Plur|PartType=Aug|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
 13	immurgu	immurgu	SCONJ	_	_	_	_	_	_
 14	tre	tre	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 15	rangabáil	ranngabál	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
@@ -29540,7 +29540,7 @@
 # text = .i. atrobair cach cenel
 # translation = i.e. every gender can say it (of itself, scil. amo, moneo, etc.)
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	atrobair	asbeir	VERB	_	Mood=Pot,Sub|Number=Sing|Person=3|PronClass=B|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs|Tense=Pres|Voice=Act	_	_	_	_
+2	atrobair	asbeir	VERB	_	Mood=Sub|Number=Sing|PartType=Aug|Person=3|PronClass=B|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs|Tense=Pres|Voice=Act	_	_	_	_
 3	cach	cach	PRON	_	PronType=Ind	_	_	_	_
 4	cenel	cenél	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
@@ -29567,7 +29567,7 @@
 # translation = i.e. as they are in the optative
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	amal	amal	SCONJ	_	_	_	_	_	_
-3	rondgabsat	gaibid	VERB	_	Aspect=Perf|Mood=Cnd|Number=Plur|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs|Tense=Past|Voice=Act	_	_	_	_
+3	rondgabsat	gaibid	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|PartType=Aug|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs|Tense=Past|Voice=Act	_	_	_	_
 4	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 5	noptit	optait	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
@@ -29796,7 +29796,7 @@
 # text = a rrocar
 # translation = when he has loved
 1	a	a	SCONJ	_	_	_	_	_	_
-2	rrocar	caraid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+2	rrocar	caraid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 
 # sent_id = 2838
 # reference = 193b2
@@ -30050,7 +30050,7 @@
 # translation = This page has not been written very slowly
 1	ní	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
 2	áermall	ér-mall	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
-3	roscríbad	scríbaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
+3	roscríbad	scríbaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
 4	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 5	letráim	letraim	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	so	so	PART	_	PronType=Dem	_	_	_	_
@@ -30132,7 +30132,7 @@
 # text = a rrocar
 # translation = when he has loved
 1	a	a	SCONJ	_	_	_	_	_	_
-2	rrocar	caraid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+2	rrocar	caraid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 
 # sent_id = 2867
 # reference = 196b4
@@ -30176,7 +30176,7 @@
 # text = a ndorórpai
 # translation = when he came
 1	a	a	SCONJ	_	_	_	_	_	_
-2	ndorórpai	doforban	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+2	ndorórpai	doforban	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 
 # sent_id = 2872
 # reference = 196b9
@@ -30312,7 +30312,7 @@
 3	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 4	di	de	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 5	a	a	PART	_	PronType=Rel	_	_	_	_
-6	robae	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+6	robae	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 7	aisdís	aisndís	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 8	riam	re	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 
@@ -30464,7 +30464,7 @@
 # text = ro rocinnius
 # translation = I defined
 1	ro	_	X	_	Foreign=Yes	_	_	_	_
-2	rocinnius	cinnid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|Voice=Act	_	_	_	_
+2	rocinnius	cinnid	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=1|Tense=Past|Voice=Act	_	_	_	_
 
 # sent_id = 2889
 # reference = 197a19
@@ -30472,7 +30472,7 @@
 # translation = who it is that has written
 1	ce	cía	PRON	_	PronType=Int	_	_	_	_
 2	hé	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
-3	roscríb	scríbaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+3	roscríb	scríbaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 
 # sent_id = 2890
 # reference = 197a20
@@ -30667,7 +30667,7 @@
 3	í	í	PART	_	PartType=Dct	_	_	_	_
 4	di	de	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 5	a	a	PART	_	PronType=Dem,Rel	_	_	_	_
-6	robe	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+6	robe	attá	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 7	briathar	bríathar	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 8	linn	la	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 9	riam	re	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -30697,7 +30697,7 @@
 4	forathmet	foraithmet	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 5	inna	in	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 6	persine	persan	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-7	immeroraid	immrádi	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+7	immeroraid	immrádi	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 8	riam	re	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 
 # sent_id = 2907
@@ -30707,7 +30707,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	int	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 3	í	í	PART	_	PartType=Dct	_	_	_	_
-4	adrubartmar	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|PronClass=C|PronGend=Masc|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
+4	adrubartmar	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|PartType=Aug|Person=1|PronClass=C|PronGend=Masc|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
 
 # sent_id = 2908
 # reference = 197b17
@@ -30970,12 +30970,12 @@
 # translation = i.e. because a wife can say meus filius and a husband can say mea filia as to possessor
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	úare	óre	SCONJ	_	_	_	_	_	_
-3	asrobair	asbeir	VERB	_	Mood=Pot|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
+3	asrobair	asbeir	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
 4	mulier	_	X	_	Foreign=Yes	_	_	_	_
 5	meus	_	X	_	Foreign=Yes	_	_	_	_
 6	filius	_	X	_	Foreign=Yes	_	_	_	_
 7	⁊	ocus	CCONJ	_	_	_	_	_	_
-8	asrobair	asbeir	VERB	_	Mood=Pot|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
+8	asrobair	asbeir	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
 9	vir	_	X	_	Foreign=Yes	_	_	_	_
 10	mea	_	X	_	Foreign=Yes	_	_	_	_
 11	filia	_	X	_	Foreign=Yes	_	_	_	_
@@ -31296,22 +31296,22 @@
 2	gnim	gním	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 4	neuch	nech	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Ind	_	_	_	_
-5	forrochongart	forcongair	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+5	forrochongart	forcongair	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 6	cesad	césad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 7	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 8	neuch	nech	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Ind	_	_	_	_
-9	forrorcongrad	forcongair	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+9	forrorcongrad	forcongair	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 10	gním	gnim	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 11	iarum	íar	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 12	dond	do	ADP	_	AdpType=Prep|Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 13	í	í	PART	_	PartType=Dct	_	_	_	_
-14	dodechuid	dotét	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+14	dodechuid	dotét	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 15	cesad	césad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 16	dond	do	ADP	_	AdpType=Prep|Case=Dat|Definite=Def|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 17	í	í	PART	_	PartType=Dct	_	_	_	_
 18	co	co	SCONJ	_	_	_	_	_	_
 19	sa	a	PART	_	PronType=Rel	_	_	_	_
-20	tuidches	dotét	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
+20	tuidches	dotét	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
 
 # sent_id = 2950
 # reference = 199b2
@@ -31693,7 +31693,7 @@
 5	í	í	PART	_	PartType=Dct	_	_	_	_
 6	as	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
 7	infimatis	_	X	_	Foreign=Yes	_	_	_	_
-8	rombói	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+8	rombói	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 9	apud	_	X	_	Foreign=Yes	_	_	_	_
 10	veteres	_	X	_	Foreign=Yes	_	_	_	_
 11	tar	tar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -32102,7 +32102,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	isticce	_	X	_	Foreign=Yes	_	_	_	_
 3	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-4	foroxlad	focoislea	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	_	_	_	_
+4	foroxlad	focoislea	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Pass	_	_	_	_
 5	e	_	X	_	Foreign=Yes	_	_	_	_
 6	as	a	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 
@@ -32347,7 +32347,7 @@
 3	mmé	mé	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
 4	m	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
 5	oínur	óinar	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-6	aridrochell	arcela	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
+6	aridrochell	arcela	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=1|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
 7	ar	ar	SCONJ	_	_	_	_	_	_
 8	mad	má	SCONJ	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 9	ego	_	X	_	Foreign=Yes	_	_	_	_
@@ -32545,7 +32545,7 @@
 # translation = that we might not make cum nobis: for if we made cum me, we should then make cum nobis
 1	ar	ar	SCONJ	_	_	_	_	_	_
 2	na	ná	PART	_	Polarity=Neg|PronType=Rel	_	_	_	_
-3	derṅmis	dogní	VERB	_	Aspect=Imp|Mood=Sub|Number=Plur|Person=1|Tense=Past|Voice=Act	_	_	_	_
+3	derṅmis	dogní	VERB	_	Aspect=Imp|Mood=Sub|Number=Plur|PartType=Aug|Person=1|Tense=Past|Voice=Act	_	_	_	_
 4	cum	_	X	_	Foreign=Yes	_	_	_	_
 5	nobis	_	X	_	Foreign=Yes	_	_	_	_
 6	air	ar	SCONJ	_	_	_	_	_	_
@@ -32875,10 +32875,10 @@
 2	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 3	foirciunn	forcenn	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 4	indib	i	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs	_	_	_	_
-5	robu	is	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	_	_	_	_
+5	robu	is	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	_	_	_	_
 6	samlid	amal	ADV	_	_	_	_	_	_
 7	dano	dano	ADV	_	_	_	_	_	_
-8	robói	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+8	robói	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 9	modi	_	X	_	Foreign=Yes	_	_	_	_
 10	eius	_	X	_	Foreign=Yes	_	_	_	_
 11	huius	_	X	_	Foreign=Yes	_	_	_	_
@@ -32929,13 +32929,13 @@
 7	compositione	_	X	_	Foreign=Yes	_	_	_	_
 8	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 9	con	co	SCONJ	_	_	_	_	_	_
-10	rop	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
+10	rop	is	AUX	_	Mood=Sub|Number=Sing|PartType=Aug|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 11	samlid	amal	ADV	_	_	_	_	_	_
 12	beit	attá	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 13	in	_	X	_	Foreign=Yes	_	_	_	_
 14	compositione	_	X	_	Foreign=Yes	_	_	_	_
 15	amal	amal	SCONJ	_	_	_	_	_	_
-16	rombatar	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	_	_	_	_
+16	rombatar	attá	VERB	_	Mood=Ind|Number=Plur|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 17	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 18	comaisṅdís	comaisndís	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 19	quos	_	X	_	Foreign=Yes	_	_	_	_
@@ -33018,7 +33018,7 @@
 12	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 13	arin	ar	ADP	_	AdpType=Prep|Case=Dat|Definite=Def|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 14	scribund	scríbend	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-15	roscribad	scríbaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
+15	roscribad	scríbaid	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
 16	in	in	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 17	dul	dul	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 18	so	so	PART	_	PronType=Dem	_	_	_	_
@@ -33276,7 +33276,7 @@
 # translation = i.e. because the Greeks had the form, as he said before
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	huare	óre	SCONJ	_	_	_	_	_	_
-3	rombói	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+3	rombói	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 4	la	la	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 5	grecu	gréc	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
 6	a	a	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
@@ -33340,12 +33340,12 @@
 4	ui	_	X	_	Foreign=Yes	_	_	_	_
 5	in	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-7	conroscaiged	conoscaigi	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
+7	conroscaiged	conoscaigi	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
 8	and	i	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 9	tantum	_	X	_	Foreign=Yes	_	_	_	_
 10	⁊	ocus	CCONJ	_	_	_	_	_	_
 11	ní	ní	PART	_	Polarity=Neg	_	_	_	_
-12	comarscaiged	conoscaigi	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	_	_	_	_
+12	comarscaiged	conoscaigi	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Pass	_	_	_	_
 13	dasien	dasian	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 3109
@@ -33417,7 +33417,7 @@
 # text = .i. robói do ainmnid ⁊ do genitin apud vetustissimos
 # translation = i.e. it stood for a nominative and for a genitive with the anients
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	robói	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+2	robói	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 3	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 4	ainmnid	ainmmnid	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 5	⁊	ocus	CCONJ	_	_	_	_	_	_
@@ -34201,7 +34201,7 @@
 # translation = who has most followed antiquity
 1	as	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
 2	maam	már	ADJ	_	Degree=Sup	_	_	_	_
-3	roṡechestar	sechithir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+3	roṡechestar	sechithir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 4	arsidetaid	arsidetu	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 
 # sent_id = 3171
@@ -34252,7 +34252,7 @@
 # translation = i.e. that cannot be in the nominative
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	ní	ní	PART	_	Polarity=Neg	_	_	_	_
-3	rubai	attá	VERB	_	Aspect=Hab|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
+3	rubai	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 4	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 5	ni	í	PART	_	PartType=Dct	_	_	_	_
 6	sin	sin	PART	_	PronType=Dem	_	_	_	_
@@ -34282,7 +34282,7 @@
 # text = .i. rothechtsat som hí fius ⁊ heulus
 # translation = i.e. which they (the Latins) had in knowledge and guidance
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	rothechtsat	techtaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+2	rothechtsat	techtaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 3	som	som	PRON	_	Number=Plur|Person=3|PronType=Emp	_	_	_	_
 4	hí	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 5	fius	fis	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
@@ -34417,7 +34417,7 @@
 10	prescien	prescien	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 11	iss	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 12	ed	ed	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
-13	dorigéni	dogní	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+13	dorigéni	dogní	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 14	pronomen	_	X	_	Foreign=Yes	_	_	_	_
 15	ṅatárcadach	atárcadach	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 16	di	de	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -34671,9 +34671,9 @@
 2	darem	_	X	_	Foreign=Yes	_	_	_	_
 3	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 4	co	co	SCONJ	_	_	_	_	_	_
-5	ndartin	dobeir	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Past	_	_	_	_
+5	ndartin	dobeir	VERB	_	Mood=Sub|Number=Sing|PartType=Aug|Person=1|Tense=Past	_	_	_	_
 6	do	do	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
-7	arrogáid	arguid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past	_	_	_	_
+7	arrogáid	arguid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past	_	_	_	_
 8	dom	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=1|PronType=Prs	_	_	_	_
 9	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 10	sí	sí	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -34847,7 +34847,7 @@
 37	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 38	mug	mug	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 39	co	co	SCONJ	_	_	_	_	_	_
-40	náerbara	asbeir	VERB	_	Mood=Sub|Number=Sing|Person=2|Tense=Pres|Voice=Act	_	_	_	_
+40	náerbara	asbeir	VERB	_	Mood=Sub|Number=Sing|PartType=Aug|Person=2|Tense=Pres|Voice=Act	_	_	_	_
 41	mei	_	X	_	Foreign=Yes	_	_	_	_
 42	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 43	doadbadar	doadbat	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
@@ -35055,7 +35055,7 @@
 # translation = i.e. as they have erred in quis
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	feib	feb	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-3	conrerortatar	conerairg	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|Voice=Act	_	_	_	_
+3	conrerortatar	conerairg	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 4	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 5	ind	a	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 6	í	í	PART	_	PartType=Dct	_	_	_	_
@@ -35214,13 +35214,13 @@
 6	foilsigther	foilsigidir	VERB	_	Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Pass	_	_	_	_
 7	ind	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 8	inne	inne	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-9	robói	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+9	robói	attá	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 10	hipyrr	_	X	_	Foreign=Yes	_	_	_	_
 11	acht	acht	SCONJ	_	_	_	_	_	_
 12	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 13	écen	éicen	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 14	co	co	SCONJ	_	_	_	_	_	_
-15	nṅdárbastar	doadbat	VERB	_	Mood=Sub|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Pass	_	_	_	_
+15	nṅdárbastar	doadbat	VERB	_	Mood=Sub|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Pres|Voice=Pass	_	_	_	_
 16	inne	inne	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 17	ind	a	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 18	í	í	PART	_	PartType=Dct	_	_	_	_
@@ -35916,7 +35916,7 @@
 3	airi	ar	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 4	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 5	sin	sin	PART	_	PronType=Dem	_	_	_	_
-6	darigensat	dogní	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|PronClass=A|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
+6	darigensat	dogní	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|PartType=Aug|Person=3|PronClass=A|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
 
 # sent_id = 3294
 # reference = 213a2
@@ -36260,7 +36260,7 @@
 # translation = i.e. as there is a striving towards a place in adverbs, so there is in prepositions, as in etc.
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	Amal	amal	SCONJ	_	_	_	_	_	_
-3	rondgab	gaibid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
+3	rondgab	gaibid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
 4	saichdetu	saichdetu	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	dochum	dochum	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	luic	loc	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
@@ -36528,7 +36528,7 @@
 # translation = i.e. nouns which have been made of adverbs
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	anmman	ainm	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
-3	dorónta	dogní	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
+3	dorónta	dogní	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
 4	de	de	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 5	dobriathraib	dobríathar	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
 
@@ -36671,7 +36671,7 @@
 5	bís	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
 6	indib	i	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 7	amal	amal	SCONJ	_	_	_	_	_	_
-8	rondgab	gaibid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
+8	rondgab	gaibid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
 9	proximitas	_	X	_	Foreign=Yes	_	_	_	_
 10	in	_	X	_	Foreign=Yes	_	_	_	_
 11	ad	_	X	_	Foreign=Yes	_	_	_	_
@@ -36707,7 +36707,7 @@
 1	cia	cía	PRON	_	PronType=Int	_	_	_	_
 2	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 3	neoch	nech	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Ind	_	_	_	_
-4	dorrignis	dogní	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
+4	dorrignis	dogní	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=2|PronType=Rel|Tense=Past|Voice=Act	_	_	_	_
 
 # sent_id = 3364
 # reference = 217a6
@@ -36907,7 +36907,7 @@
 2	echta	echtar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 3	recht	recht	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 4	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-5	docoid	téit	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+5	docoid	téit	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 6	tar	tar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 7	recht	recht	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 8	ṅaicnid	aicned	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
@@ -36981,7 +36981,7 @@
 # translation = i.e. though I have said that cum is not usual in composition, but con is in place of it
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	ci	cía	SCONJ	_	_	_	_	_	_
-3	asidruburt	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs|Tense=Past|Voice=Act	_	_	_	_
+3	asidruburt	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=1|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs|Tense=Past|Voice=Act	_	_	_	_
 4	nand	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
 5	gnáth	gnáth	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
 6	cum	_	X	_	Foreign=Yes	_	_	_	_
@@ -37212,13 +37212,13 @@
 7	sain	sain	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 8	ind	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 9	í	í	PART	_	PartType=Dct	_	_	_	_
-10	asidrubart	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
+10	asidrubart	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronClass=C|PronGend=Neut|PronNum=Sing|PronPers=3|PronType=Prs,Rel|Tense=Past|Voice=Act	_	_	_	_
 11	⁊	ocus	CCONJ	_	_	_	_	_	_
 12	ind	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 13	í	í	PART	_	PartType=Dct	_	_	_	_
 14	fri	fri	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 15	sa	a	PART	_	PronType=Rel	_	_	_	_
-16	nérbrath	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
+16	nérbrath	asbeir	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronType=Rel|Tense=Past|Voice=Pass	_	_	_	_
 
 # sent_id = 3417
 # reference = 220b1
@@ -37685,7 +37685,7 @@
 15	mail	mael	PROPN	_	Case=Voc|Number=Sing	_	_	_	_
 16	bachal	bachall	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
 17	rot	_	X	_	Foreign=Yes	_	_	_	_
-18	rotgiuil	glenaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|PronClass=A|PronNum=Sing|PronPers=2|PronType=Prs|Tense=Past|Voice=Act	_	_	_	_
+18	rotgiuil	glenaid	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|PartType=Aug|Person=3|PronClass=A|PronNum=Sing|PronPers=2|PronType=Prs|Tense=Past|Voice=Act	_	_	_	_
 19	ind	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 20	ṡrathar	srathar	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 21	dodcaid	dodcad	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
