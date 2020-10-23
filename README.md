@@ -48,12 +48,12 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
 Data available since: UD v2.7
 License: CC BY-NC-SA 4.0
 Includes text: yes
-Genre: grammar-examples nonfiction poetry
+Genre: academic grammar-examples nonfiction poetry
 Lemmas: converted with corrections
 UPOS: converted with corrections
-XPOS: none
+XPOS: not available
 Features: manual native
-Relations: incomplete
+Relations: manual native
 Contributors: Doyle, Adrian
 Contributing: elsewhere
 Contact: a.doyle35@nuigalway.ie
