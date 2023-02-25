@@ -76,3 +76,40 @@
 7	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	SpaceAfter=No
 8	doidṅgi	doidnge	NOUN	_	Case=Acc|Number=Sing	4	nmod	_	_
 
+# sent_id = 7
+# reference = 1b1
+# scribe = Main Glossator
+# text = .i. ci insamlar
+# translation = i.e. if I imitate
+1	.i.	.i.	ADV	_	Abbr=Yes	4	advmod	_	_
+2	ci	cía	SCONJ	_	_	4	mark	_	_
+3	in	in	PART	_	PartType=Vb	4	compound:prt	_	SpaceAfter=No
+4	samlar	insamlathar	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	_
+
+# sent_id = 8
+# reference = 1b2
+# scribe = Main Glossator
+# text = aite
+# translation = a tutor
+1	aite	aite	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+
+# sent_id = 9
+# reference = 2a1
+# scribe = Main Glossator
+# text = innaflaithemnachtæ
+# translation = of the rule
+1	inna	in	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Art	2	det	_	SpaceAfter=No
+2	flaithemnachtæ	flaithemnacht	NOUN	_	Case=Gen|Number=Sing	0	root	_	_
+
+# sent_id = 10
+# reference = 2a2
+# scribe = Main Glossator
+# text = hicach ceniul fis ⁊ ecni
+# translation = in every kind of knowledge and wisdom
+1	hi	i	ADP	_	AdpType=Prep|Definite=Ind	3	case	_	SpaceAfter=No
+2	cach	cach	DET	_	Case=Dat|Definite=Def|Number=Sing	3	det	_	_
+3	ceniul	cenél	NOUN	_	Case=Dat|Number=Sing	0	root	_	_
+4	fis	fis	NOUN	_	Case=Gen|Number=Sing	3	nmod	_	_
+5	⁊	ocus	CCONJ	_	_	6	cc	_	_
+6	ecni	ecne	NOUN	_	Case=Gen|Number=Sing	4	conj	_	_
+
