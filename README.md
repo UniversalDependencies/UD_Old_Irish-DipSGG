@@ -45,7 +45,7 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.7
+Data available since: UD v2.12
 License: CC BY-NC-SA 4.0
 Includes text: yes
 Genre: academic grammar-examples nonfiction poetry

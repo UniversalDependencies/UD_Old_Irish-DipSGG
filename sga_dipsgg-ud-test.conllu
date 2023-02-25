@@ -23,7 +23,7 @@
 10	co	co	SCONJ	_	_	11	mark	_	_
 11	seichetar	sechithir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	3	ccomp	_	_
 12	ci	cía	SCONJ	_	_	15	mark	_	_
-13	d	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	15	aux:pass	_	_
+13	d	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	15	cop	_	_
 14	a	a	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	15	nmod:poss	_	_
 15	comroicniu	comrorcun	NOUN	_	Case=Acc|Number=Plur	11	obj	_	_
 
@@ -35,4 +35,30 @@
 1	in	in	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	méit	méit	NOUN	_	Case=Dat|Number=Sing	0	root	_	_
 3	so	so	PART	_	PronType=Dem	2	amod	_	_
+
+# sent_id = 4
+# reference = 1a4
+# scribe = Main Glossator
+# text = is sí tra in dias sa rosechestar som
+# translation = it is this couple, then, that he has followed
+1	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	2	cop	_	_
+2	sí	sí	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	root	_	_
+3	tra	trá	ADV	_	_	2	advmod	_	_
+4	in	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	dias	días	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
+6	sa	so	PART	_	PronType=Dem	5	amod	_	_
+7	rosechestar	sechithir	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	5	acl:relcl	_	_
+8	som	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	7	obl:agent	_	_
+
+# sent_id = 5
+# reference = 1a5
+# scribe = Main Glossator
+# text = .i. i ndead inna ní sin
+# translation = i.e. after them
+1	.i.	.i.	ADV	_	Abbr=Yes	3	advmod	_	_
+2	i	i	ADP	_	AdpType=Prep|Definite=Ind	3	case	_	_
+3	ndead	dead	NOUN	_	Case=Acc|Number=Sing	0	root	_	_
+4	inna	in	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	ní	í	PART	_	PartType=Dct	3	nmod	_	_
+6	sin	sin	PART	_	PronType=Dem	5	amod	_	_
 
