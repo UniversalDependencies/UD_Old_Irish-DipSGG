@@ -116,10 +116,10 @@
 # sent_id = 11
 # reference = 2a3
 # scribe = Main Glossator
-# text = .i. inḍtairdircus
+# text = .i. inḍtairdircus
 # translation = i.e. the clarity
 1	.i.	.i.	ADV	_	Abbr=Yes	3	advmod	_	_
-2	inḍt	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art|Typo=Yes	3	det	_	SpaceAfter=No
+2	inḍt	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art|Typo=Yes	3	det	_	SpaceAfter=No
 3	airdircus	airdircus	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 
 # sent_id = 12
