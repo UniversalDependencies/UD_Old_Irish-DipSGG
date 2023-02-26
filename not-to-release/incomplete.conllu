@@ -1,43 +1,3 @@
-# sent_id = 11
-# reference = 2a3
-# scribe = Main Glossator
-# text = .i. int airdircus
-# translation = i.e. the conspicuousness
-1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	int	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
-3	airdircus	airdircus	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-
-# sent_id = 12
-# reference = 2a4
-# scribe = Main Glossator
-# text = .i. in dias sin
-# translation = i.e. that pair
-1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	in	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
-3	dias	días	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-4	sin	sin	PART	_	PronType=Dem	_	_	_	_
-
-# sent_id = 13
-# reference = 2a5
-# scribe = Main Glossator
-# text = .i. tris fer friu
-# translation = i.e. the third man (joined) to them
-1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	tris	tress	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
-3	fer	fer	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-4	friu	fri	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs	_	_	_	_
-
-# sent_id = 14
-# reference = 2a6
-# scribe = Main Glossator
-# text = .i. amal bid do dia
-# translation = i.e. as if it were to God
-1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	amal	amal	SCONJ	_	_	_	_	_	_
-3	bid	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	_	_	_	_
-4	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-5	dia	día	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-
 # sent_id = 15
 # reference = 2a7
 # scribe = Main Glossator
@@ -132,7 +92,7 @@
 4	ṁbís	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 5	etar	eter	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	ṅ	in	DET	_	Case=Acc|Gender=Fem|Number=Dual|PronType=Art	_	_	_	_
-7	di	dá	NUM	_	_	_	_	_	_
+7	di	dá	NUM	_	NumType=Card	_	_	_	_
 8	rainn	rann	NOUN	_	Case=Acc|Number=Dual	_	_	_	_
 9	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 10	comṡuidiguth	comṡuidigud	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
@@ -394,7 +354,7 @@
 # text = cach di dúil reliqua
 # translation = every two elements (two by two), etc.
 1	cach	cach	DET	_	Case=Nom|Definite=Def|Number=Dual	_	_	_	_
-2	di	dá	NUM	_	_	_	_	_	_
+2	di	dá	NUM	_	NumType=Card	_	_	_	_
 3	dúil	dúil	NOUN	_	Case=Nom|Number=Dual	_	_	_	_
 4	reliqua	_	X	_	Foreign=Yes	_	_	_	_
 
@@ -543,13 +503,13 @@
 10	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 11	ma	má	SCONJ	_	_	_	_	_	_
 12	d	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-13	óen	oín	NUM	_	_	_	_	_	_
+13	óen	oín	NUM	_	NumType=Card	_	_	_	_
 14	flesc	flesc	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 15	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 16	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 17	ma	má	SCONJ	_	_	_	_	_	_
 18	d	is	AUX	_	Mood=Sub|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-19	di	dá	NUM	_	_	_	_	_	_
+19	di	dá	NUM	_	NumType=Card	_	_	_	_
 20	ḟlisc	flesc	NOUN	_	Case=Nom|Number=Dual	_	_	_	_
 21	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 22	n	_	X	_	Foreign=Yes	_	_	_	_
@@ -740,9 +700,9 @@
 # scribe = Main Glossator
 # text = cóic deich cóica
 # translation = five tens, fifty
-1	cóic	cóic	NUM	_	_	_	_	_	_
-2	deich	deich	NUM	_	_	_	_	_	_
-3	cóica	cóica	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+1	cóic	cóic	NUM	_	NumType=Card	_	_	_	_
+2	deich	deich	NUM	_	NumType=Card	_	_	_	_
+3	cóica	cóica	NUM	_	NumType=Card	_	_	_	_
 
 # sent_id = 69
 # reference = 4a6
@@ -1111,7 +1071,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 3	bindius	bindius	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-4	tánaise	tánaise	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+4	tánaise	tánaise	NUM	_	NumType=Ord	_	_	_	_
 5	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	ndegaid	degaid	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 7	ṅguttae	guttae	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
@@ -1231,7 +1191,7 @@
 10	nád	ná	PART	_	Polarity=Neg|PronType=Rel	_	_	_	_
 11	techtat	techtaid	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 12	acht	acht	SCONJ	_	_	_	_	_	_
-13	oin	oín	NUM	_	_	_	_	_	_
+13	oin	oín	NUM	_	NumType=Card	_	_	_	_
 14	aimsir	aimser	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 15	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 16	follus	follus	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
@@ -1453,7 +1413,7 @@
 1	comocus	comocus	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
 2	a	a	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 3	fogur	fogur	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-4	díb	dá	NUM	_	_	_	_	_	_
+4	díb	dá	NUM	_	NumType=Card	_	_	_	_
 5	línaib	lín	NOUN	_	Case=Dat|Number=Dual	_	_	_	_
 
 # sent_id = 121
@@ -1684,7 +1644,7 @@
 # text = ind óen foguir ní fail dechor com ḟogair indib
 # translation = of the one sound: there is no difference of consonance in them
 1	ind	in	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
-2	óen	oín	NUM	_	_	_	_	_	_
+2	óen	oín	NUM	_	NumType=Card	_	_	_	_
 3	foguir	fogur	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 4	ní	ní	PART	_	Polarity=Neg	_	_	_	_
 5	fail	attá	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
@@ -2015,12 +1975,12 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	ni	ní	PART	_	Polarity=Neg	_	_	_	_
 3	bía	attá	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	_	_	_	_
-4	di	dá	NUM	_	_	_	_	_	_
+4	di	dá	NUM	_	NumType=Card	_	_	_	_
 5	mútaib	mút	NOUN	_	Case=Dat|Number=Dual	_	_	_	_
 6	bes	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
 7	huilliu	oll	ADJ	_	Degree=Cmp	_	_	_	_
 8	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-9	noen	oín	NUM	_	_	_	_	_	_
+9	noen	oín	NUM	_	NumType=Card	_	_	_	_
 10	sillaib	sillab	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
 # sent_id = 167
@@ -2036,7 +1996,7 @@
 # text = i nóen ṡosuth ṡillabe
 # translation = in one position of a syllable
 1	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-2	nóen	oín	NUM	_	_	_	_	_	_
+2	nóen	oín	NUM	_	NumType=Card	_	_	_	_
 3	ṡosuth	sosad	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 4	ṡillabe	sillab	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 
@@ -2163,7 +2123,7 @@
 # translation = i.e. in the same syllable is it and the vowel after it
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-3	nóen	oín	NUM	_	_	_	_	_	_
+3	nóen	oín	NUM	_	NumType=Card	_	_	_	_
 4	sillaib	sillab	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 5	di	de	ADP	_	AdpType=Prep|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 6	si	si	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Emp	_	_	_	_
@@ -2208,7 +2168,7 @@
 # scribe = Main Glossator
 # text = dá intairmmthechtas for sind í tóisech fri sin gutai remi
 # translation = two passages on the first i, towards the vowel before it (lit. before her)
-1	dá	dá	NUM	_	_	_	_	_	_
+1	dá	dá	NUM	_	NumType=Card	_	_	_	_
 2	intairmmthechtas	intairmthechtas	NOUN	_	Case=Nom|Number=Dual	_	_	_	_
 3	for	for	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 4	sind	in	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
@@ -2260,10 +2220,10 @@
 6	neph	neph	PART	_	Polarity=Neg|Prefix=Yes	_	_	_	_
 7	accomoil	accomol	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 8	inna	in	DET	_	Case=Gen|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_
-9	teora	trí	NUM	_	_	_	_	_	_
+9	teora	trí	NUM	_	NumType=Card	_	_	_	_
 10	liter	liter	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
 11	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-12	noen	oín	NUM	_	_	_	_	_	_
+12	noen	oín	NUM	_	NumType=Card	_	_	_	_
 13	sillaib	sillab	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
 # sent_id = 190
@@ -2300,7 +2260,7 @@
 # text = traig cethar garait
 # translation = a foot of four short syllables
 1	traig	traig	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-2	cethar	cethair	NUM	_	_	_	_	_	_
+2	cethar	cethair	NUM	_	NumType=Card	_	_	_	_
 3	garait	garait	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 
 # sent_id = 194
@@ -2525,7 +2485,7 @@
 # translation = this is a syllable in addition to two dactyls, etc.
 1	sillab	sillab	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 2	for	for	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-3	deib	dá	NUM	_	_	_	_	_	_
+3	deib	dá	NUM	_	NumType=Card	_	_	_	_
 4	dactilib	dactil	NOUN	_	Case=Dat|Number=Dual	_	_	_	_
 5	són	side	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ana	_	_	_	_
 6	reliqua	_	X	_	Foreign=Yes	_	_	_	_
@@ -2825,7 +2785,7 @@
 2	coissig	incoisig	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 3	a	a	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 4	folad	folad	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-5	cétnae	cétnae	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+5	cétnae	cétnae	NUM	_	NumType=Ord	_	_	_	_
 
 # sent_id = 240
 # reference = 9a15
@@ -2850,7 +2810,7 @@
 5	son	son	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	a	a	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 7	folad	folad	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-8	cétne	cétnae	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+8	cétne	cétnae	NUM	_	NumType=Ord	_	_	_	_
 9	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 10	in	in	PART	_	PartType=Vb	_	_	_	_
 11	choisged	incoisig	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
@@ -2878,7 +2838,7 @@
 # text = oéndai oen litre do dénom díb hi scríbunt
 # translation = single, that single letters should be made of them in writing
 1	oéndai	óindae	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	_
-2	oen	oín	NUM	_	_	_	_	_	_
+2	oen	oín	NUM	_	NumType=Card	_	_	_	_
 3	litre	liter	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 4	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 5	dénom	dénum	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
@@ -2913,7 +2873,7 @@
 # translation = in still writing two characters, i.e. the character of a consonant and the character of aspiration, as the ancient Greeks used to do
 1	hí	í	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 2	scríbiunt	scríbend	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-3	dá	dá	NUM	_	_	_	_	_	_
+3	dá	dá	NUM	_	NumType=Card	_	_	_	_
 4	carachtar	cárachtar	NOUN	_	Case=Gen|Number=Dual	_	_	_	_
 5	beos	beus	ADV	_	_	_	_	_	_
 6	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
@@ -2944,7 +2904,7 @@
 8	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 9	scríbunt	scríbend	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 10	in	a	DET	_	Case=Gen|Gender=Neut|Number=Dual|PronType=Art	_	_	_	_
-11	da	dá	NUM	_	_	_	_	_	_
+11	da	dá	NUM	_	NumType=Card	_	_	_	_
 12	caractar	cárachtar	NOUN	_	Case=Gen|Number=Dual	_	_	_	_
 13	i	i	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 14	snaib	in	DET	_	Case=Dat|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_
@@ -2953,7 +2913,7 @@
 17	roċruthaigsemmar	cruthaigidir	VERB	_	Mood=Ind|Number=Plur|PartType=Aug|Person=1|Tense=Past|Voice=Act	_	_	_	_
 18	camaiph	camaiph	SCONJ	_	_	_	_	_	_
 19	immurgu	immurgu	SCONJ	_	_	_	_	_	_
-20	oen	oín	NUM	_	_	_	_	_	_
+20	oen	oín	NUM	_	NumType=Card	_	_	_	_
 21	cháractar	cárachtar	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 22	f	_	X	_	Foreign=Yes	_	_	_	_
 23	tar	tar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -2988,7 +2948,7 @@
 # translation = so that one figure should be made instead of this, like the others
 1	co	co	SCONJ	_	_	_	_	_	_
 2	ṅdenta	dogní	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	_	_	_	_
-3	óen	oín	NUM	_	_	_	_	_	_
+3	óen	oín	NUM	_	NumType=Card	_	_	_	_
 4	torand	tórand	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	tar	tar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	hesi	éis	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
@@ -3011,7 +2971,7 @@
 1	sluindid	sluindid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 2	a	a	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 3	folad	folad	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-4	cétnae	cétnae	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+4	cétnae	cétnae	NUM	_	NumType=Ord	_	_	_	_
 
 # sent_id = 253
 # reference = 9b5
@@ -3022,7 +2982,7 @@
 2	ed	ed	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 3	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 4	folad	folad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-5	cétnae	cétnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+5	cétnae	cétnae	NUM	_	NumType=Ord	_	_	_	_
 6	sluinditae	sluindid	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 
 # sent_id = 254
@@ -3326,7 +3286,7 @@
 3	neph	neph	PART	_	Polarity=Neg|Prefix=Yes	_	_	_	_
 4	chumscaichti	cumscaichthi	VERB	_	VerbForm=Gdv	_	_	_	_
 5	na	in	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_
-6	teora	trí	NUM	_	_	_	_	_	_
+6	teora	trí	NUM	_	NumType=Card	_	_	_	_
 7	litre	liter	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 8	so	so	PART	_	PronType=Dem	_	_	_	_
 
@@ -3337,7 +3297,7 @@
 # translation = the same letters
 1	na	in	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_
 2	litre	liter	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
-3	cétni	cétnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	_
+3	cétni	cétnae	NUM	_	NumType=Ord	_	_	_	_
 
 # sent_id = 282
 # reference = 10a14
@@ -3409,7 +3369,7 @@
 21	u	_	X	_	Foreign=Yes	_	_	_	_
 22	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 23	sechmadachtu	sechmadachte	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	_
-24	tert	teirt	NUM	_	_	_	_	_	_
+24	tert	teirt	NUM	_	NumType=Card	_	_	_	_
 25	choibedna	coibedan	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 26	⁊	ocus	CCONJ	_	_	_	_	_	_
 27	quartae	_	X	_	Foreign=Yes	_	_	_	_
@@ -3957,7 +3917,7 @@
 4	idem	_	X	_	Foreign=Yes	_	_	_	_
 5	fo	fo	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 6	n	a	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
-7	óen	oín	NUM	_	_	_	_	_	_
+7	óen	oín	NUM	_	NumType=Card	_	_	_	_
 8	chummi	cummae	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
 # sent_id = 336
@@ -4053,7 +4013,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	im	in	PART	_	PronType=Int	_	_	_	_
 3	bat	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbType=Cop	_	_	_	_
-4	da	dá	NUM	_	_	_	_	_	_
+4	da	dá	NUM	_	NumType=Card	_	_	_	_
 5	g	_	X	_	Foreign=Yes	_	_	_	_
 6	bete	attá	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|Voice=Act	_	_	_	_
 7	and	i	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -4457,7 +4417,7 @@
 # translation = i.e. (one) of the two s’s, i.e. s of the adverb or of the verb
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	in	in	DET	_	Case=Gen|Gender=Fem|Number=Dual|PronType=Art	_	_	_	_
-3	da	dá	NUM	_	_	_	_	_	_
+3	da	dá	NUM	_	NumType=Card	_	_	_	_
 4	ṅ-s	_	X	_	Foreign=Yes	_	_	_	_
 5	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 6	is	_	X	_	Foreign=Yes	_	_	_	_
@@ -4699,7 +4659,7 @@
 # scribe = Main Glossator
 # text = da s tar hési z
 # translation = two s’s in place of z
-1	da	dá	NUM	_	_	_	_	_	_
+1	da	dá	NUM	_	NumType=Card	_	_	_	_
 2	s	_	X	_	Foreign=Yes	_	_	_	_
 3	tar	tar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 4	hési	éis	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
@@ -4762,7 +4722,7 @@
 # translation = i.e. the sound of two vowels is in a diphthong, for each vowel has its (own) sound in it, and it is two vowels that are in a diphthong
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	fogor	fogur	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-3	da	dá	NUM	_	_	_	_	_	_
+3	da	dá	NUM	_	NumType=Card	_	_	_	_
 4	gutae	guttae	NOUN	_	Case=Gen|Number=Dual	_	_	_	_
 5	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	ndeogur	déḟogur	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
@@ -4775,7 +4735,7 @@
 13	nindi	i	ADP	_	AdpType=Prep|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 14	⁊	ocus	CCONJ	_	_	_	_	_	_
 15	it	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-16	di	dá	NUM	_	_	_	_	_	_
+16	di	dá	NUM	_	NumType=Card	_	_	_	_
 17	gutai	guttae	NOUN	_	Case=Nom|Number=Dual	_	_	_	_
 18	bíte	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 19	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -4857,7 +4817,7 @@
 7	uaire	óre	SCONJ	_	_	_	_	_	_
 8	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 9	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-10	ndi	dá	NUM	_	_	_	_	_	_
+10	ndi	dá	NUM	_	NumType=Card	_	_	_	_
 11	guthaigthi	guthaigthe	NOUN	_	Case=Acc|Number=Dual	_	_	_	_
 12	airdíxi	airdíxa	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Dual	_	_	_	_
 13	do	do	PART	_	PartType=Vb	_	_	_	_
@@ -4865,7 +4825,7 @@
 15	deogur	déḟogur	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 16	do	de	PART	_	PartType=Vb	_	_	_	_
 17	rruairthetar	dofúarat	VERB	_	Mood=Ind|Number=Plur|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
-18	di	dá	NUM	_	_	_	_	_	_
+18	di	dá	NUM	_	NumType=Card	_	_	_	_
 19	aimsir	aimser	NOUN	_	Case=Nom|Number=Dual	_	_	_	_
 20	vocalis	_	X	_	Foreign=Yes	_	_	_	_
 21	as	as	PART	_	PartType=Vb	_	_	_	_
@@ -4898,7 +4858,7 @@
 2	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 3	foirciunn	forcenn	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 4	na	in	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
-5	cetnae	cétnae	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+5	cetnae	cétnae	NUM	_	NumType=Ord	_	_	_	_
 6	rainne	rann	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 7	bis	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 8	i	i	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
@@ -4918,7 +4878,7 @@
 6	bis	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 7	i	i	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 8	sin	in	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
-9	chetna	cétnae	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	_
+9	chetna	cétnae	NUM	_	NumType=Ord	_	_	_	_
 10	sillaib	sillab	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
 # sent_id = 414
@@ -5001,7 +4961,7 @@
 12	a	a	PRON	_	Gender=Fem|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 13	hairitiu	airitiu	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 14	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-15	dib	dá	NUM	_	_	_	_	_	_
+15	dib	dá	NUM	_	NumType=Card	_	_	_	_
 16	consonaib	conson	NOUN	_	Case=Dat|Number=Dual	_	_	_	_
 
 # sent_id = 421
@@ -5179,7 +5139,7 @@
 # text = .i. tris litir immurgu hi tosuch syllabe biid .i. no r
 # translation = i.e. l or r is wont to be the third letter, therefore, in the beginning of the syllable
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	tris	tress	ADJ	_	Degree=Pos|Prefix=Yes	_	_	_	_
+2	tris	tress	NUM	_	NumType=Ord	_	_	_	_
 3	litir	liter	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	immurgu	immurgu	SCONJ	_	_	_	_	_	_
 5	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -5451,7 +5411,7 @@
 5	i	i	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 6	sin	in	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 7	sillaib	sillab	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-8	tánaisi	tánaise	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+8	tánaisi	tánaise	NUM	_	NumType=Ord	_	_	_	_
 9	in	_	X	_	Foreign=Yes	_	_	_	_
 10	his	_	X	_	Foreign=Yes	_	_	_	_
 11	ar	ar	SCONJ	_	_	_	_	_	_
@@ -6232,7 +6192,7 @@
 8	orationis	_	X	_	Foreign=Yes	_	_	_	_
 9	cechtar	cechtar	PRON	_	PronType=Ind	_	_	_	_
 10	in	in	DET	_	Case=Gen|Gender=Masc|Number=Dual|PronType=Art	_	_	_	_
-11	da	dá	NUM	_	_	_	_	_	_
+11	da	dá	NUM	_	NumType=Card	_	_	_	_
 12	leithe	leth	NOUN	_	Case=Gen|Number=Dual	_	_	_	_
 13	sin	sin	PART	_	PronType=Dem	_	_	_	_
 14	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
@@ -6800,11 +6760,11 @@
 # translation = i.e. these three parts (of speech) it is one part that they express
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	inna	in	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_
-3	teoir	trí	NUM	_	_	_	_	_	_
+3	teoir	trí	NUM	_	NumType=Card	_	_	_	_
 4	ranna	rann	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 5	sa	so	PART	_	PronType=Dem	_	_	_	_
 6	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-7	óin	oín	NUM	_	_	_	_	_	_
+7	óin	oín	NUM	_	NumType=Card	_	_	_	_
 8	rann	rann	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 9	far	for	PART	_	PartType=Vb	_	_	_	_
 10	diṅgrat	fordingair	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
@@ -7130,7 +7090,7 @@
 26	no	no	PART	_	PartType=Vb	_	_	_	_
 27	mbetis	attá	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Past|Voice=Act	_	_	_	_
 28	in	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-29	oen	oín	NUM	_	_	_	_	_	_
+29	oen	oín	NUM	_	NumType=Card	_	_	_	_
 30	rainn	rann	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
 # sent_id = 591
@@ -7170,7 +7130,7 @@
 3	chomaisṅdeis	comaisndís	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 4	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 5	inchosc	inchosc	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-6	óen	oín	NUM	_	_	_	_	_	_
+6	óen	oín	NUM	_	NumType=Card	_	_	_	_
 7	cheillae	cíall	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 
 # sent_id = 594
@@ -7437,7 +7397,7 @@
 2	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 3	dechor	dechor	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 4	etir	eter	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-5	da	dá	NUM	_	_	_	_	_	_
+5	da	dá	NUM	_	NumType=Card	_	_	_	_
 6	ṅainmm	ainm	NOUN	_	Case=Acc|Number=Dual	_	_	_	_
 7	cosmaili	cosmail	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Plur	_	_	_	_
 
@@ -7512,7 +7472,7 @@
 # translation = i.e. either [lit. it can be] by single letters
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	robu	robo	SCONJ	_	_	_	_	_	_
-3	óen	oín	NUM	_	_	_	_	_	_
+3	óen	oín	NUM	_	NumType=Card	_	_	_	_
 4	litrib	liter	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
 
 # sent_id = 621
@@ -7571,7 +7531,7 @@
 3	sain	sain	ADJ	_	Degree=Pos|Prefix=Yes	_	_	_	_
 4	díles	díles	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 5	cach	cach	DET	_	Case=Gen|Definite=Def|Number=Sing	_	_	_	_
-6	oen	oín	NUM	_	_	_	_	_	_
+6	oen	oín	NUM	_	NumType=Card	_	_	_	_
 7	folaid	folad	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 
 # sent_id = 625
@@ -7896,7 +7856,7 @@
 3	forcenn	forcenn	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 4	ind	a	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 5	ḟolaid	folad	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-6	chéthnai	cétnae	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+6	chéthnai	cétnae	NUM	_	NumType=Ord	_	_	_	_
 
 # sent_id = 650
 # reference = 28b20
@@ -7908,7 +7868,7 @@
 3	epil	atbaill	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 4	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 5	folad	folad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-6	cetne	cétnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+6	cetne	cétnae	NUM	_	NumType=Ord	_	_	_	_
 7	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 8	folud	folad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 9	duini	duine	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
@@ -8433,7 +8393,7 @@
 # translation = i.e. the naming of one substance by many names
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	ainmnigud	ainmmnigud	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-3	oen	oín	NUM	_	_	_	_	_	_
+3	oen	oín	NUM	_	NumType=Card	_	_	_	_
 4	folaid	folad	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 5	húa	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	il	il	ADJ	_	Degree=Pos|Prefix=Yes	_	_	_	_
@@ -9374,7 +9334,7 @@
 8	ar	ar	SCONJ	_	_	_	_	_	_
 9	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 10	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-11	noen	oín	NUM	_	_	_	_	_	_
+11	noen	oín	NUM	_	NumType=Card	_	_	_	_
 12	sillaib	sillab	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 13	for	for	PART	_	PartType=Vb	_	_	_	_
 14	beir	forbeir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
@@ -9389,7 +9349,7 @@
 23	nu	no	PART	_	PartType=Vb	_	_	_	_
 24	bed	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
 25	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-26	ndib	dá	NUM	_	_	_	_	_	_
+26	ndib	dá	NUM	_	NumType=Card	_	_	_	_
 27	sem	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	_	_	_	_
 28	sillabaib	sillab	NOUN	_	Case=Dat|Number=Dual	_	_	_	_
 29	immurgu	immurgu	SCONJ	_	_	_	_	_	_
@@ -9479,10 +9439,10 @@
 3	sa	a	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 4	nacomol	accomol	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 5	in	in	DET	_	Case=Gen|Gender=Masc|Number=Dual|PronType=Art	_	_	_	_
-6	ddá	dá	NUM	_	_	_	_	_	_
+6	ddá	dá	NUM	_	NumType=Card	_	_	_	_
 7	aimmserda	aimserad	NOUN	_	Case=Gen|Number=Dual	_	_	_	_
 8	in	in	DET	_	Case=Gen|Gender=Fem|Number=Dual|PronType=Art	_	_	_	_
-9	dá	dá	NUM	_	_	_	_	_	_
+9	dá	dá	NUM	_	NumType=Card	_	_	_	_
 10	gutae	guttae	NOUN	_	Case=Gen|Number=Dual	_	_	_	_
 
 # sent_id = 764
@@ -10786,7 +10746,7 @@
 # text = .i. cét rámæ fuiri
 # translation = i.e. a hundred oars in it
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	cét	cét	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+2	cét	cét	NUM	_	NumType=Card	_	_	_	_
 3	rámæ	rámae	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
 4	fuiri	for	ADP	_	AdpType=Prep|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 
@@ -11090,6 +11050,7 @@
 # reference = 37b20
 # scribe = Main Glossator
 # text = gae gona éisc ut romani dicunt
+
 # translation = a spear for killing fish, ut etc.
 1	gae	gae	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 2	gona	guin	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
@@ -11217,7 +11178,7 @@
 3	á	attá	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 4	dechor	dechor	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	netarru	eter	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs	_	_	_	_
-6	dib	dá	NUM	_	_	_	_	_	_
+6	dib	dá	NUM	_	NumType=Card	_	_	_	_
 7	línaib	lín	NOUN	_	Case=Dat|Number=Dual	_	_	_	_
 
 # sent_id = 915
@@ -11294,7 +11255,7 @@
 # scribe = Main Glossator
 # text = tre chatarde
 # translation = of three cities
-1	tre	trí	NUM	_	_	_	_	_	_
+1	tre	trí	NUM	_	NumType=Card	_	_	_	_
 2	chatarde	catharde	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Plur	_	_	_	_
 
 # sent_id = 925
@@ -12053,7 +12014,7 @@
 # translation = the surpassing of one
 1	dærscugud	derscugud	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 2	di	de	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-3	óen	oín	NUM	_	_	_	_	_	_
+3	óen	oín	NUM	_	NumType=Card	_	_	_	_
 
 # sent_id = 991
 # reference = 40a14
@@ -12231,7 +12192,7 @@
 7	rop	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 8	máa	már	ADJ	_	Degree=Cmp	_	_	_	_
 9	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-10	nóen	oín	NUM	_	_	_	_	_	_
+10	nóen	oín	NUM	_	NumType=Card	_	_	_	_
 11	ṡillaib	sillab	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 12	in	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 13	comparit	comparit	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -12247,7 +12208,7 @@
 # translation = the hiatus of the three vowels together
 1	ménogud	ménagud	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 2	inna	in	DET	_	Case=Gen|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_
-3	teora	trí	NUM	_	_	_	_	_	_
+3	teora	trí	NUM	_	NumType=Card	_	_	_	_
 4	ṅguttae	guttae	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
 5	immalle	immalle	ADV	_	_	_	_	_	_
 
@@ -12472,7 +12433,7 @@
 # translation = which alone
 1	ol	ol	SCONJ	_	_	_	_	_	_
 2	sodain	suide	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ana	_	_	_	_
-3	oín	oín	NUM	_	_	_	_	_	_
+3	oín	oín	NUM	_	NumType=Card	_	_	_	_
 
 # sent_id = 1026
 # reference = 41b2
@@ -12577,7 +12538,7 @@
 6	sí	sí	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 7	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 8	sí	sí	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	_
-9	chetne	cétnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+9	chetne	cétnae	NUM	_	NumType=Ord	_	_	_	_
 10	aram	áram	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 11	sainigedar	sainigidir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 12	fri	fri	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -13401,7 +13362,7 @@
 3	mbed	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
 4	dechur	dechor	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 5	eter	eter	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-6	ṅdá	dá	NUM	_	_	_	_	_	_
+6	ṅdá	dá	NUM	_	NumType=Card	_	_	_	_
 7	nulla	_	X	_	Foreign=Yes	_	_	_	_
 8	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 9	ulla	_	X	_	Foreign=Yes	_	_	_	_
@@ -14075,7 +14036,7 @@
 10	nnád	ná	PART	_	Polarity=Neg|PronType=Rel	_	_	_	_
 11	foirpret	forbeir	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 12	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-13	noen	oín	NUM	_	_	_	_	_	_
+13	noen	oín	NUM	_	NumType=Card	_	_	_	_
 14	ṡillaib	sillab	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
 # sent_id = 1185
@@ -14181,7 +14142,7 @@
 # scribe = Main Glossator
 # text = óen desimrecht so co neper and unciolis
 # translation = this is one example, so that unciolis is said there
-1	óen	oín	NUM	_	_	_	_	_	_
+1	óen	oín	NUM	_	NumType=Card	_	_	_	_
 2	desimrecht	desimrecht	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	so	so	PART	_	PronType=Dem	_	_	_	_
 4	co	co	SCONJ	_	_	_	_	_	_
@@ -14417,7 +14378,7 @@
 5	Novem	_	X	_	Foreign=Yes	_	_	_	_
 6	glandulae	_	X	_	Foreign=Yes	_	_	_	_
 7	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-8	nói	noí	NUM	_	_	_	_	_	_
+8	nói	noí	NUM	_	NumType=Card	_	_	_	_
 9	sethir	sethir	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 10	reliqua	_	X	_	Foreign=Yes	_	_	_	_
 
@@ -14894,7 +14855,7 @@
 10	ó	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 11	anmmanaib	ainm	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
 12	diil	díall	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-13	tanisi	tánaise	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+13	tanisi	tánaise	NUM	_	NumType=Ord	_	_	_	_
 14	acht	acht	SCONJ	_	_	_	_	_	_
 15	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 16	a	_	X	_	Foreign=Yes	_	_	_	_
@@ -15317,7 +15278,7 @@
 # translation = to the first person, which is its origin
 1	do	do	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 2	n	in	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
-3	chétni	cétnae	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	_
+3	chétni	cétnae	NUM	_	NumType=Ord	_	_	_	_
 4	persin	persan	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 5	as	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
 6	bunad	bunad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -15826,7 +15787,7 @@
 # translation = two separate vowels have been converted into it, and it is not a diphthong
 1	bina	_	X	_	Foreign=Yes	_	_	_	_
 2	iuga	_	X	_	Foreign=Yes	_	_	_	_
-3	dí	dá	NUM	_	_	_	_	_	_
+3	dí	dá	NUM	_	NumType=Card	_	_	_	_
 4	guttai	guttae	NOUN	_	Case=Nom|Number=Dual	_	_	_	_
 5	ḟodlaidi	fodlaide	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Dual	_	_	_	_
 6	di	do	PART	_	PartType=Vb	_	_	_	_
@@ -15841,7 +15802,7 @@
 # scribe = Main Glossator
 # text = dé riad
 # translation = two-horsed chariot
-1	dé	dá	NUM	_	_	_	_	_	_
+1	dé	dá	NUM	_	NumType=Card	_	_	_	_
 2	riad	ríad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 1371
@@ -16081,7 +16042,7 @@
 1	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 2	ned	ed	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 3	non	inunn	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
-4	óen	oín	NUM	_	_	_	_	_	_
+4	óen	oín	NUM	_	NumType=Card	_	_	_	_
 5	aiccent	aiccent	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	in	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 7	uilt	uilt	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
@@ -16710,10 +16671,10 @@
 # text = .i. da n i ndá t
 # translation = i.e. two n’s into two t’s
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	da	dá	NUM	_	_	_	_	_	_
+2	da	dá	NUM	_	NumType=Card	_	_	_	_
 3	n	_	X	_	Foreign=Yes	_	_	_	_
 4	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-5	ndá	dá	NUM	_	_	_	_	_	_
+5	ndá	dá	NUM	_	NumType=Card	_	_	_	_
 6	t	_	X	_	Foreign=Yes	_	_	_	_
 
 # sent_id = 1451
@@ -16774,7 +16735,7 @@
 # text = acht óen limm
 # translation = save one thing in my opinion
 1	acht	acht	SCONJ	_	_	_	_	_	_
-2	óen	oín	NUM	_	_	_	_	_	_
+2	óen	oín	NUM	_	NumType=Card	_	_	_	_
 3	limm	la	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=1|PronType=Prs	_	_	_	_
 
 # sent_id = 1456
@@ -16787,7 +16748,7 @@
 3	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 4	briathraib	bríathar	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
 5	cobednae	coibedan	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-6	tánise	tánaise	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+6	tánise	tánaise	NUM	_	NumType=Ord	_	_	_	_
 7	emnad	emnad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 8	d	_	X	_	Foreign=Yes	_	_	_	_
 9	in	_	X	_	Foreign=Yes	_	_	_	_
@@ -16871,7 +16832,7 @@
 6	dechor	dechor	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 7	etir	eter	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 8	in	in	DET	_	Case=Acc|Gender=Fem|Number=Dual|PronType=Art	_	_	_	_
-9	dí	dá	NUM	_	_	_	_	_	_
+9	dí	dá	NUM	_	NumType=Card	_	_	_	_
 10	ṡillaib	sillab	NOUN	_	Case=Acc|Number=Dual	_	_	_	_
 11	ar	ar	SCONJ	_	_	_	_	_	_
 12	it	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
@@ -17482,7 +17443,7 @@
 # translation = two genders are mixed in them
 1	con	com	PART	_	PartType=Vb	_	_	_	_
 2	mescatar	conmesca	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
-3	da	dá	NUM	_	_	_	_	_	_
+3	da	dá	NUM	_	NumType=Card	_	_	_	_
 4	cenél	cenél	NOUN	_	Case=Nom|Number=Dual	_	_	_	_
 5	indib	i	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 
@@ -17502,7 +17463,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 3	hinonn	inunn	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
-4	óen	oín	NUM	_	_	_	_	_	_
+4	óen	oín	NUM	_	NumType=Card	_	_	_	_
 5	leiss	la	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 6	natura	_	X	_	Foreign=Yes	_	_	_	_
 7	⁊	ocus	CCONJ	_	_	_	_	_	_
@@ -18283,7 +18244,7 @@
 2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 3	cummae	cummae	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	bíte	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-5	dib	dá	NUM	_	_	_	_	_	_
+5	dib	dá	NUM	_	NumType=Card	_	_	_	_
 6	línaib	lín	NOUN	_	Case=Dat|Number=Dual	_	_	_	_
 
 # sent_id = 1598
@@ -18616,7 +18577,7 @@
 4	ṡotho	suth	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 5	feissin	fadesin	PRON	_	PronType=Prs|Reflex=Yes	_	_	_	_
 6	ncach	cach	DET	_	Case=Nom|Definite=Def|Number=Sing	_	_	_	_
-7	nóen	oín	NUM	_	_	_	_	_	_
+7	nóen	oín	NUM	_	NumType=Card	_	_	_	_
 8	chrann	crann	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 1633
@@ -18690,7 +18651,7 @@
 # scribe = Main Glossator
 # text = dé chorpdae
 # translation = having two bodies
-1	dé	dá	NUM	_	_	_	_	_	_
+1	dé	dá	NUM	_	NumType=Card	_	_	_	_
 2	chorpdae	corpdae	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 
 # sent_id = 1640
@@ -18698,7 +18659,7 @@
 # scribe = Main Glossator
 # text = dé dathaigthe
 # translation = two-coloured
-1	dé	dá	NUM	_	_	_	_	_	_
+1	dé	dá	NUM	_	NumType=Card	_	_	_	_
 2	dathaigthe	dathaigthe	ADJ	_	Degree=Pos|Prefix=Yes	_	_	_	_
 
 # sent_id = 1641
@@ -19417,7 +19378,7 @@
 # text = .i. de áith
 # translation = i.e. two-edged
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	de	dá	NUM	_	_	_	_	_	_
+2	de	dá	NUM	_	NumType=Card	_	_	_	_
 3	áith	áith	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 
 # sent_id = 1710
@@ -19604,7 +19565,7 @@
 # translation = ‘three-fold’ or ‘three-footed’, i.e. it is not tribus pedibus
 1	treode	treodae	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 2	ɫ	nó	CCONJ	_	_	_	_	_	_
-3	tre	trí	NUM	_	_	_	_	_	_
+3	tre	trí	NUM	_	NumType=Card	_	_	_	_
 4	coste	costae	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 5	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 6	ní	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
@@ -19877,12 +19838,12 @@
 3	sillaib	sillab	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 4	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 5	móa	már	ADJ	_	Degree=Cmp	_	_	_	_
-6	óen	oín	NUM	_	_	_	_	_	_
+6	óen	oín	NUM	_	NumType=Card	_	_	_	_
 7	sillaib	sillab	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 8	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 9	ní	ní	PART	_	Polarity=Neg	_	_	_	_
 10	bi	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-11	oen	oín	NUM	_	_	_	_	_	_
+11	oen	oín	NUM	_	NumType=Card	_	_	_	_
 12	ṡillab	sillab	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 13	amal	amal	SCONJ	_	_	_	_	_	_
 14	inna	a	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Art	_	_	_	_
@@ -19941,7 +19902,7 @@
 1	móa	már	ADJ	_	Degree=Cmp	_	_	_	_
 2	ol	ol	SCONJ	_	_	_	_	_	_
 3	daas	attá	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-4	óen	oín	NUM	_	_	_	_	_	_
+4	óen	oín	NUM	_	NumType=Card	_	_	_	_
 5	ṡillab	sillab	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 1761
@@ -20457,7 +20418,7 @@
 # text = huilliu oín sillaib
 # translation = greater than one syllable
 1	huilliu	oll	ADJ	_	Degree=Cmp	_	_	_	_
-2	oín	oín	NUM	_	_	_	_	_	_
+2	oín	oín	NUM	_	NumType=Card	_	_	_	_
 3	sillaib	sillab	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
 # sent_id = 1813
@@ -20485,7 +20446,7 @@
 # scribe = Main Glossator
 # text = fiche pond
 # translation = twenty pounds
-1	fiche	fiche	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+1	fiche	fiche	NUM	_	NumType=Card	_	_	_	_
 2	pond	pond	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 
 # sent_id = 1816
@@ -20734,7 +20695,7 @@
 12	acht	acht	SCONJ	_	_	_	_	_	_
 13	as	as	PART	_	PartType=Vb	_	_	_	_
 14	ringba	asingaib	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-15	óen	oín	NUM	_	_	_	_	_	_
+15	óen	oín	NUM	_	NumType=Card	_	_	_	_
 
 # sent_id = 1843
 # reference = 71a3
@@ -20742,7 +20703,7 @@
 # text = i nóen
 # translation = in one
 1	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-2	nóen	oín	NUM	_	_	_	_	_	_
+2	nóen	oín	NUM	_	NumType=Card	_	_	_	_
 
 # sent_id = 1844
 # reference = 71a4
@@ -20767,7 +20728,7 @@
 5	as	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
 6	nomen	_	X	_	Foreign=Yes	_	_	_	_
 7	as	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
-8	ochtmath	ochtmad	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	_
+8	ochtmath	ochtmad	NUM	_	NumType=Ord	_	_	_	_
 9	rann	rann	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
 10	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 11	ninsci	insce	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
@@ -20922,7 +20883,7 @@
 4	as	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
 5	nomen	_	X	_	Foreign=Yes	_	_	_	_
 6	as	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
-7	ochtmad	ochtmad	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	_
+7	ochtmad	ochtmad	NUM	_	NumType=Ord	_	_	_	_
 8	rann	rann	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
 9	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 10	ninsci	insce	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
@@ -20987,7 +20948,7 @@
 7	litrib	liter	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
 8	quam	_	X	_	Foreign=Yes	_	_	_	_
 9	ó	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-10	oin	oín	NUM	_	_	_	_	_	_
+10	oin	oín	NUM	_	NumType=Card	_	_	_	_
 11	litrib	liter	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
 
 # sent_id = 1859
@@ -21189,7 +21150,7 @@
 3	sí	sí	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 4	in	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 5	dobriather	dobríathar	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-6	chétna	cétnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+6	chétna	cétnae	NUM	_	NumType=Ord	_	_	_	_
 7	ad	ad	PART	_	PartType=Vb	_	_	_	_
 8	chomaltar	adcomla	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
 9	fri	fri	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
@@ -21293,10 +21254,10 @@
 1	coitchena	coitchenn	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	_
 2	so	so	PART	_	PronType=Dem	_	_	_	_
 3	etir	eter	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-4	di	dá	NUM	_	_	_	_	_	_
+4	di	dá	NUM	_	NumType=Card	_	_	_	_
 5	árim	áirem	NOUN	_	Case=Acc|Number=Dual	_	_	_	_
 6	in	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-7	oen	oín	NUM	_	_	_	_	_	_
+7	oen	oín	NUM	_	NumType=Card	_	_	_	_
 8	ṡun	son	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 9	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 10	inna	in	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_
@@ -21412,7 +21373,7 @@
 3	ed	ed	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 4	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 5	folad	folad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-6	cétna	cétnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+6	cétna	cétnae	NUM	_	NumType=Ord	_	_	_	_
 7	beos	beus	ADV	_	_	_	_	_	_
 8	to	do	PART	_	PartType=Vb	_	_	_	_
 9	ḟóirṅdet	dofoirndea	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
@@ -21581,7 +21542,7 @@
 # translation = the same substance
 1	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 2	folad	folad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-3	cetna	cétnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+3	cetna	cétnae	NUM	_	NumType=Ord	_	_	_	_
 
 # sent_id = 1906
 # reference = 73a16
@@ -21651,7 +21612,7 @@
 # scribe = Main Glossator
 # text = oin folad sluindite iar comsuidigud .i. a folad fo ṡuidigther fo nd ṡun
 # translation = they express one substance after composition that is, the substance put under the word
-1	oin	oín	NUM	_	_	_	_	_	_
+1	oin	oín	NUM	_	NumType=Card	_	_	_	_
 2	folad	folad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	sluindite	sluindid	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 4	iar	íar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -21671,7 +21632,7 @@
 # text = .i. óen folad
 # translation = i.e. one substance
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	óen	oín	NUM	_	_	_	_	_	_
+2	óen	oín	NUM	_	NumType=Card	_	_	_	_
 3	folad	folad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 1911
@@ -21679,7 +21640,7 @@
 # scribe = Main Glossator
 # text = da son són
 # translation = that is, two (different) words
-1	da	dá	NUM	_	_	_	_	_	_
+1	da	dá	NUM	_	NumType=Card	_	_	_	_
 2	son	son	NOUN	_	Case=Nom|Number=Dual	_	_	_	_
 3	són	side	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ana	_	_	_	_
 
@@ -21799,7 +21760,7 @@
 2	tuasulcud	túasulcud	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	adi	side	PRON	_	PronType=Ana	_	_	_	_
 4	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-5	ndi	dá	NUM	_	_	_	_	_	_
+5	ndi	dá	NUM	_	NumType=Card	_	_	_	_
 6	rainn	rann	NOUN	_	Case=Acc|Number=Dual	_	_	_	_
 7	iṅgnaidi	ingnaidi	VERB	_	VerbForm=Gdv	_	_	_	_
 
@@ -21825,7 +21786,7 @@
 4	ó	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 5	cechtar	cechtar	PRON	_	PronType=Ind	_	_	_	_
 6	in	in	DET	_	Case=Gen|Gender=Fem|Number=Dual|PronType=Art	_	_	_	_
-7	da	dá	NUM	_	_	_	_	_	_
+7	da	dá	NUM	_	NumType=Card	_	_	_	_
 8	rann	rann	NOUN	_	Case=Gen|Number=Dual	_	_	_	_
 
 # sent_id = 1925
@@ -21867,7 +21828,7 @@
 7	huare	óre	SCONJ	_	_	_	_	_	_
 8	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 9	f	fo	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-10	oen	oín	NUM	_	_	_	_	_	_
+10	oen	oín	NUM	_	NumType=Card	_	_	_	_
 11	aicciund	aiccent	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 12	ad	ad	PART	_	PartType=Vb	_	_	_	_
 13	fiadar	adfét	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
@@ -21884,7 +21845,7 @@
 5	neph	neph	PART	_	Polarity=Neg|Prefix=Yes	_	_	_	_
 6	diall	díall	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 7	ó	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-8	dib	dá	NUM	_	_	_	_	_	_
+8	dib	dá	NUM	_	NumType=Card	_	_	_	_
 9	rannaib	rann	NOUN	_	Case=Dat|Number=Dual	_	_	_	_
 
 # sent_id = 1929
@@ -21907,7 +21868,7 @@
 3	ó	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 4	chechtar	cechtar	PRON	_	PronType=Ind	_	_	_	_
 5	in	in	DET	_	Case=Gen|Gender=Fem|Number=Dual|PronType=Art	_	_	_	_
-6	da	dá	NUM	_	_	_	_	_	_
+6	da	dá	NUM	_	NumType=Card	_	_	_	_
 7	rann	rann	NOUN	_	Case=Gen|Number=Dual	_	_	_	_
 
 # sent_id = 1931
@@ -21940,7 +21901,7 @@
 4	su	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 5	chomsuidigthe	comṡuidigthe	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 6	ó	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-7	dib	dá	NUM	_	_	_	_	_	_
+7	dib	dá	NUM	_	NumType=Card	_	_	_	_
 8	nógaib	óg	ADJ	_	Case=Dat|Degree=Pos|Number=Dual	_	_	_	_
 9	file	attá	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 10	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -22025,7 +21986,7 @@
 23	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 24	comsuidigud	comṡuidigud	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 25	o	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-26	dib	dá	NUM	_	_	_	_	_	_
+26	dib	dá	NUM	_	NumType=Card	_	_	_	_
 27	nogaib	ógae	NOUN	_	Case=Dat|Number=Dual	_	_	_	_
 28	i	i	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 29	sind	in	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
@@ -22052,7 +22013,7 @@
 5	dano	dano	ADV	_	_	_	_	_	_
 6	fo	fo	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 7	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-8	dá	dá	NUM	_	_	_	_	_	_
+8	dá	dá	NUM	_	NumType=Card	_	_	_	_
 9	nog	óg	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Dual	_	_	_	_
 10	in	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 11	na	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
@@ -22101,7 +22062,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 3	folad	folad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-4	cétna	cétnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+4	cétna	cétnae	NUM	_	NumType=Ord	_	_	_	_
 
 # sent_id = 1942
 # reference = 75b7
@@ -22241,7 +22202,7 @@
 4	beir	dobeir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 5	sem	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	_	_	_	_
 6	in	in	DET	_	Case=Acc|Gender=Masc|Number=Dual|PronType=Art	_	_	_	_
-7	da	dá	NUM	_	_	_	_	_	_
+7	da	dá	NUM	_	NumType=Card	_	_	_	_
 8	articul	articol	NOUN	_	Case=Acc|Number=Dual	_	_	_	_
 9	híc	_	X	_	Foreign=Yes	_	_	_	_
 10	biit	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
@@ -22260,7 +22221,7 @@
 # translation = i.e. to one form
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-3	oen	oín	NUM	_	_	_	_	_	_
+3	oen	oín	NUM	_	NumType=Card	_	_	_	_
 4	forggnuis	forgnúis	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
 # sent_id = 1955
@@ -22275,7 +22236,7 @@
 5	genitiu	genitiu	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	⁊	ocus	CCONJ	_	_	_	_	_	_
 7	tobarthid	tobarthaid	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-8	cétnæ	cétnae	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+8	cétnæ	cétnae	NUM	_	NumType=Ord	_	_	_	_
 9	diil	díall	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 10	⁊	ocus	CCONJ	_	_	_	_	_	_
 11	reli	_	X	_	Foreign=Yes	_	_	_	_
@@ -22290,7 +22251,7 @@
 2	hinunn	inunn	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 3	intṡliucht	intliucht	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	sluindite	sluindid	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-5	dib	dá	NUM	_	_	_	_	_	_
+5	dib	dá	NUM	_	NumType=Card	_	_	_	_
 6	linaib	lín	NOUN	_	Case=Dat|Number=Dual	_	_	_	_
 7	⁊	ocus	CCONJ	_	_	_	_	_	_
 8	reliqua	_	X	_	Foreign=Yes	_	_	_	_
@@ -22431,7 +22392,7 @@
 6	ni	ní	PART	_	Polarity=Neg	_	_	_	_
 7	techtat	techtaid	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 8	in	in	DET	_	Case=Acc|Gender=Masc|Number=Dual|PronType=Art	_	_	_	_
-9	da	dá	NUM	_	_	_	_	_	_
+9	da	dá	NUM	_	NumType=Card	_	_	_	_
 10	airdigtha	airdigud	NOUN	_	Case=Acc|Number=Dual	_	_	_	_
 
 # sent_id = 1968
@@ -22693,7 +22654,7 @@
 2	hilar	ilar	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	neutair	neutur	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 4	far	for	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-5	cétnu	cétnae	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+5	cétnu	cétnae	NUM	_	NumType=Ord	_	_	_	_
 6	diull	díall	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
 # sent_id = 1991
@@ -22707,11 +22668,11 @@
 4	didiu	didiu	ADV	_	_	_	_	_	_
 5	neutur	neutur	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	far	for	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-7	cétnu	cétnae	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+7	cétnu	cétnae	NUM	_	NumType=Ord	_	_	_	_
 8	diull	díall	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 9	ropad	is	AUX	_	Mood=Cnd|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbType=Cop	_	_	_	_
 10	far	for	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-11	nóeṅ	oín	NUM	_	_	_	_	_	_
+11	nóeṅ	oín	NUM	_	NumType=Card	_	_	_	_
 12	deilb	delb	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 13	no	no	PART	_	PartType=Vb	_	_	_	_
 14	bbiad	attá	VERB	_	Mood=Cnd|Number=Sing|Person=3|Tense=Fut|Voice=Act	_	_	_	_
@@ -22789,7 +22750,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	hua	ó	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 3	naib	in	DET	_	Case=Dat|Gender=Masc|Number=Plur|PronType=Art	_	_	_	_
-4	oct	ocht	NUM	_	_	_	_	_	_
+4	oct	ocht	NUM	_	NumType=Card	_	_	_	_
 5	sa	so	PART	_	PronType=Dem	_	_	_	_
 6	anúas	anúas	ADV	_	_	_	_	_	_
 
@@ -22879,7 +22840,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	áinsid	áinsid	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	dano	dano	ADV	_	_	_	_	_	_
-4	cetni	cétnae	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+4	cetni	cétnae	NUM	_	NumType=Ord	_	_	_	_
 5	diil	díall	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 6	la	la	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 7	arsidi	arsaid	ADJ	_	Case=Acc|Degree=Pos|Number=Plur	_	_	_	_
@@ -23481,7 +23442,7 @@
 # translation = according to the second declension
 1	iar	íar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 2	ṅdiul	díall	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-3	tanisiu	tánaise	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+3	tanisiu	tánaise	NUM	_	NumType=Ord	_	_	_	_
 
 # sent_id = 2058
 # reference = 97b2
@@ -23506,7 +23467,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	comṡuidigthe	comṡuidigthe	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 3	o	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-4	dib	dá	NUM	_	_	_	_	_	_
+4	dib	dá	NUM	_	NumType=Card	_	_	_	_
 5	nógaib	óg	ADJ	_	Case=Dat|Degree=Pos|Number=Dual	_	_	_	_
 6	in	_	X	_	Foreign=Yes	_	_	_	_
 7	feminino	_	X	_	Foreign=Yes	_	_	_	_
@@ -23527,7 +23488,7 @@
 3	ndiall	díall	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	fo	fo	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 5	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-6	da	dá	NUM	_	_	_	_	_	_
+6	da	dá	NUM	_	NumType=Card	_	_	_	_
 7	nóg	óg	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Dual	_	_	_	_
 
 # sent_id = 2062
@@ -23691,7 +23652,7 @@
 6	servius	_	X	_	Foreign=Yes	_	_	_	_
 7	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 8	diil	díall	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-9	tanisi	tánaise	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+9	tanisi	tánaise	NUM	_	NumType=Ord	_	_	_	_
 
 # sent_id = 2077
 # reference = 100a10
@@ -23944,7 +23905,7 @@
 # translation = i.e. these below are ablatives of the third declension, from nouns that end in -es
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	foxlidi	fochslaid	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
-3	tres	tress	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+3	tres	tress	NUM	_	NumType=Ord	_	_	_	_
 4	diil	díall	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 5	in	in	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	_	_	_	_
 6	so	so	PART	_	PronType=Dem	_	_	_	_
@@ -24387,7 +24348,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	biid	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 3	for	for	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-4	deib	dá	NUM	_	_	_	_	_	_
+4	deib	dá	NUM	_	NumType=Card	_	_	_	_
 5	ṅdíllib	díall	NOUN	_	Case=Dat|Number=Dual	_	_	_	_
 6	quando	_	X	_	Foreign=Yes	_	_	_	_
 7	fastus	_	X	_	Foreign=Yes	_	_	_	_
@@ -24409,7 +24370,7 @@
 1	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 2	buith	both	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	far	for	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-4	cethramad	cethramad	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	_	_	_	_
+4	cethramad	cethramad	NUM	_	NumType=Ord	_	_	_	_
 5	quando	_	X	_	Foreign=Yes	_	_	_	_
 6	est	_	X	_	Foreign=Yes	_	_	_	_
 7	fastus	_	X	_	Foreign=Yes	_	_	_	_
@@ -24427,7 +24388,7 @@
 4	airiuc	airec	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 5	far	for	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	diull	díall	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-7	tanaisiu	tánaise	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+7	tanaisiu	tánaise	NUM	_	NumType=Ord	_	_	_	_
 
 # sent_id = 2140
 # reference = 106b21
@@ -24485,7 +24446,7 @@
 1	ar	ar	SCONJ	_	_	_	_	_	_
 2	it	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 3	diil	díall	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-4	tanaisi	tánaise	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+4	tanaisi	tánaise	NUM	_	NumType=Ord	_	_	_	_
 5	amal	amal	SCONJ	_	_	_	_	_	_
 6	sodin	suide	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ana	_	_	_	_
 
@@ -24546,7 +24507,7 @@
 14	immorro	immurgu	SCONJ	_	_	_	_	_	_
 15	in	in	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 16	diil	díall	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-17	tanisi	tánaise	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+17	tanisi	tánaise	NUM	_	NumType=Ord	_	_	_	_
 18	iss	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 19	ed	ed	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 20	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
@@ -24842,7 +24803,7 @@
 3	grec	gréc	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	roppad	is	AUX	_	Mood=Sub|Number=Sing|PartType=Aug|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
 5	diil	díall	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-6	tanaisi	tánaise	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+6	tanaisi	tánaise	NUM	_	NumType=Ord	_	_	_	_
 7	ut	_	X	_	Foreign=Yes	_	_	_	_
 8	pelagus	_	X	_	Foreign=Yes	_	_	_	_
 
@@ -24920,7 +24881,7 @@
 2	méit	méit	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 3	as	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
 4	d	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-5	oen	oín	NUM	_	_	_	_	_	_
+5	oen	oín	NUM	_	NumType=Card	_	_	_	_
 6	scríbend	scríbend	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 7	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 8	chuit	cuit	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
@@ -25046,7 +25007,7 @@
 # text = dechenda de mess
 # translation = two-headed, a pair of shears
 1	dechenda	déchendae	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
-2	de	dá	NUM	_	_	_	_	_	_
+2	de	dá	NUM	_	NumType=Card	_	_	_	_
 3	mess	mess	NOUN	_	Case=Nom|Number=Dual	_	_	_	_
 
 # sent_id = 2192
@@ -25192,7 +25153,7 @@
 9	i	í	PART	_	PartType=Dct	_	_	_	_
 10	theite	téit	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 11	in	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-12	oen	oín	NUM	_	_	_	_	_	_
+12	oen	oín	NUM	_	NumType=Card	_	_	_	_
 13	inna	in	DET	_	Case=Gen|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_
 14	liter	liter	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
 15	sa	so	PART	_	PronType=Dem	_	_	_	_
@@ -25293,8 +25254,8 @@
 # text = na tri noi laithe
 # translation = the three spaces-of-nine-days
 1	na	a	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Art	_	_	_	_
-2	tri	trí	NUM	_	_	_	_	_	_
-3	noi	noí	NUM	_	_	_	_	_	_
+2	tri	trí	NUM	_	NumType=Card	_	_	_	_
+3	noi	noí	NUM	_	NumType=Card	_	_	_	_
 4	laithe	laithe	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
 
 # sent_id = 2215
@@ -25530,7 +25491,7 @@
 2	co	co	SCONJ	_	_	_	_	_	_
 3	mbad	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
 4	laigiu	becc	ADJ	_	Degree=Cmp	_	_	_	_
-5	oén	oín	NUM	_	_	_	_	_	_
+5	oén	oín	NUM	_	NumType=Card	_	_	_	_
 6	ṡillaib	sillab	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 7	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 8	quam	_	X	_	Foreign=Yes	_	_	_	_
@@ -25554,7 +25515,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	sillab	sillab	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	for	for	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-4	deib	dá	NUM	_	_	_	_	_	_
+4	deib	dá	NUM	_	NumType=Card	_	_	_	_
 5	traigthib	traigthech	NOUN	_	Case=Dat|Number=Dual	_	_	_	_
 
 # sent_id = 2237
@@ -25563,7 +25524,7 @@
 # text = .i. dé ṡillab
 # translation = i.e. a disyllable
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	dé	dá	NUM	_	_	_	_	_	_
+2	dé	dá	NUM	_	NumType=Card	_	_	_	_
 3	ṡillab	sillab	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 2238
@@ -25571,7 +25532,7 @@
 # scribe = Main Glossator
 # text = dé syllab
 # translation = a disyllable
-1	dé	dá	NUM	_	_	_	_	_	_
+1	dé	dá	NUM	_	NumType=Card	_	_	_	_
 2	syllab	sillab	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 2239
@@ -25581,7 +25542,7 @@
 # translation = i.e. in one syllable they both are
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	in	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-3	óin	oín	NUM	_	_	_	_	_	_
+3	óin	oín	NUM	_	NumType=Card	_	_	_	_
 4	ṡyllaib	sillab	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 5	a	ad	PART	_	PartType=Vb	_	_	_	_
 6	taat	attá	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
@@ -25654,7 +25615,7 @@
 # translation = i.e. Greek: the first dropping of wine
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	grec	gréc	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-3	céit	cét	NUM	_	_	_	_	_	_
+3	céit	cét	NUM	_	NumType=Card	_	_	_	_
 4	grinne	grinne	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	fíno	fín	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 
@@ -26412,7 +26373,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	huare	óre	SCONJ	_	_	_	_	_	_
 3	ata	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
-4	tert	teirt	NUM	_	_	_	_	_	_
+4	tert	teirt	NUM	_	NumType=Card	_	_	_	_
 5	persin	persan	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 6	imme	imm	PART	_	PartType=Vb	_	_	_	_
 7	chomarcatar	immcomairc	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
@@ -26578,7 +26539,7 @@
 4	gní	dogní	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 5	sechi	sechi	PRON	_	PronType=Ind	_	_	_	_
 6	p	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-7	óin	oín	NUM	_	_	_	_	_	_
+7	óin	oín	NUM	_	NumType=Card	_	_	_	_
 8	mod	mod	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 9	díib	de	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 
@@ -26588,11 +26549,11 @@
 # text = .i. da mod naturae ⁊ da mod furtunae
 # translation = i.e. two modes of nature and two modes of fortune
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	da	dá	NUM	_	_	_	_	_	_
+2	da	dá	NUM	_	NumType=Card	_	_	_	_
 3	mod	mod	NOUN	_	Case=Nom|Number=Dual	_	_	_	_
 4	naturae	_	X	_	Foreign=Yes	_	_	_	_
 5	⁊	ocus	CCONJ	_	_	_	_	_	_
-6	da	dá	NUM	_	_	_	_	_	_
+6	da	dá	NUM	_	NumType=Card	_	_	_	_
 7	mod	mod	NOUN	_	Case=Nom|Number=Dual	_	_	_	_
 8	furtunae	_	X	_	Foreign=Yes	_	_	_	_
 
@@ -27536,7 +27497,7 @@
 # text = .i. óin guth fri cechtar de
 # translation = i.e. a single word for each of them
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	óin	oín	NUM	_	_	_	_	_	_
+2	óin	oín	NUM	_	NumType=Card	_	_	_	_
 3	guth	guth	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	fri	fri	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 5	cechtar	cechtar	PRON	_	PronType=Ind	_	_	_	_
@@ -27737,7 +27698,7 @@
 6	leiss	la	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 7	accomol	accomol	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 8	in	in	DET	_	Case=Gen|Gender=Fem|Number=Dual|PronType=Art	_	_	_	_
-9	da	dá	NUM	_	_	_	_	_	_
+9	da	dá	NUM	_	NumType=Card	_	_	_	_
 10	rann	rann	NOUN	_	Case=Gen|Number=Dual	_	_	_	_
 11	oc	oc	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 12	slund	slond	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
@@ -28019,12 +27980,12 @@
 # text = delb tri tuisel foraib ɫ it tri tuisil hi rec reliqua quod melius
 # translation = i.e. a paradigm of three cases upon them: or it is three cases simply, quod melius
 1	delb	delb	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-2	tri	trí	NUM	_	_	_	_	_	_
+2	tri	trí	NUM	_	NumType=Card	_	_	_	_
 3	tuisel	tuisel	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
 4	foraib	for	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 5	ɫ	nó	CCONJ	_	_	_	_	_	_
 6	it	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-7	tri	trí	NUM	_	_	_	_	_	_
+7	tri	trí	NUM	_	NumType=Card	_	_	_	_
 8	tuisil	tuisel	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 9	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 10	rec	recc	ADJ	_	Degree=Pos	_	_	_	_
@@ -28102,7 +28063,7 @@
 # text = .i. teora greca in so do nd í as legendi
 # translation = i.e. these are three Greek words for legendi
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	teora	trí	NUM	_	_	_	_	_	_
+2	teora	trí	NUM	_	NumType=Card	_	_	_	_
 3	greca	gréc	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 4	in	in	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_
 5	so	so	PART	_	PronType=Dem	_	_	_	_
@@ -28428,7 +28389,7 @@
 8	ponc	ponc	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 9	bis	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 10	etir	eter	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-11	da	dá	NUM	_	_	_	_	_	_
+11	da	dá	NUM	_	NumType=Card	_	_	_	_
 12	ṡon	son	NOUN	_	Case=Acc|Number=Dual	_	_	_	_
 13	na	ná	SCONJ	_	Polarity=Neg	_	_	_	_
 14	nd	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
@@ -28893,7 +28854,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	ní	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
 3	o	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-4	oin	oín	NUM	_	_	_	_	_	_
+4	oin	oín	NUM	_	NumType=Card	_	_	_	_
 5	inna	in	DET	_	Case=Gen|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_
 6	nil	il	ADJ	_	Degree=Pos|Prefix=Yes	_	_	_	_
 7	chial	cíall	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
@@ -29222,7 +29183,7 @@
 5	t	do	PART	_	PartType=Vb	_	_	_	_
 6	inscana	doinscanna	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 7	in	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
-8	chetna	cétnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+8	chetna	cétnae	NUM	_	NumType=Ord	_	_	_	_
 9	persan	persan	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 10	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 11	uadi	ó	ADP	_	AdpType=Prep|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -29243,7 +29204,7 @@
 2	ma	má	SCONJ	_	_	_	_	_	_
 3	d	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 4	o	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-5	dib	dá	NUM	_	_	_	_	_	_
+5	dib	dá	NUM	_	NumType=Card	_	_	_	_
 6	nogaib	ógae	NOUN	_	Case=Dat|Number=Dual	_	_	_	_
 
 # sent_id = 2527
@@ -29262,7 +29223,7 @@
 # scribe = Main Glossator
 # text = da nóg
 # translation = two integers
-1	da	dá	NUM	_	_	_	_	_	_
+1	da	dá	NUM	_	NumType=Card	_	_	_	_
 2	nóg	og	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Dual	_	_	_	_
 
 # sent_id = 2529
@@ -29304,7 +29265,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	ni	ní	PART	_	Polarity=Neg	_	_	_	_
 3	forcmat	forcomai	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-4	óin	oín	NUM	_	_	_	_	_	_
+4	óin	oín	NUM	_	NumType=Card	_	_	_	_
 5	chomsuidigud	comṡuidigud	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 6	tre	tre	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 7	a	a	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
@@ -29325,7 +29286,7 @@
 4	co	co	SCONJ	_	_	_	_	_	_
 5	nna	ná	SCONJ	_	Polarity=Neg	_	_	_	_
 6	bi	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-7	óin	oín	NUM	_	_	_	_	_	_
+7	óin	oín	NUM	_	NumType=Card	_	_	_	_
 8	chomsuidigud	comṡuidigud	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 2533
@@ -29563,11 +29524,11 @@
 4	no	no	PART	_	PartType=Vb	_	_	_	_
 5	labrither	labraithir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	_	_	_	_
 6	in	in	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
-7	cetni	cétnae	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+7	cetni	cétnae	NUM	_	NumType=Ord	_	_	_	_
 8	persin	persan	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 9	ɫ	nó	CCONJ	_	_	_	_	_	_
 10	in	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
-11	tanaisi	tánaise	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+11	tanaisi	tánaise	NUM	_	NumType=Ord	_	_	_	_
 12	do	do	PART	_	PartType=Vb	_	_	_	_
 13	adbit	doadbat	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	_	_	_	_
 14	ainm	ainm	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
@@ -29698,7 +29659,7 @@
 10	drong	drong	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 11	briatharde	bríathardae	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
 12	persine	persan	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-13	tanise	tánaise	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+13	tanise	tánaise	NUM	_	NumType=Ord	_	_	_	_
 14	in	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 15	as	_	X	_	Foreign=Yes	_	_	_	_
 
@@ -29738,14 +29699,14 @@
 4	linni	la	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 5	hi	i	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 6	sind	in	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
-7	óin	oín	NUM	_	_	_	_	_	_
+7	óin	oín	NUM	_	NumType=Card	_	_	_	_
 8	ṡechmadachtu	sechmadachte	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
 9	a	a	PART	_	PronType=Dem,Rel	_	_	_	_
 10	file	attá	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 11	leo	la	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 12	som	som	PRON	_	Number=Plur|Person=3|PronType=Emp	_	_	_	_
 13	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-14	ndib	dá	NUM	_	_	_	_	_	_
+14	ndib	dá	NUM	_	NumType=Card	_	_	_	_
 15	sechmadachtib	sechmadachte	ADJ	_	Case=Dat|Degree=Pos|Number=Dual	_	_	_	_
 
 # sent_id = 2563
@@ -29808,7 +29769,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	cen	cen	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 3	in	in	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
-4	tert	teirt	NUM	_	_	_	_	_	_
+4	tert	teirt	NUM	_	NumType=Card	_	_	_	_
 5	persin	persan	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 6	nibi	is	AUX	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
 7	bi	_	X	_	Foreign=Yes	_	_	_	_
@@ -30133,12 +30094,12 @@
 # translation = i.e. it is with the same (letter) they begin, not the same wherein they are ended
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-3	óin	oín	NUM	_	_	_	_	_	_
+3	óin	oín	NUM	_	NumType=Card	_	_	_	_
 4	hu	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 5	a	a	PART	_	PronType=Rel	_	_	_	_
 6	tinscanat	doinscanna	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 7	ni	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
-8	óin	oín	NUM	_	_	_	_	_	_
+8	óin	oín	NUM	_	NumType=Card	_	_	_	_
 9	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 10	foir	for	PART	_	PartType=Vb	_	_	_	_
 11	cniter	forcenna	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
@@ -30160,13 +30121,13 @@
 10	bís	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 11	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 12	cechtar	cechtar	PRON	_	PronType=Ind	_	_	_	_
-13	da	dá	NUM	_	_	_	_	_	_
+13	da	dá	NUM	_	NumType=Card	_	_	_	_
 14	lino	lín	NOUN	_	Case=Gen|Number=Dual	_	_	_	_
 15	ar	ar	SCONJ	_	_	_	_	_	_
 16	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 17	cobnesta	coibnestae	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 18	friu	fri	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs	_	_	_	_
-19	dib	dá	NUM	_	_	_	_	_	_
+19	dib	dá	NUM	_	NumType=Card	_	_	_	_
 20	línaib	lín	NOUN	_	Case=Dat|Number=Dual	_	_	_	_
 
 # sent_id = 2589
@@ -30306,12 +30267,12 @@
 10	cosmilius	cosmailius	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 11	etarru	eter	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 12	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-13	cétni	cétnae	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	_
+13	cétni	cétnae	NUM	_	NumType=Ord	_	_	_	_
 14	persin	persan	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 15	ilair	ilar	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 16	⁊	ocus	CCONJ	_	_	_	_	_	_
 17	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-18	tert	teirt	NUM	_	_	_	_	_	_
+18	tert	teirt	NUM	_	NumType=Card	_	_	_	_
 19	persin	persan	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 20	hiter	eter	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 21	othad	úathad	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
@@ -30426,7 +30387,7 @@
 3	bis	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 4	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 5	sin	in	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
-6	chetni	cétnae	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	_
+6	chetni	cétnae	NUM	_	NumType=Ord	_	_	_	_
 7	persin	persan	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 8	in	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 9	presenti	_	X	_	Foreign=Yes	_	_	_	_
@@ -30509,15 +30470,15 @@
 # text = .i. oct ṅdelbæ ⁊ oct ṅgné cenélcha and som sé tarmmorcenn immurgu reliqua
 # translation = i.e. eight paradigms and eight general forms in it: six terminations, however, etc.
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	oct	ocht	NUM	_	_	_	_	_	_
+2	oct	ocht	NUM	_	NumType=Card	_	_	_	_
 3	ṅdelbæ	delb	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 4	⁊	ocus	CCONJ	_	_	_	_	_	_
-5	oct	ocht	NUM	_	_	_	_	_	_
+5	oct	ocht	NUM	_	NumType=Card	_	_	_	_
 6	ṅgné	gné	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 7	cenélcha	cenélach	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	_	_	_	_
 8	and	i	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 9	som	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	_	_	_	_
-10	sé	sé	NUM	_	_	_	_	_	_
+10	sé	sé	NUM	_	NumType=Card	_	_	_	_
 11	tarmmorcenn	tairmḟorcend	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 12	immurgu	immurgu	SCONJ	_	_	_	_	_	_
 13	reliqua	_	X	_	Foreign=Yes	_	_	_	_
@@ -30695,7 +30656,7 @@
 # translation = i.e. the two forms of (lit. on) the preterite of the simple verb
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	in	a	DET	_	Case=Nom|Gender=Neut|Number=Dual|PronType=Art	_	_	_	_
-3	da	dá	NUM	_	_	_	_	_	_
+3	da	dá	NUM	_	NumType=Card	_	_	_	_
 4	gné	gné	NOUN	_	Case=Nom|Number=Dual	_	_	_	_
 5	for	for	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 6	sin	in	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
@@ -30713,7 +30674,7 @@
 1	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 2	airi	ar	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 3	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-4	cétna	cétnae	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+4	cétna	cétnae	NUM	_	NumType=Ord	_	_	_	_
 5	cobedne	coibedan	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 6	circundó	_	X	_	Foreign=Yes	_	_	_	_
 
@@ -30739,7 +30700,7 @@
 15	acht	acht	SCONJ	_	_	_	_	_	_
 16	as	as	PART	_	PartType=Vb	_	_	_	_
 17	ringba	asingaib	VERB	_	Mood=Sub|Number=Sing|PartType=Aug|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-18	oin	oín	NUM	_	_	_	_	_	_
+18	oin	oín	NUM	_	NumType=Card	_	_	_	_
 19	syllaib	sillab	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 
 # sent_id = 2629
@@ -31873,7 +31834,7 @@
 1	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 2	ferr	maith	ADJ	_	Degree=Cmp	_	_	_	_
 3	bid	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
-4	oin	oín	NUM	_	_	_	_	_	_
+4	oin	oín	NUM	_	NumType=Card	_	_	_	_
 5	sechmadachte	sechmadachte	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 6	leu	la	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 7	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -31989,7 +31950,7 @@
 # translation = in the three persons singular
 1	do	do	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 2	naib	in	DET	_	Case=Dat|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_
-3	teoraib	trí	NUM	_	_	_	_	_	_
+3	teoraib	trí	NUM	_	NumType=Card	_	_	_	_
 4	personaib	persan	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
 5	uathataib	úathad	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
 
@@ -32000,7 +31961,7 @@
 # translation = to the first person
 1	fri	fri	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 2	sin	in	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
-3	cetni	cétnae	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+3	cetni	cétnae	NUM	_	NumType=Ord	_	_	_	_
 4	persin	persan	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 
 # sent_id = 2731
@@ -32313,7 +32274,7 @@
 14	d	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 15	inun	inunn	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 16	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-17	oin	oín	NUM	_	_	_	_	_	_
+17	oin	oín	NUM	_	NumType=Card	_	_	_	_
 18	rann	rann	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 19	dano	dano	ADV	_	_	_	_	_	_
 
@@ -32539,7 +32500,7 @@
 2	a	ad	PART	_	PartType=Vb	_	_	_	_
 3	taat	attá	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 4	in	in	DET	_	Case=Nom|Gender=Masc|Number=Dual|PronType=Art	_	_	_	_
-5	da	dá	NUM	_	_	_	_	_	_
+5	da	dá	NUM	_	NumType=Card	_	_	_	_
 6	fere	_	X	_	Foreign=Yes	_	_	_	_
 7	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 8	fere	_	X	_	Foreign=Yes	_	_	_	_
@@ -32860,7 +32821,7 @@
 4	indi	i	ADP	_	AdpType=Prep|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 5	cosmilius	cosmailius	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	in	in	DET	_	Case=Gen|Gender=Fem|Number=Dual|PronType=Art	_	_	_	_
-7	da	dá	NUM	_	_	_	_	_	_
+7	da	dá	NUM	_	NumType=Card	_	_	_	_
 8	rann	rann	NOUN	_	Case=Gen|Number=Dual	_	_	_	_
 
 # sent_id = 2784
@@ -33077,10 +33038,10 @@
 # text = .i. di brethir ɫ di rangabáil immalle
 # translation = i.e. two verbs or two participles together
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	di	dá	NUM	_	_	_	_	_	_
+2	di	dá	NUM	_	NumType=Card	_	_	_	_
 3	brethir	bríathar	NOUN	_	Case=Nom|Number=Dual	_	_	_	_
 4	ɫ	nó	CCONJ	_	_	_	_	_	_
-5	di	dá	NUM	_	_	_	_	_	_
+5	di	dá	NUM	_	NumType=Card	_	_	_	_
 6	rangabáil	ranngabál	NOUN	_	Case=Nom|Number=Dual	_	_	_	_
 7	immalle	immalle	ADV	_	_	_	_	_	_
 
@@ -33106,7 +33067,7 @@
 # text = folad ṅóin persine
 # translation = the substance of one person
 1	folad	folad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-2	ṅóin	oín	NUM	_	_	_	_	_	_
+2	ṅóin	oín	NUM	_	NumType=Card	_	_	_	_
 3	persine	persan	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 
 # sent_id = 2803
@@ -33313,7 +33274,7 @@
 3	buith	both	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	ó	ó	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 5	n	in	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
-6	chétni	cétnae	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	_
+6	chétni	cétnae	NUM	_	NumType=Ord	_	_	_	_
 7	phersin	persan	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
 # sent_id = 2819
@@ -33324,7 +33285,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	do	do	PART	_	PartType=Vb	_	_	_	_
 3	cuirethar	docuirethar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-4	cétna	cétnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+4	cétna	cétnae	NUM	_	NumType=Ord	_	_	_	_
 5	persan	persan	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	sin	sin	PART	_	AdpType=Prep|PronType=Dem	_	_	_	_
 7	persana	persan	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
@@ -33631,7 +33592,7 @@
 4	testemin	testimin	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	se	so	PART	_	PronType=Dem	_	_	_	_
 6	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-7	ṅdib	dá	NUM	_	_	_	_	_	_
+7	ṅdib	dá	NUM	_	NumType=Card	_	_	_	_
 8	dligedib	dliged	NOUN	_	Case=Dat|Number=Dual	_	_	_	_
 9	remeperthib	remeperthae	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Dual	_	_	_	_
 
@@ -33967,7 +33928,7 @@
 # scribe = Main Glossator
 # text = di greic ind í as adveniens in so dano
 # translation = two Greek (words) for adveniens (is) this then
-1	di	dá	NUM	_	_	_	_	_	_
+1	di	dá	NUM	_	NumType=Card	_	_	_	_
 2	greic	gréc	NOUN	_	Case=Nom|Number=Dual	_	_	_	_
 3	ind	a	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 4	í	í	PART	_	PartType=Dct	_	_	_	_
@@ -34292,7 +34253,7 @@
 4	chialla	cíall	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 5	as	a	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 6	ind	in	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
-7	óin	oín	NUM	_	_	_	_	_	_
+7	óin	oín	NUM	_	NumType=Card	_	_	_	_
 8	rainn	rann	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
 # sent_id = 2888
@@ -34417,16 +34378,16 @@
 2	novem	_	X	_	Foreign=Yes	_	_	_	_
 3	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 4	a	a	PART	_	PartType=Num	_	_	_	_
-5	noi	noí	NUM	_	_	_	_	_	_
+5	noi	noí	NUM	_	NumType=Card	_	_	_	_
 6	fri	fri	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 7	sin	in	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 8	a	a	PART	_	PartType=Num	_	_	_	_
-9	tri	trí	NUM	_	_	_	_	_	_
+9	tri	trí	NUM	_	NumType=Card	_	_	_	_
 10	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 11	it	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 12	é	é	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 13	inna	a	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Art	_	_	_	_
-14	noi	noí	NUM	_	_	_	_	_	_
+14	noi	noí	NUM	_	NumType=Card	_	_	_	_
 15	didiu	didiu	ADV	_	_	_	_	_	_
 16	septem	_	X	_	Foreign=Yes	_	_	_	_
 17	dirivativa	_	X	_	Foreign=Yes	_	_	_	_
@@ -34491,7 +34452,7 @@
 22	persine	persan	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 23	acht	acht	SCONJ	_	_	_	_	_	_
 24	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-25	cétna	cétnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+25	cétna	cétnae	NUM	_	NumType=Ord	_	_	_	_
 26	netargna	etargne	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 27	do	do	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 28	nd	in	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
@@ -34647,7 +34608,7 @@
 13	ipse	_	X	_	Foreign=Yes	_	_	_	_
 14	air	ar	SCONJ	_	_	_	_	_	_
 15	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-16	cétna	cétnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+16	cétna	cétnae	NUM	_	NumType=Ord	_	_	_	_
 17	netargnae	etargne	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 18	sluindes	sluindid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 19	ipse	_	X	_	Foreign=Yes	_	_	_	_
@@ -34679,7 +34640,7 @@
 3	toisigiu	toísech	ADJ	_	Degree=Cmp	_	_	_	_
 4	didiu	didiu	ADV	_	_	_	_	_	_
 5	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
-6	cétna	cétnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+6	cétna	cétnae	NUM	_	NumType=Ord	_	_	_	_
 7	netargnæ	etargne	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 8	in	in	PART	_	PartType=Vb	_	_	_	_
 9	choisechar	incoisig	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
@@ -34690,7 +34651,7 @@
 14	quam	_	X	_	Foreign=Yes	_	_	_	_
 15	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 16	netargnae	etargne	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-17	tanaise	tánaise	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+17	tanaise	tánaise	NUM	_	NumType=Ord	_	_	_	_
 18	bís	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 19	per	_	X	_	Foreign=Yes	_	_	_	_
 20	ipse	_	X	_	Foreign=Yes	_	_	_	_
@@ -34728,7 +34689,7 @@
 # translation = i.e. a re-demonstration of the third person which is there
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	aithfoilsigud	athḟoilsigud	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-3	tert	teirt	NUM	_	_	_	_	_	_
+3	tert	teirt	NUM	_	NumType=Card	_	_	_	_
 4	persine	persan	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 5	bis	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 6	and	i	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -35069,7 +35030,7 @@
 # translation = i.e. there will be two anaphoras there in that case if there be an article and a pronoun there: which however is not needed
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	biet	attá	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	_	_	_	_
-3	da	dá	NUM	_	_	_	_	_	_
+3	da	dá	NUM	_	NumType=Card	_	_	_	_
 4	atarcud	atárcud	NOUN	_	Case=Nom|Number=Dual	_	_	_	_
 5	and	i	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 6	amal	amal	SCONJ	_	_	_	_	_	_
@@ -35150,7 +35111,7 @@
 3	tan	tan	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 4	as	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
 5	persan	persan	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-6	tanaise	tánaise	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+6	tanaise	tánaise	NUM	_	NumType=Ord	_	_	_	_
 7	a	ad	PART	_	PartType=Vb	_	_	_	_
 8	trebthar	adtreba	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
 9	and	i	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -35163,7 +35124,7 @@
 1	acht	acht	SCONJ	_	_	_	_	_	_
 2	ropat	is	AUX	_	Mood=Cnd|Number=Plur|Person=3|Polarity=Pos|Tense=Fut|VerbType=Cop	_	_	_	_
 3	ṡaini	sain	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
-4	tert	teirt	NUM	_	_	_	_	_	_
+4	tert	teirt	NUM	_	NumType=Card	_	_	_	_
 5	persin	persan	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 
 # sent_id = 2945
@@ -35259,7 +35220,7 @@
 # translation = i.e. a definition of the first person
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	hérchoiliud	érchoiliud	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-3	cetnae	cétnae	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+3	cetnae	cétnae	NUM	_	NumType=Ord	_	_	_	_
 4	persine	persan	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 
 # sent_id = 2951
@@ -35292,7 +35253,7 @@
 3	d	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 4	he	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 5	herchoiliud	érchoiliud	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-6	cétne	cétnae	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+6	cétne	cétnae	NUM	_	NumType=Ord	_	_	_	_
 7	persine	persan	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 8	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 9	sin	sin	PART	_	PronType=Dem	_	_	_	_
@@ -35396,7 +35357,7 @@
 # text = .i. cetna persan di féisin
 # translation = i.e. the first person of itself
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	cetna	cétnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+2	cetna	cétnae	NUM	_	NumType=Ord	_	_	_	_
 3	persan	persan	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	di	de	ADP	_	AdpType=Prep|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 5	féisin	fadesin	PRON	_	PronType=Prs|Reflex=Yes	_	_	_	_
@@ -35609,7 +35570,7 @@
 11	é	é	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 12	tra	trá	ADV	_	_	_	_	_	_
 13	in	in	DET	_	Case=Nom|Gender=Fem|Number=Dual|PronType=Art	_	_	_	_
-14	di	dá	NUM	_	_	_	_	_	_
+14	di	dá	NUM	_	NumType=Card	_	_	_	_
 15	accuis	accuis	NOUN	_	Case=Nom|Number=Dual	_	_	_	_
 16	in	in	DET	_	Case=Nom|Gender=Fem|Number=Dual|PronType=Art	_	_	_	_
 17	sin	sin	PART	_	PronType=Dem	_	_	_	_
@@ -35693,7 +35654,7 @@
 # text = cach oin folaid
 # translation = of every single substance
 1	cach	cach	DET	_	Case=Gen|Definite=Def|Number=Sing	_	_	_	_
-2	oin	oín	NUM	_	_	_	_	_	_
+2	oin	oín	NUM	_	NumType=Card	_	_	_	_
 3	folaid	folad	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 
 # sent_id = 2982
@@ -35973,7 +35934,7 @@
 7	pronomen	_	X	_	Foreign=Yes	_	_	_	_
 8	acht	acht	SCONJ	_	_	_	_	_	_
 9	inna	a	DET	_	Case=Acc|Gender=Neut|Number=Plur|PronType=Art	_	_	_	_
-10	trí	trí	NUM	_	_	_	_	_	_
+10	trí	trí	NUM	_	NumType=Card	_	_	_	_
 11	do	do	PART	_	PartType=Vb	_	_	_	_
 12	mbeir	dobeir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 13	som	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	_	_	_	_
@@ -36038,7 +35999,7 @@
 # translation = it [is] one and the same
 1	ed	ed	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 2	non	inunn	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
-3	óen	oín	NUM	_	_	_	_	_	_
+3	óen	oín	NUM	_	NumType=Card	_	_	_	_
 
 # sent_id = 3004
 # reference = 201b1
@@ -36109,7 +36070,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 3	for	for	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-4	nóin	oín	NUM	_	_	_	_	_	_
+4	nóin	oín	NUM	_	NumType=Card	_	_	_	_
 5	ṅdeilb	delb	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 6	biit	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 7	semper	_	X	_	Foreign=Yes	_	_	_	_
@@ -36460,7 +36421,7 @@
 5	ṁbes	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
 6	chechtar	cechtar	PRON	_	PronType=Ind	_	_	_	_
 7	in	in	DET	_	Case=Gen|Gender=Fem|Number=Dual|PronType=Art	_	_	_	_
-8	da	dá	NUM	_	_	_	_	_	_
+8	da	dá	NUM	_	NumType=Card	_	_	_	_
 9	rann	rann	NOUN	_	Case=Gen|Number=Dual	_	_	_	_
 10	i	i	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 11	sin	in	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
@@ -36745,7 +36706,7 @@
 10	tra	trá	ADV	_	_	_	_	_	_
 11	itar	eter	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 12	in	in	DET	_	Case=Acc|Gender=Fem|Number=Dual|PronType=Art	_	_	_	_
-13	di	dá	NUM	_	_	_	_	_	_
+13	di	dá	NUM	_	NumType=Card	_	_	_	_
 14	brethir	bríathar	NOUN	_	Case=Acc|Number=Dual	_	_	_	_
 15	so	so	PART	_	PronType=Dem	_	_	_	_
 16	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -36885,7 +36846,7 @@
 # text = inna oena méite
 # translation = of the same size
 1	inna	in	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
-2	oena	oín	NUM	_	_	_	_	_	_
+2	oena	oín	NUM	_	NumType=Card	_	_	_	_
 3	méite	méit	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 
 # sent_id = 3064
@@ -36964,13 +36925,13 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	ó	ó	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 3	nd	in	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
-4	oén	oín	NUM	_	_	_	_	_	_
+4	oén	oín	NUM	_	NumType=Card	_	_	_	_
 5	ranndato	randatu	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 6	són	side	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ana	_	_	_	_
 7	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 8	o	ó	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 9	nd	a	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
-10	óen	oín	NUM	_	_	_	_	_	_
+10	óen	oín	NUM	_	NumType=Card	_	_	_	_
 11	gné	gné	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 12	randatad	randatu	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 13	⁊	ocus	CCONJ	_	_	_	_	_	_
@@ -37091,7 +37052,7 @@
 13	hé	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 14	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 15	fogur	fogur	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-16	cétna	cétnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+16	cétna	cétnae	NUM	_	NumType=Ord	_	_	_	_
 17	filter	fillid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
 18	and	i	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 
@@ -37128,7 +37089,7 @@
 # translation = i.e. with one sound to be inflected as a noun is inflected
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	co	co	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-3	noén	oín	NUM	_	_	_	_	_	_
+3	noén	oín	NUM	_	NumType=Card	_	_	_	_
 4	guth	guth	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 5	no	no	PART	_	PartType=Vb	_	_	_	_
 6	filte	fillid	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Pass	_	_	_	_
@@ -37776,7 +37737,7 @@
 # translation = i.e. that they shall be monosyllabic
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	beta	is	AUX	_	Mood=Sub|Number=Plur|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
-3	nóin	oín	NUM	_	_	_	_	_	_
+3	nóin	oín	NUM	_	NumType=Card	_	_	_	_
 4	syllabcha	sillabach	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
 
 # sent_id = 3128
@@ -37785,7 +37746,7 @@
 # text = .i. oin syllabche hi cui ⁊ huic
 # translation = i.e. monosyllabism in cui and huic
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	oin	oín	NUM	_	_	_	_	_	_
+2	oin	oín	NUM	_	NumType=Card	_	_	_	_
 3	syllabche	sillabche	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 5	cui	_	X	_	Foreign=Yes	_	_	_	_
@@ -37994,7 +37955,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	co	co	SCONJ	_	_	_	_	_	_
 3	rrici	roicc	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Voice=Act	_	_	_	_
-4	míli	míle	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
+4	míli	míle	NUM	_	NumType=Card	_	_	_	_
 5	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 6	foirbthe	foirbthe	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
 7	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -38103,7 +38064,7 @@
 5	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	frecṅdairc	frecndairc	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	_
 7	ind	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
-8	tert	teirt	NUM	_	_	_	_	_	_
+8	tert	teirt	NUM	_	NumType=Card	_	_	_	_
 9	persan	persan	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 10	semper	_	X	_	Foreign=Yes	_	_	_	_
 11	ar	ar	SCONJ	_	_	_	_	_	_
@@ -38124,7 +38085,7 @@
 # text = .i. tert persan
 # translation = i.e. a third person
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	tert	teirt	NUM	_	_	_	_	_	_
+2	tert	teirt	NUM	_	NumType=Card	_	_	_	_
 3	persan	persan	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 3150
@@ -38171,7 +38132,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	co	co	SCONJ	_	_	_	_	_	_
 3	nid	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-4	tert	teirt	NUM	_	_	_	_	_	_
+4	tert	teirt	NUM	_	NumType=Card	_	_	_	_
 5	persan	persan	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	nominativus	_	X	_	Foreign=Yes	_	_	_	_
 7	nominis	_	X	_	Foreign=Yes	_	_	_	_
@@ -38206,7 +38167,7 @@
 3	⁊	ocus	CCONJ	_	_	_	_	_	_
 4	accomol	accomol	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	ind	in	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
-6	óin	oín	NUM	_	_	_	_	_	_
+6	óin	oín	NUM	_	NumType=Card	_	_	_	_
 7	tuisil	tuisel	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 8	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 9	persanaib	persan	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
@@ -38214,7 +38175,7 @@
 11	acht	acht	SCONJ	_	_	_	_	_	_
 12	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 13	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-14	nóin	oín	NUM	_	_	_	_	_	_
+14	nóin	oín	NUM	_	NumType=Card	_	_	_	_
 15	persin	persan	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 16	a	ad	PART	_	PartType=Vb	_	_	_	_
 17	ta	da	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -38426,7 +38387,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 3	hinon	inunn	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
-4	óin	oín	NUM	_	_	_	_	_	_
+4	óin	oín	NUM	_	NumType=Card	_	_	_	_
 5	significantia	_	X	_	Foreign=Yes	_	_	_	_
 6	⁊	ocus	CCONJ	_	_	_	_	_	_
 7	discretio	_	X	_	Foreign=Yes	_	_	_	_
@@ -38745,7 +38706,7 @@
 # translation = i.e. of this one nominative, i.e. the huius and the ipsius together is a mark of eloquence
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	ind	in	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
-3	óin	oín	NUM	_	_	_	_	_	_
+3	óin	oín	NUM	_	NumType=Card	_	_	_	_
 4	ainmnedo	ainmmnid	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 5	so	so	PART	_	PronType=Dem	_	_	_	_
 6	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
@@ -38876,7 +38837,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	gním	gním	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	dóib	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs	_	_	_	_
-4	dib	dá	NUM	_	_	_	_	_	_
+4	dib	dá	NUM	_	NumType=Card	_	_	_	_
 5	línaib	lín	NOUN	_	Case=Dat|Number=Dual	_	_	_	_
 6	⁊	ocus	CCONJ	_	_	_	_	_	_
 7	chésad	césad	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
@@ -39111,14 +39072,14 @@
 25	ar	ar	SCONJ	_	_	_	_	_	_
 26	cach	cach	DET	_	Case=Dat|Definite=Def|Number=Sing	_	_	_	_
 27	genitiu	genitiu	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-28	di	dá	NUM	_	_	_	_	_	_
+28	di	dá	NUM	_	NumType=Card	_	_	_	_
 29	chois	cóis	NOUN	_	Case=Nom|Number=Dual	_	_	_	_
 30	sin	sin	PART	_	PronType=Dem	_	_	_	_
 31	a	ad	PART	_	PartType=Vb	_	_	_	_
 32	taat	attá	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 33	indib	i	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 34	in	in	DET	_	Case=Nom|Gender=Fem|Number=Dual|PronType=Art	_	_	_	_
-35	dí	dá	NUM	_	_	_	_	_	_
+35	dí	dá	NUM	_	NumType=Card	_	_	_	_
 36	cheil	cíall	NOUN	_	Case=Nom|Number=Dual	_	_	_	_
 37	se	so	PART	_	PronType=Dem	_	_	_	_
 38	sis	sís	ADV	_	_	_	_	_	_
@@ -39669,7 +39630,7 @@
 14	écsamil	écsamail	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 15	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 16	cenél	cenél	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-17	cetne	cétnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+17	cetne	cétnae	NUM	_	NumType=Ord	_	_	_	_
 18	fil	attá	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 19	i	i	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 20	sind	a	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
@@ -39842,7 +39803,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	⁊	ocus	CCONJ	_	_	_	_	_	_
 3	it	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-4	tert	teirt	NUM	_	_	_	_	_	_
+4	tert	teirt	NUM	_	NumType=Card	_	_	_	_
 5	persin	persan	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 
 # sent_id = 3254
@@ -39854,7 +39815,7 @@
 2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 3	ecintech	écintech	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 4	in	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
-5	tert	teirt	NUM	_	_	_	_	_	_
+5	tert	teirt	NUM	_	NumType=Card	_	_	_	_
 6	persan	persan	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 3255
@@ -40144,7 +40105,7 @@
 # translation = i.e. of the first syllable
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	inna	in	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
-3	cétni	cétnae	ADJ	_	Degree=Pos|Prefix=Yes	_	_	_	_
+3	cétni	cétnae	NUM	_	NumType=Ord	_	_	_	_
 4	sillabæ	sillab	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 
 # sent_id = 3277
@@ -40176,11 +40137,11 @@
 8	verbi	_	X	_	Foreign=Yes	_	_	_	_
 9	gratia	_	X	_	Foreign=Yes	_	_	_	_
 10	o	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-11	chétni	cétnae	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	_
+11	chétni	cétnae	NUM	_	NumType=Ord	_	_	_	_
 12	persin	persan	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 13	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 14	persin	persan	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-15	tanaisi	tánaise	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	_
+15	tanaisi	tánaise	NUM	_	NumType=Ord	_	_	_	_
 
 # sent_id = 3279
 # reference = 212b4
@@ -40197,10 +40158,10 @@
 # text = .i. di persin i nóin gním
 # translation = i.e. two persons in one action
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	di	dá	NUM	_	_	_	_	_	_
+2	di	dá	NUM	_	NumType=Card	_	_	_	_
 3	persin	persan	NOUN	_	Case=Nom|Number=Dual	_	_	_	_
 4	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-5	nóin	oín	NUM	_	_	_	_	_	_
+5	nóin	oín	NUM	_	NumType=Card	_	_	_	_
 6	gním	gním	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
 # sent_id = 3281
@@ -40234,7 +40195,7 @@
 # text = .i. oín ḟolud duini do gní a ndede sin
 # translation = i.e. a man’s single substance does these two things (writing and reading)
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	oín	oín	NUM	_	_	_	_	_	_
+2	oín	oín	NUM	_	NumType=Card	_	_	_	_
 3	ḟolud	folad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	duini	duine	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 5	do	de	PART	_	PartType=Vb	_	_	_	_
@@ -40309,7 +40270,7 @@
 # translation = i.e. into the same mode of addition
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	in	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-3	oín	oín	NUM	_	_	_	_	_	_
+3	oín	oín	NUM	_	NumType=Card	_	_	_	_
 4	mod	mod	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	fortórmaich	fortórmach	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 6	són	side	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ana	_	_	_	_
@@ -40440,14 +40401,14 @@
 5	do	do	PART	_	PartType=Vb	_	_	_	_
 6	bertar	dobeir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
 7	in	in	DET	_	Case=Nom|Gender=Masc|Number=Dual|PronType=Art	_	_	_	_
-8	da	dá	NUM	_	_	_	_	_	_
+8	da	dá	NUM	_	NumType=Card	_	_	_	_
 9	desmerecht	desimrecht	NOUN	_	Case=Nom|Number=Dual	_	_	_	_
 10	⁊	ocus	CCONJ	_	_	_	_	_	_
 11	it	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 12	a	ar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 13	remsuidigthib	remṡuidigud	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
 14	in	in	DET	_	Case=Nom|Gender=Masc|Number=Dual|PronType=Art	_	_	_	_
-15	dí	dá	NUM	_	_	_	_	_	_
+15	dí	dá	NUM	_	NumType=Card	_	_	_	_
 16	greic	gréc	NOUN	_	Case=Nom|Number=Dual	_	_	_	_
 17	amal	amal	SCONJ	_	_	_	_	_	_
 18	ṡodain	suide	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ana	_	_	_	_
@@ -40924,7 +40885,7 @@
 3	nainmnichthae	ainmmnigud	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 4	pronominis	_	X	_	Foreign=Yes	_	_	_	_
 5	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-6	cetni	cétnae	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	_
+6	cetni	cétnae	NUM	_	NumType=Ord	_	_	_	_
 7	persin	persan	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 8	brethre	bríathar	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 9	⁊	ocus	CCONJ	_	_	_	_	_	_
@@ -40932,7 +40893,7 @@
 11	nainmnedo	ainmmnid	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 12	anmmae	ainm	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 13	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-14	tert	teirt	NUM	_	_	_	_	_	_
+14	tert	teirt	NUM	_	NumType=Card	_	_	_	_
 15	persin	persan	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 16	brethre	bríathar	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 17	⁊	ocus	CCONJ	_	_	_	_	_	_
@@ -40940,7 +40901,7 @@
 19	togarthado	togarthaid	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 20	hí	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 21	persin	persan	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-22	tánáisi	tánaise	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+22	tánáisi	tánaise	NUM	_	NumType=Ord	_	_	_	_
 23	brethre	bríathar	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 
 # sent_id = 3336
@@ -41928,7 +41889,7 @@
 3	for	for	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 4	cechtar	cechtar	PRON	_	PronType=Ind	_	_	_	_
 5	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-6	da	dá	NUM	_	_	_	_	_	_
+6	da	dá	NUM	_	NumType=Card	_	_	_	_
 7	ṡyllab	sillab	NOUN	_	Case=Acc|Number=Dual	_	_	_	_
 8	in	in	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 9	tan	tan	NOUN	_	Case=Acc|Number=Sing	_	_	_	_

@@ -113,3 +113,43 @@
 5	⁊	ocus	CCONJ	_	_	6	cc	_	_
 6	ecni	ecne	NOUN	_	Case=Gen|Number=Sing	4	conj	_	_
 
+# sent_id = 11
+# reference = 2a3
+# scribe = Main Glossator
+# text = .i. inḍtairdircus
+# translation = i.e. the clarity
+1	.i.	.i.	ADV	_	Abbr=Yes	3	advmod	_	_
+2	inḍt	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art|Typo=Yes	3	det	_	SpaceAfter=No
+3	airdircus	airdircus	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+
+# sent_id = 12
+# reference = 2a4
+# scribe = Main Glossator
+# text = .i. indias sin
+# translation = i.e. that pair
+1	.i.	.i.	ADV	_	Abbr=Yes	3	advmod	_	_
+2	in	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	3	det	_	SpaceAfter=No
+3	dias	días	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+4	sin	sin	PART	_	PronType=Dem	3	amod	_	_
+
+# sent_id = 13
+# reference = 2a5
+# scribe = Main Glossator
+# text = .i. trisfer friu
+# translation = i.e. third man alongside them
+1	.i.	.i.	ADV	_	Abbr=Yes	3	advmod	_	_
+2	tris	tress	NUM	_	NumType=Ord	3	amod	_	SpaceAfter=No
+3	fer	fer	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+4	friu	fri	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs	3	obl:prep	_	_
+
+# sent_id = 14
+# reference = 2a6
+# scribe = Main Glossator
+# text = .i. amal bid do dia
+# translation = i.e. as if it were to God
+1	.i.	.i.	ADV	_	Abbr=Yes	5	advmod	_	_
+2	amal	amal	SCONJ	_	_	5	mark	_	_
+3	bid	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	5	cop	_	_
+4	do	do	ADP	_	AdpType=Prep|Definite=Ind	5	case	_	_
+5	dia	día	NOUN	_	Case=Dat|Number=Sing	0	root	_	_
+
