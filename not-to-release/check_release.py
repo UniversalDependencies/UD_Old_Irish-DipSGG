@@ -6,7 +6,7 @@ main_dir = cur_dir[0:cur_dir.find("not-to-release") - 1]
 os.chdir(main_dir)
 
 
-def check_release(file_name):
+def check_numbering(file_name):
     """Checks a file set for release to ensure all sentence numbers are in the correct order,
        Renumbers them appropriately if they are not, and creates a new file."""
 
@@ -36,4 +36,4 @@ def check_release(file_name):
 
 if __name__ == "__main__":
 
-    print(check_release("sga_dipsgg-ud-test.conllu"))
+    print(check_numbering("sga_dipsgg-ud-test.conllu"))

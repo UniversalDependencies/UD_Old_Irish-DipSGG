@@ -14802,16 +14802,6 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	féle	féle	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
-# sent_id = 1274
-# reference = f.50 bottom marg. (TPH p.xx)
-# scribe = Main Glossator
-# text = ᚛ᚃᚓᚏᚔᚐ ᚉᚐᚔ ᚆᚑᚇᚔᚓ
-# translation = * no translation available *
-1	᚛	᚛	PUNCT	_	_	_	_	_	_
-2	ᚃᚓᚏᚔᚐ	_	X	_	Foreign=Yes	_	_	_	_
-3	ᚉᚐᚔ	cai	PROPN	_	_	_	_	_	_
-4	ᚆᚑᚇᚔᚓ	_	X	_	Foreign=Yes	_	_	_	_
-
 # sent_id = 1275
 # reference = 51a1
 # scribe = Glossator C
@@ -20262,15 +20252,6 @@
 7	⁊	ocus	CCONJ	_	_	_	_	_	_
 8	ní	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
 9	nomen	_	X	_	Foreign=Yes	_	_	_	_
-
-# sent_id = 1806
-# reference = f.70 top marg. (TPH p.xx)
-# scribe = Main Glossator
-# text = ᚛ᚃᚓᚂ ᚋᚐᚏᚈᚐᚔᚅ
-# translation = feast of Martinus
-1	᚛	᚛	PUNCT	_	_	_	_	_	_
-2	ᚃᚓᚂ	féil	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-3	ᚋᚐᚏᚈᚐᚔᚅ	martan	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
 
 # sent_id = 1807
 # reference = 70a1
@@ -30637,15 +30618,6 @@
 6	as	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
 7	esse	_	X	_	Foreign=Yes	_	_	_	_
 
-# sent_id = 2632
-# reference = f.170 top marg. (TPH p.xxi)
-# scribe = Main Glossator
-# text = ᚛ᚋᚔᚅ ᚉᚆᚐᚄᚉ
-# translation = little easter
-1	᚛	᚛	PUNCT	_	_	_	_	_	_
-2	ᚋᚔᚅ	min	ADJ	_	Degree=Pos|Prefix=Yes	_	_	_	_
-3	ᚉᚆᚐᚄᚉ	cásc	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-
 # sent_id = 2633
 # reference = 170a1
 # scribe = Main Glossator
@@ -33371,14 +33343,6 @@
 10	ed	ed	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 11	amin	amein	ADV	_	_	_	_	_	_
 
-# sent_id = 2833
-# reference = f.193 top marg. (TPH p.xxi)
-# scribe = Main Glossator
-# text = ᚛ᚉᚑᚉᚐᚏᚈ
-# translation = correction
-1	᚛	᚛	PUNCT	_	_	_	_	_	_
-2	ᚉᚑᚉᚐᚏᚈ	cocart	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-
 # sent_id = 2834
 # reference = 193a1
 # scribe = Main Glossator
@@ -33541,14 +33505,6 @@
 # translation = Dongus
 1	donngus	dongus	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 
-# sent_id = 2847
-# reference = f.194 top marg. (TPH p.xxi)
-# scribe = Main Glossator
-# text = ᚛ᚉᚑᚉᚐᚏᚈ
-# translation = correction
-1	᚛	᚛	PUNCT	_	_	_	_	_	_
-2	ᚉᚑᚉᚐᚏᚈ	cocart	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-
 # sent_id = 2848
 # reference = 194a1
 # scribe = Main Glossator
@@ -33607,13 +33563,6 @@
 7	isse	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	_	_	_	_
 8	⁊	ocus	CCONJ	_	_	_	_	_	_
 9	choirbbre	coirbbre	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
-
-# sent_id = 2853
-# reference = f.195 top marg. (TPH p.xxi)
-# scribe = Main Glossator
-# text = ᚉᚑᚉᚐᚏᚈ
-# translation = correction
-1	ᚉᚑᚉᚐᚏᚈ	cocart	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 2854
 # reference = f.195 top marg. (TPH p.xxi)
@@ -33707,17 +33656,6 @@
 5	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 6	letráim	letraim	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 7	so	so	PART	_	PronType=Dem	_	_	_	_
-
-# sent_id = 2862
-# reference = f.196 top marg. (TPH p.xxi)
-# scribe = Main Glossator
-# text = ᚛ᚐ ᚙᚑᚉᚐᚏᚈ ᚔᚅ ᚄᚑ
-# translation = this is his correction
-1	᚛	᚛	PUNCT	_	_	_	_	_	_
-2	ᚐ	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-3	ᚙᚑᚉᚐᚏᚈ	cocart	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-4	ᚔᚅ	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
-5	ᚄᚑ	so	PART	_	PronType=Dem	_	_	_	_
 
 # sent_id = 2863
 # reference = 196a1
@@ -37036,14 +36974,6 @@
 5	aithne	aithne	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	a	a	PART	_	Case=Voc	_	_	_	_
 7	máelecán	maellecan	PROPN	_	Case=Voc|Number=Sing	_	_	_	_
-
-# sent_id = 3080
-# reference = f.204 top marg. (TPH p.xxii)
-# scribe = Main Glossator
-# text = ᚛ᚂᚐᚈᚆᚓᚔᚏᚈ
-# translation = massive hangover
-1	᚛	᚛	PUNCT	_	_	_	_	_	_
-2	ᚂᚐᚈᚆᚓᚔᚏᚈ	laithirt	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 3081
 # reference = 204a1

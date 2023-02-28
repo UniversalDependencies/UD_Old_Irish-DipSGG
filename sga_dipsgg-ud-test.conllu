@@ -253,3 +253,73 @@
 9	hi	i	ADP	_	AdpType=Prep|Definite=Ind	10	case	_	_
 10	comṡuidiguth	comṡuidigud	NOUN	_	Case=Dat|Number=Sing	8	nmod	_	_
 
+# sent_id = 1274
+# reference = f.50 bottom marg. (TPH p.xx)
+# scribe = Main Glossator
+# text = ᚛ᚃᚓᚏᚔᚐ ᚉᚐᚔ ᚆᚑᚇᚔᚓ
+# translation = holiday of lamentation today
+1	᚛	᚛	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	ᚃᚓᚏᚔᚐ	feria	NOUN	_	Foreign=Yes	0	root	_	_
+3	ᚉᚐᚔ	caí	NOUN	_	_	2	nmod	_	_
+4	ᚆᚑᚇᚔᚓ	hodie	NOUN	_	Foreign=Yes	2	obl:tmod	_	_
+
+# sent_id = 1806
+# reference = f.70 top marg. (TPH p.xx)
+# scribe = Main Glossator
+# text = ᚛ᚃᚓᚂ ᚋᚐᚏᚈᚐᚔᚅ
+# translation = feast of Martin
+1	᚛	᚛	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	ᚃᚓᚂ	féil	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+3	ᚋᚐᚏᚈᚐᚔᚅ	martan	PROPN	_	Case=Gen|Number=Sing	2	nmod	_	_
+
+# sent_id = 2632
+# reference = f.170 top marg. (TPH p.xxi)
+# scribe = Main Glossator
+# text = ᚛ᚋᚔᚅ ᚉᚆᚐᚄᚉ
+# translation = little easter
+1	᚛	᚛	PUNCT	_	_	3	punct	_	SpaceAfter=No
+2	ᚋᚔᚅ	min	ADJ	_	Degree=Pos|Prefix=Yes	3	amod	_	_
+3	ᚉᚆᚐᚄᚉ	cásc	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+
+# sent_id = 2833
+# reference = f.193 top marg. (TPH p.xxi)
+# scribe = Main Glossator
+# text = ᚛ᚉᚑᚉᚐᚏᚈ
+# translation = correction
+1	᚛	᚛	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	ᚉᚑᚉᚐᚏᚈ	cocart	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+
+# sent_id = 2847
+# reference = f.194 top marg. (TPH p.xxi)
+# scribe = Main Glossator
+# text = ᚛ᚉᚑᚉᚐᚏᚈ
+# translation = correction
+1	᚛	᚛	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	ᚉᚑᚉᚐᚏᚈ	cocart	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+
+# sent_id = 2853
+# reference = f.195 top marg. (TPH p.xxi)
+# scribe = Main Glossator
+# text = ᚉᚑᚉᚐᚏᚈ
+# translation = correction
+1	ᚉᚑᚉᚐᚏᚈ	cocart	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+
+# sent_id = 2862
+# reference = f.196 top marg. (TPH p.xxi)
+# scribe = Main Glossator
+# text = ᚛ᚐ ᚙᚑᚉᚐᚏᚈ ᚔᚅ ᚄᚑ
+# translation = this is his correction
+1	᚛	᚛	PUNCT	_	_	3	punct	_	SpaceAfter=No
+2	ᚐ	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	_
+3	ᚙᚑᚉᚐᚏᚈ	cocart	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+4	ᚔᚅ	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
+5	ᚄᚑ	so	PART	_	PronType=Dem	3	amod	_	_
+
+# sent_id = 3080
+# reference = f.204 top marg. (TPH p.xxii)
+# scribe = Main Glossator
+# text = ᚛ᚂᚐᚈᚆᚓᚔᚏᚈ
+# translation = massive hangover
+1	᚛	᚛	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	ᚂᚐᚈᚆᚓᚔᚏᚈ	laithirt	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+
