@@ -175,7 +175,7 @@
 15	ind	in	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	libuir	lebor	NOUN	_	Case=Gen|Number=Sing	14	nmod	_	_
 17	bith	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Fut|VerbType=Cop	18	cop	_	_
-18	má	már	ADJ	_	Degree=Cmp	9	acl	_	_
+18	má	már	ADJ	_	Degree=Cmp	9	advcl	_	_
 19	de	de	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	18	obl:prep	_	_
 20	do	do	ADP	_	AdpType=Prep|Definite=Ind	21	case	_	_
 21	buith	both	NOUN	_	Case=Dat|Number=Sing	18	obl	_	_
