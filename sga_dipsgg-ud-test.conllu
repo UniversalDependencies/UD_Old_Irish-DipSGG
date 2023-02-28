@@ -260,7 +260,7 @@
 # translation = holiday of lamentation today
 1	᚛	᚛	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	ᚃᚓᚏᚔᚐ	feria	NOUN	_	Foreign=Yes	0	root	_	_
-3	ᚉᚐᚔ	caí	NOUN	_	_	2	nmod	_	_
+3	ᚉᚐᚔ	caí	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	_
 4	ᚆᚑᚇᚔᚓ	hodie	NOUN	_	Foreign=Yes	2	obl:tmod	_	_
 
 # sent_id = 1806
