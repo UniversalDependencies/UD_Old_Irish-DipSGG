@@ -198,7 +198,7 @@
 5	cach	cach	DET	_	Case=Dat|Definite=Def|Number=Sing	6	det	_	_
 6	libur	lebor	NOUN	_	Case=Dat|Number=Sing	3	nmod	_	_
 7	ar	ara	SCONJ	_	_	9	mark	_	_
-8	na	ná	SCONJ	_	Polarity=Neg	7	mark	_	SpaceAfter=No
+8	na	ná	SCONJ	_	Polarity=Neg	9	mark	_	SpaceAfter=No
 9	roib	attá	VERB	_	Mood=Sub|Number=Sing|PartType=Aug|Person=3|Tense=Pres|Voice=Act	3	ccomp	_	_
 10	cummasc	cummasc	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	_
 11	foir	for	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	10	obl:prep	_	_
