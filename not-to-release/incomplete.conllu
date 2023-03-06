@@ -36866,15 +36866,6 @@
 4	s	s	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 5	tabor	dobeir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	_
 
-# sent_id = 3094
-# reference = 204b6
-# scribe = Main Glossator
-# text = a thu su
-# translation = You!
-1	a	a	PART	_	PartType=Voc	_	_	_	_
-2	thu	tú	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-3	su	so	PRON	_	Number=Sing|Person=2|PronType=Emp	_	_	_	_
-
 # sent_id = 3095
 # reference = 204b7
 # scribe = Main Glossator
