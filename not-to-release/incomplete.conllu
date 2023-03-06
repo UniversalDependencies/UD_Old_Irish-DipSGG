@@ -1022,7 +1022,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	tre	tre	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 3	thesbaid	tesbaid	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-4	naich	nach	DET	_	Case=Gen|Number=Sing|PronType=Ind	_	_	_	_
+4	naich	nach	DET	_	Case=Gen|Definite=Ind|Number=Sing	_	_	_	_
 5	baill	ball	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 6	di	do	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 7	nd	in	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
@@ -1448,7 +1448,7 @@
 3	duidchi	tuidchisse	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	_
 4	sidi	side	PRON	_	PronType=Ana	_	_	_	_
 5	ó	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-6	nach	nach	DET	_	Case=Dat|Number=Sing|PronType=Ind	_	_	_	_
+6	nach	nach	DET	_	Case=Dat|Definite=Ind|Number=Sing	_	_	_	_
 7	ḟochun	fochunn	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 8	aili	aile	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	_
 
@@ -1563,7 +1563,7 @@
 2	roscríbad	scríbaid	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Pass	_	_	_	_
 3	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 4	aill	aile	ADJ	_	Case=Acc|Degree=Pos|Number=Plur	_	_	_	_
-5	na	nach	DET	_	Case=Acc|Number=Plur|PronType=Ind	_	_	_	_
+5	na	nach	DET	_	Case=Acc|Definite=Ind|Number=Plur	_	_	_	_
 
 # sent_id = 141
 # reference = 6b4
@@ -1803,7 +1803,7 @@
 # translation = there is no accident which can display the peculiarity of a letter as the power displays (it)
 1	ní	ní	PART	_	Polarity=Neg	_	_	_	_
 2	fail	attá	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-3	nach	nach	DET	_	Case=Acc|Number=Sing|PronType=Ind	_	_	_	_
+3	nach	nach	DET	_	Case=Acc|Definite=Ind|Number=Sing	_	_	_	_
 4	naiccidit	aiccidit	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 5	t	do	PART	_	PartType=Vb	_	_	_	_
 6	aibsed	doadbat	VERB	_	Aspect=Imp|Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
@@ -1848,7 +1848,7 @@
 # translation = no complete part (of speech) ends in it etc.
 1	Ní	ní	PART	_	Polarity=Neg	_	_	_	_
 2	foircnithær	forcenna	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
-3	nach	nach	DET	_	Case=Nom|Number=Sing|PronType=Ind	_	_	_	_
+3	nach	nach	DET	_	Case=Nom|Definite=Ind|Number=Sing	_	_	_	_
 4	rann	rann	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	óg	óg	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
 6	indi	i	ADP	_	AdpType=Prep|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -2052,7 +2052,7 @@
 # translation = it cannot be otherwise
 1	ní	ní	PART	_	Polarity=Neg	_	_	_	_
 2	rubai	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-3	nach	nach	DET	_	Case=Dat|Number=Sing|PronType=Ind	_	_	_	_
+3	nach	nach	DET	_	Case=Dat|Definite=Ind|Number=Sing	_	_	_	_
 4	cruth	cruth	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 5	ailiu	aile	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
 
@@ -6161,7 +6161,7 @@
 # translation = i.e. in any way at all
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	o	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-3	nach	nach	DET	_	Case=Dat|Number=Sing|PronType=Ind	_	_	_	_
+3	nach	nach	DET	_	Case=Dat|Definite=Ind|Number=Sing	_	_	_	_
 4	mud	mod	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 5	etir	eter	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 
@@ -13056,7 +13056,7 @@
 2	a	a	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 3	condelgg	coindelg	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 4	fri	fri	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-5	nna	nach	DET	_	Case=Acc|Number=Sing|PronType=Ind	_	_	_	_
+5	nna	nach	DET	_	Case=Acc|Definite=Ind|Number=Sing	_	_	_	_
 6	aill	aile	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 
 # sent_id = 1089
@@ -15181,7 +15181,7 @@
 14	comthód	comthód	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 15	and	i	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 16	ó	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-17	nach	nach	DET	_	Case=Dat|Number=Sing|PronType=Ind	_	_	_	_
+17	nach	nach	DET	_	Case=Dat|Definite=Ind|Number=Sing	_	_	_	_
 18	cruthath	cruthugud	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 19	ó	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 20	brethir	bríathar	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
@@ -16034,7 +16034,7 @@
 3	na	ná	SCONJ	_	Polarity=Neg	_	_	_	_
 4	bet	attá	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 5	o	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-6	nach	nach	DET	_	Case=Dat|Number=Sing|PronType=Ind	_	_	_	_
+6	nach	nach	DET	_	Case=Dat|Definite=Ind|Number=Sing	_	_	_	_
 7	ainmmdiu	ainmmde	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 8	etir	eter	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 9	acht	acht	SCONJ	_	_	_	_	_	_
@@ -16470,7 +16470,7 @@
 # translation = otherwise it would not be euphonious
 1	níbbad	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Neg|Tense=Past|VerbType=Cop	_	_	_	_
 2	bind	bind	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
-3	nach	nach	DET	_	Case=Dat|Number=Sing|PronType=Ind	_	_	_	_
+3	nach	nach	DET	_	Case=Dat|Definite=Ind|Number=Sing	_	_	_	_
 4	cruth	cruth	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 5	ailiu	aile	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
 
@@ -17271,7 +17271,7 @@
 7	femen	femen	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 8	ní	ní	PART	_	Polarity=Neg	_	_	_	_
 9	coméicnigedar	conéicnigedar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-10	na	nach	DET	_	Case=Nom|Number=Sing|PronType=Ind	_	_	_	_
+10	na	nach	DET	_	Case=Nom|Definite=Ind|Number=Sing	_	_	_	_
 11	dliged	dliged	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 12	in	in	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 13	sin	sin	PART	_	PronType=Dem	_	_	_	_
@@ -20850,7 +20850,7 @@
 11	ní	ní	PART	_	Polarity=Neg	_	_	_	_
 12	rochinnset	cinnid	VERB	_	Mood=Ind|Number=Plur|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 13	ó	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-14	nach	nach	DET	_	Case=Dat|Number=Sing|PronType=Ind	_	_	_	_
+14	nach	nach	DET	_	Case=Dat|Definite=Ind|Number=Sing	_	_	_	_
 15	uathuth	úathad	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 16	etir	eter	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 17	ut	_	X	_	Foreign=Yes	_	_	_	_
@@ -21509,7 +21509,7 @@
 # translation = to express by itself any substance
 1	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 2	ṡlund	slond	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-3	nach	nach	DET	_	Case=Gen|Number=Sing|PronType=Ind	_	_	_	_
+3	nach	nach	DET	_	Case=Gen|Definite=Ind|Number=Sing	_	_	_	_
 4	ḟolaid	folad	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 5	triit	tre	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 6	feissin	fadesin	PRON	_	PronType=Prs|Reflex=Yes	_	_	_	_
@@ -28612,7 +28612,7 @@
 3	feisin	fadesin	PRON	_	PronType=Prs|Reflex=Yes	_	_	_	_
 4	cen	cen	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 5	acaldaim	accaldam	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-6	nach	nach	DET	_	Case=Acc|Number=Sing|PronType=Ind	_	_	_	_
+6	nach	nach	DET	_	Case=Acc|Definite=Ind|Number=Sing	_	_	_	_
 7	aili	aile	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
 
 # sent_id = 2499
@@ -29753,7 +29753,7 @@
 6	⁊	ocus	CCONJ	_	_	_	_	_	_
 7	ni	ní	PART	_	Polarity=Neg	_	_	_	_
 8	airecar	aricc	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
-9	na	nach	DET	_	Case=Nom|Number=Sing|PronType=Ind	_	_	_	_
+9	na	nach	DET	_	Case=Nom|Definite=Ind|Number=Sing	_	_	_	_
 10	ail	aile	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 11	do	do	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 12	sed	_	X	_	Foreign=Yes	_	_	_	_
@@ -30575,7 +30575,7 @@
 # text = .i. nach aili
 # translation = i.e. any others
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	nach	nach	DET	_	Case=Acc|Number=Plur|PronType=Ind	_	_	_	_
+2	nach	nach	DET	_	Case=Acc|Definite=Ind|Number=Plur	_	_	_	_
 3	aili	aile	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	_
 
 # sent_id = 2640
@@ -31978,7 +31978,7 @@
 15	ɫ	nó	CCONJ	_	_	_	_	_	_
 16	nicon	nícon	PART	_	Polarity=Neg	_	_	_	_
 17	ḟil	attá	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-18	nach	nach	DET	_	Case=Acc|Number=Sing|PronType=Ind	_	_	_	_
+18	nach	nach	DET	_	Case=Acc|Definite=Ind|Number=Sing	_	_	_	_
 19	rainn	rann	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 20	nád	ná	PART	_	Polarity=Neg|PronType=Rel	_	_	_	_
 21	techtad	techtaid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
@@ -32125,7 +32125,7 @@
 15	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 16	ndíruidigthe	díṡruthigthe	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 17	dochum	dochum	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-18	nacha	nach	DET	_	Case=Gen|Number=Sing|PronType=Ind	_	_	_	_
+18	nacha	nach	DET	_	Case=Gen|Definite=Ind|Number=Sing	_	_	_	_
 19	rainne	rann	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 20	aile	aile	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
 21	ut	_	X	_	Foreign=Yes	_	_	_	_
@@ -34192,7 +34192,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	cen	cen	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 3	acomol	accomol	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-4	naich	nach	DET	_	Case=Acc|Number=Sing|PronType=Ind	_	_	_	_
+4	naich	nach	DET	_	Case=Acc|Definite=Ind|Number=Sing	_	_	_	_
 5	aili	aile	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 6	do	do	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 7	air	ar	SCONJ	_	_	_	_	_	_
@@ -34793,7 +34793,7 @@
 # translation = i.e. on some other
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	for	for	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-3	nach	nach	DET	_	Case=Acc|Number=Sing|PronType=Ind	_	_	_	_
+3	nach	nach	DET	_	Case=Acc|Definite=Ind|Number=Sing	_	_	_	_
 4	naile	aile	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 
 # sent_id = 2947
@@ -34814,7 +34814,7 @@
 2	Gniid	gníid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 3	sem	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	_	_	_	_
 4	for	for	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-5	nach	nach	DET	_	Case=Acc|Number=Sing|PronType=Ind	_	_	_	_
+5	nach	nach	DET	_	Case=Acc|Definite=Ind|Number=Sing	_	_	_	_
 6	naile	aile	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	_	_	_	_
 7	hinunn	inunn	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	_	_	_	_
 8	⁊	ocus	CCONJ	_	_	_	_	_	_
@@ -34928,7 +34928,7 @@
 12	labrathar	labraithir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 13	dese	_	X	_	Foreign=Yes	_	_	_	_
 14	sech	sech	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-15	nach	nach	DET	_	PronType=Ind	_	_	_	_
+15	nach	nach	DET	_	Definite=Ind	_	_	_	_
 16	persin	persan	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 17	ind	a	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 18	ṡainriuth	sainred	ADV	_	_	_	_	_	_
@@ -35989,7 +35989,7 @@
 # translation = i.e. it is no other
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	ní	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
-3	nach	nach	DET	_	PronType=Ind	_	_	_	_
+3	nach	nach	DET	_	Definite=Ind	_	_	_	_
 4	aile	aile	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 
 # sent_id = 3031
@@ -36015,7 +36015,7 @@
 16	bes	bés	ADV	_	_	_	_	_	_
 17	no	no	PART	_	PartType=Vb	_	_	_	_
 18	bed	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
-19	nach	nach	DET	_	Case=Nom|Number=Sing|PronType=Ind	_	_	_	_
+19	nach	nach	DET	_	Case=Nom|Definite=Ind|Number=Sing	_	_	_	_
 20	aile	aile	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 21	leis	la	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 22	oc	oc	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -36538,7 +36538,7 @@
 # text = o nach múd etir són ɫ ó cach mud .i. ni ó cach múd is airiti
 # translation = in any way at all, or in every way, i.e. not in every way is it to be accepted
 1	o	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-2	nach	nach	DET	_	Case=Dat|Number=Sing|PronType=Ind	_	_	_	_
+2	nach	nach	DET	_	Case=Dat|Definite=Ind|Number=Sing	_	_	_	_
 3	múd	mod	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 4	etir	eter	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 5	són	side	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ana	_	_	_	_
@@ -37801,7 +37801,7 @@
 24	na	ná	PART	_	Polarity=Neg|PronType=Rel	_	_	_	_
 25	ṅd	d	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 26	eper	asbeir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-27	nach	nach	DET	_	PronType=Ind	_	_	_	_
+27	nach	nach	DET	_	Definite=Ind	_	_	_	_
 28	aile	aile	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 29	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 30	t	do	PRON	_	Number=Sing|Person=2|Poss=Yes|PronType=Prs	_	_	_	_
@@ -37830,7 +37830,7 @@
 53	⁊	ocus	CCONJ	_	_	_	_	_	_
 54	ní	ní	PART	_	Polarity=Neg	_	_	_	_
 55	erchondla	arcondla	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-56	nach	nach	DET	_	Case=Nom|Number=Sing|PronType=Ind	_	_	_	_
+56	nach	nach	DET	_	Case=Nom|Definite=Ind|Number=Sing	_	_	_	_
 57	persan	persan	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 58	aile	aile	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
 59	frit	fri	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=2|PronType=Prs	_	_	_	_
@@ -38280,7 +38280,7 @@
 33	do	do	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 34	som	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	_	_	_	_
 35	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-36	nnach	nach	DET	_	Case=Acc|Number=Sing|PronType=Ind	_	_	_	_
+36	nnach	nach	DET	_	Case=Acc|Definite=Ind|Number=Sing	_	_	_	_
 37	naile	aile	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 38	innunn	inunn	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	_	_	_	_
 39	⁊	ocus	CCONJ	_	_	_	_	_	_
@@ -38290,7 +38290,7 @@
 43	ṡuidiu	suide	PRON	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Ana	_	_	_	_
 44	gním	gním	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 45	o	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-46	nach	nach	DET	_	Case=Dat|Number=Sing|PronType=Ind	_	_	_	_
+46	nach	nach	DET	_	Case=Dat|Definite=Ind|Number=Sing	_	_	_	_
 47	ailiu	aile	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
 48	foir	for	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 49	sem	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	_	_	_	_
@@ -38664,7 +38664,7 @@
 29	fein	fadesin	PRON	_	PronType=Prs|Reflex=Yes	_	_	_	_
 30	fa	fa	SCONJ	_	_	_	_	_	_
 31	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-32	nach	nach	DET	_	Case=Dat|Number=Sing|PronType=Ind	_	_	_	_
+32	nach	nach	DET	_	Case=Dat|Definite=Ind|Number=Sing	_	_	_	_
 33	ailiu	aile	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	_
 34	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 35	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
@@ -38722,7 +38722,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	ní	ní	PART	_	Polarity=Neg	_	_	_	_
 3	bí	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-4	nach	nach	DET	_	Case=Nom|Number=Sing|PronType=Ind	_	_	_	_
+4	nach	nach	DET	_	Case=Nom|Definite=Ind|Number=Sing	_	_	_	_
 5	tuisel	tuisel	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	aile	aile	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
 7	etarru	eter	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs	_	_	_	_
@@ -39018,7 +39018,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	ní	ní	PART	_	Polarity=Neg	_	_	_	_
 3	adchumtig	adconutaing	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-4	na	nach	DET	_	Case=Acc|Number=Sing|PronType=Ind	_	_	_	_
+4	na	nach	DET	_	Case=Acc|Definite=Def|Number=Sing	_	_	_	_
 5	aill	aile	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 6	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 7	línad	línad	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
@@ -39043,7 +39043,7 @@
 # translation = i.e. and anything else from without to demonstrate its [lit. her] substance
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	⁊	ocus	CCONJ	_	_	_	_	_	_
-3	na	nach	DET	_	Case=Nom|Number=Sing|PronType=Ind	_	_	_	_
+3	na	nach	DET	_	Case=Nom|Definite=Ind|Number=Sing	_	_	_	_
 4	aill	aile	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 5	di	de	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	an	an	PART	_	Prefix=Yes	_	_	_	_
