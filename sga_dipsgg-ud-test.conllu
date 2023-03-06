@@ -588,8 +588,8 @@
 # text = Domfarcai fidbaidae fál fomchain lóid luin lúad nad cél· huas mo lebrán indlínech fomchain trírech innaṅén ··, Fommchain cói menn medair mass hiṁbrot glass de dindgnaibdoss· debrath nomchoimmdiu cóima cáinscríbaimm foróida ross
 # translation = An enclosure of trees surrounds me, a blackbird’s lay sings praise to me which I will not hide. Above my booklet, the lined one, the birds' chirping sings to me. A cuckoo's excellent, clear oration sings to me in a green canopy from treetops: God! may the Lord cherish me! Well do I write under the wood of the forrest.
 1	Do	do	PART	_	PartType=Vb	3	compound:prt	_	SpaceAfter=No
-2	m	m	PRON	_	Number=Sing|Person=1|PronType=Prs	1	obj:infx	_	_
-3	farcai	dofarcai	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	SpaceAfter=No
+2	m	m	PRON	_	Number=Sing|Person=1|PronType=Prs	1	obj:infx	_	SpaceAfter=No
+3	farcai	dofarcai	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 4	fidbaidae	fidbaid	NOUN	_	Case=Gen|Number=Plur	5	nmod:pre	_	_
 5	fál	fál	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 6	fo	fo	PART	_	PartType=Vb	8	compound:prt	_	SpaceAfter=No
