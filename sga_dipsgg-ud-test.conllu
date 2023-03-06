@@ -562,7 +562,7 @@
 3	céin	céin	ADV	_	_	4	advmod	_	_
 4	mardda	maraid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	1	advcl	_	_
 5	aithne	aithne	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
-6	a	a	PART	_	PartType=Voc	_	case:voc	_	SpaceAfter=No
+6	a	a	PART	_	PartType=Voc	7	case:voc	_	SpaceAfter=No
 7	máelecán	maellecan	PROPN	_	Case=Voc|Number=Sing	1	vocative	_	_
 
 # sent_id = 3080
@@ -578,8 +578,8 @@
 # scribe = Main Glossator
 # text = athvsv
 # translation = You!
-1	a	a	PART	_	PartType=Voc	2	case:voc	_	_
-2	thv	tú	PRON	_	Number=Sing|Person=2|PronType=Prs	0	root	_	_
+1	a	a	PART	_	PartType=Voc	2	case:voc	_	SpaceAfter=No
+2	thv	tú	PRON	_	Number=Sing|Person=2|PronType=Prs	0	root	_	SpaceAfter=No
 3	sv	so	PRON	_	Number=Sing|Person=2|PronType=Emp	2	amod	_	_
 
 # sent_id = 3102
