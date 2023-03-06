@@ -699,7 +699,7 @@
 # text = isgann membrumm
 # translation = parchment is scanty
 1	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	2	cop	_	SpaceAfter=No
-2	gann	gann	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	2	amod	_	_
+2	gann	gann	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
 3	membrumm	membrum	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 
 # sent_id = 3461
