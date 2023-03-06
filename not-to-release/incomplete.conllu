@@ -3539,7 +3539,7 @@
 # reference = 12b6
 # scribe = Main Glossator
 # text = cosmail oircnid eter athir oircnid ɫ tuistid oircnid
-# translation = * no translation available *
+# translation = kinslayer either father-slayer or parent-slayer
 1	cosmail	cosmail	ADJ	_	Degree=Pos|Prefix=Yes	_	_	_	_
 2	oircnid	oircnid	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	eter	eter	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -12387,7 +12387,7 @@
 # scribe = Main Glossator
 # text = a rómanu
 # translation = Romans!
-1	a	a	PART	_	Case=Voc	_	_	_	_
+1	a	a	PART	_	PartType=Voc	_	_	_	_
 2	rómanu	rómán	NOUN	_	Case=Voc|Number=Plur	_	_	_	_
 
 # sent_id = 1030
@@ -13138,7 +13138,7 @@
 # scribe = Main Glossator
 # text = á catuláin ⁊ ni bí digbail folaid and calléic cia beith ind apélugud
 # translation = O little Catulus; and there is still no diminution of substance here though there be the caressing
-1	á	a	PART	_	Case=Voc	_	_	_	_
+1	á	a	PART	_	PartType=Voc	_	_	_	_
 2	catuláin	catulán	PROPN	_	Case=Voc|Number=Sing	_	_	_	_
 3	⁊	ocus	CCONJ	_	_	_	_	_	_
 4	ni	ní	PART	_	Polarity=Neg	_	_	_	_
@@ -15009,14 +15009,6 @@
 12	tuisel	tuisel	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 13	díib	de	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 
-# sent_id = 1298
-# reference = f.52 top marg. (TPH p.xx)
-# scribe = Main Glossator
-# text = daman ṡianach
-# translation = a little skulk of foxes
-1	daman	dámán	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-2	ṡianach	sinnach	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
-
 # sent_id = 1299
 # reference = 52a1
 # scribe = Main Glossator
@@ -15039,7 +15031,7 @@
 1	cennmar	cennmar	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 2	ɫ	nó	CCONJ	_	_	_	_	_	_
 3	cenn	cenn	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-4	mar	már	ADJ	_	Degree=Pos|Prefix=Yes	_	_	_	_
+4	mar	már	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 
 # sent_id = 1302
 # reference = 52a4
@@ -15115,13 +15107,6 @@
 # text = meirc
 # translation = rust
 1	meirc	meirc	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-
-# sent_id = 1311
-# reference = 52a13
-# scribe = Main Glossator
-# text = hirud
-# translation = margin
-1	hirud	irud	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 1312
 # reference = 52a14
@@ -17303,13 +17288,6 @@
 # text = gainae
 # translation = flint
 1	gainae	gainae	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-
-# sent_id = 1520
-# reference = 61a11
-# scribe = Main Glossator
-# text = bruach
-# translation = margin
-1	bruach	bruach	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 1521
 # reference = 61a12
@@ -19504,21 +19482,6 @@
 # text = barr
 # translation = helmet
 1	barr	barr	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-
-# sent_id = 1731
-# reference = 67b7
-# scribe = Main Glossator
-# text = immargal is femininum dano ⁊ a ta forbart and
-# translation = strife: it is feminine and there is increase in it
-1	immargal	immargal	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-3	femininum	_	X	_	Foreign=Yes	_	_	_	_
-4	dano	dano	ADV	_	_	_	_	_	_
-5	⁊	ocus	CCONJ	_	_	_	_	_	_
-6	a	ad	PART	_	PartType=Vb	_	_	_	_
-7	ta	attá	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-8	forbart	forbart	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-9	and	i	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 
 # sent_id = 1732
 # reference = 67b8
@@ -22028,15 +21991,15 @@
 1	fri	fri	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 2	togarthaith	togarthaid	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 3	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-4	a	a	PART	_	Case=Voc	_	_	_	_
-5	már	már	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	_
+4	a	a	PART	_	PartType=Voc	_	_	_	_
+5	már	már	ADJ	_	Degree=Pos|Prefix=Yes	_	_	_	_
 6	thórmachtai	tormachtae	ADJ	_	Case=Voc|Degree=Pos|Number=Sing	_	_	_	_
 
 # sent_id = 1950
 # reference = 76a3
 # scribe = Main Glossator
 # text = .i. is bec na nd sinunn a ndéde ní siu
-# translation = i.e. these two (explanations) are nearly the same
+# translation = i.e. there is little in the difference between this pair
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 3	bec	becc	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
@@ -22044,7 +22007,7 @@
 5	nd	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
 6	sinunn	inunn	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 7	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
-8	ndéde	déde	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+8	ndéde	déde	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 9	ní	í	PART	_	PartType=Dct	_	_	_	_
 10	siu	so	PART	_	PronType=Dem	_	_	_	_
 
@@ -23748,15 +23711,6 @@
 1	ind	in	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 2	ḟuirsiri	fuirsire	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 
-# sent_id = 2096
-# reference = 103b1
-# scribe = Main Glossator
-# text = a con mír
-# translation = i.e. the dog’s morsel
-1	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-2	con	cu	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-3	mír	mír	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-
 # sent_id = 2097
 # reference = 104a1
 # scribe = Main Glossator
@@ -24717,34 +24671,6 @@
 7	isidorus	_	X	_	Foreign=Yes	_	_	_	_
 8	dicit	_	X	_	Foreign=Yes	_	_	_	_
 
-# sent_id = 2178
-# reference = f.112 top marg. (TPH p.290)
-# scribe = Main Glossator
-# text = is acher in gáith i nnocht fu fuasna fairggae find ḟolt ni ágor réimm mora minn do nd láechraid lainn óa lothlind
-# translation = Bitter is the wind tonight, it tosses the ocean’s white hair: I fear not the coursing of a clear sea by the fierce heroes from Lothlend
-1	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-2	acher	aicher	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
-3	in	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
-4	gáith	gaíth	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-5	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-6	nnocht	nocht	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-7	fu	fo	PART	_	PartType=Vb	_	_	_	_
-8	fuasna	fofúasna	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-9	fairggae	fairge	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-10	find	finn	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
-11	ḟolt	folt	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-12	ni	ní	PART	_	Polarity=Neg	_	_	_	_
-13	ágor	adágathar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	_
-14	réimm	réim	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-15	mora	muir	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-16	minn	menn	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
-17	do	do	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
-18	nd	in	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
-19	láechraid	láechraid	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-20	lainn	lainn	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	_
-21	óa	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-22	lothlind	lothlend	PROPN	_	Case=Dat|Number=Sing	_	_	_	_
-
 # sent_id = 2179
 # reference = 112a1
 # scribe = Main Glossator
@@ -24934,20 +24860,6 @@
 # text = derucc
 # translation = acorn
 1	derucc	derucc	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-
-# sent_id = 2198
-# reference = f.114 top marg. (TPH p.xx)
-# scribe = Glossator _
-# text = bendacht for anmmain ferguso amen mar uar dom
-# translation = A blessing on the soul of Fergus. Amen. I am very cold
-1	bendacht	bendacht	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-2	for	for	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-3	anmmain	anim	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-4	ferguso	fergus	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
-5	amen	_	X	_	Foreign=Yes	_	_	_	_
-6	mar	már	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
-7	uar	úar	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
-8	dom	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=1|PronType=Prs	_	_	_	_
 
 # sent_id = 2199
 # reference = 114a1
@@ -29189,16 +29101,6 @@
 11	causa	_	X	_	Foreign=Yes	_	_	_	_
 12	euphoniae	_	X	_	Foreign=Yes	_	_	_	_
 
-# sent_id = 2534
-# reference = f.158 top marg. (TPH p.xx)
-# scribe = Main Glossator
-# text = sén a nóib ingen
-# translation = Bless, Holy Virgin
-1	sén	sén	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-2	a	a	PART	_	Case=Voc	_	_	_	_
-3	nóib	nóib	ADJ	_	Case=Voc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
-4	ingen	ingen	NOUN	_	Case=Voc|Number=Sing	_	_	_	_
-
 # sent_id = 2535
 # reference = 158a1
 # scribe = Main Glossator
@@ -29377,14 +29279,6 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 3	cumscaigthetaid	cumscaigthetu	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-
-# sent_id = 2547
-# reference = f.159 top marg. (TPH p.xx)
-# scribe = Main Glossator
-# text = ruadri adest
-# translation = Ruadrí is here
-1	ruadri	ruadrí	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
-2	adest	_	X	_	Foreign=Yes	_	_	_	_
 
 # sent_id = 2548
 # reference = 159a1
@@ -29930,7 +29824,7 @@
 # translation = i.e. tonas, O idol
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	tonas	_	X	_	Foreign=Yes	_	_	_	_
-3	a	a	PART	_	Case=Voc	_	_	_	_
+3	a	a	PART	_	PartType=Voc	_	_	_	_
 4	idáil	ídal	NOUN	_	Case=Voc|Number=Sing	_	_	_	_
 
 # sent_id = 2585
@@ -30336,15 +30230,6 @@
 16	dia	dia	SCONJ	_	_	_	_	_	_
 17	mbé	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 18	són	side	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ana	_	_	_	_
-
-# sent_id = 2612
-# reference = f.165 bottom marg. (TPH p.xxi)
-# scribe = Main Glossator
-# text = is dorchæ dom
-# translation = it is dark for me
-1	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-2	dorchæ	dorchae	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
-3	dom	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=1|PronType=Prs	_	_	_	_
 
 # sent_id = 2613
 # reference = 166a1
@@ -30965,15 +30850,6 @@
 3	nna	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 4	comsuidigthib	comṡuidigthe	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	_	_	_	_
 
-# sent_id = 2663
-# reference = f.176 top marg. (TPH p.xxi)
-# scribe = Main Glossator
-# text = uit mo chrob
-# translation = alas! my hand
-1	uit	uit	INTJ	_	_	_	_	_	_
-2	mo	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
-3	chrob	crob	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-
 # sent_id = 2664
 # reference = 176a1
 # scribe = Main Glossator
@@ -31309,10 +31185,10 @@
 # sent_id = 2691
 # reference = 181a4
 # scribe = Glossator +
-# text = vel origenistum .i. bunad gein
-# translation = see Translation Notes
-1	vel	_	X	_	Foreign=Yes	_	_	_	_
-2	origenistum	_	X	_	Foreign=Yes	_	_	_	_
+# text = ɫ origenistum .i. bunad gein
+# translation = or Origenist i.e. original creation
+1	ɫ	_	CCONJ	_	Foreign=Yes	_	_	_	_
+2	origenistum	_	NOUN	_	Foreign=Yes	_	_	_	_
 3	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 4	bunad	bunad	NOUN	_	Prefix=Yes	_	_	_	_
 5	gein	gein	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -31471,13 +31347,6 @@
 # translation = though they do not (keep)
 1	ce	cía	SCONJ	_	_	_	_	_	_
 2	nid	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
-
-# sent_id = 2703
-# reference = f.182 top marg. (TPH p.xxi)
-# scribe = Main Glossator
-# text = finguine
-# translation = * no translation available *
-1	finguine	finguine	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 2704
 # reference = 182a1
@@ -32697,13 +32566,6 @@
 7	da	dá	NUM	_	NumType=Card	_	_	_	_
 8	rann	rann	NOUN	_	Case=Gen|Number=Dual	_	_	_	_
 
-# sent_id = 2784
-# reference = f.189 top marg. (TPH p.xxi)
-# scribe = Main Glossator
-# text = lathaeirt
-# translation = massive hangover
-1	lathaeirt	laithirt	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-
 # sent_id = 2785
 # reference = 189a1
 # scribe = Main Glossator
@@ -32965,14 +32827,6 @@
 5	folad	folad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	quam	_	X	_	Foreign=Yes	_	_	_	_
 7	accidentia	_	X	_	Foreign=Yes	_	_	_	_
-
-# sent_id = 2805
-# reference = f.190 top marg. (TPH p.xxi)
-# scribe = Main Glossator
-# text = fo llega
-# translation = it [the ink] leaks
-1	fo	fo	PART	_	PartType=Vb	_	_	_	_
-2	llega	folega	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 
 # sent_id = 2806
 # reference = 190a1
@@ -33498,13 +33352,6 @@
 6	inna	in	DET	_	Case=Gen|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_
 7	ranngabál	ranngabál	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
 
-# sent_id = 2846
-# reference = f.194 top marg. (TPH p.xxi)
-# scribe = Main Glossator
-# text = donngus
-# translation = Dongus
-1	donngus	dongus	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
-
 # sent_id = 2848
 # reference = 194a1
 # scribe = Main Glossator
@@ -33548,34 +33395,6 @@
 3	anman	ainm	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 4	amal	amal	SCONJ	_	_	_	_	_	_
 5	sodain	suide	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ana	_	_	_	_
-
-# sent_id = 2852
-# reference = f.194 bottom marg. (TPH p.xxi)
-# scribe = Main Glossator
-# text = do inis maddoc dún .i. me isse ⁊ choirbbre
-# translation = We are from Inis Maddoc i.e. Coirbbre and I
-1	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-2	inis	inis	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-3	maddoc	maddoc	PROPN	_	Case=Dat|Number=Sing	_	_	_	_
-4	dún	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=1|PronType=Prs	_	_	_	_
-5	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-6	me	mé	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-7	isse	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	_	_	_	_
-8	⁊	ocus	CCONJ	_	_	_	_	_	_
-9	choirbbre	coirbbre	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
-
-# sent_id = 2854
-# reference = f.195 top marg. (TPH p.xxi)
-# scribe = Main Glossator
-# text = is gann in memrum et a scribend
-# translation = The parchment is rough (? ’difficilis’ Nigra) and the writing
-1	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-2	gann	gann	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
-3	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
-4	memrum	membrum	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-5	et	_	X	_	Foreign=Yes	_	_	_	_
-6	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
-7	scribend	scríbend	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 2855
 # reference = 195a1
@@ -33643,19 +33462,6 @@
 7	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 8	chuit	cuit	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 9	sidi	side	PRON	_	PronType=Ana	_	_	_	_
-
-# sent_id = 2861
-# reference = f.195 bottom marg. (TPH p.xxi)
-# scribe = Main Glossator
-# text = ní áer mall roscríbad in letráim so
-# translation = This page has not been written very slowly
-1	ní	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
-2	áer	ér	PART	_	Prefix=Yes	_	_	_	_
-3	mall	mall	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
-4	roscríbad	scríbaid	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Pass	_	_	_	_
-5	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
-6	letráim	letraim	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-7	so	so	PART	_	PronType=Dem	_	_	_	_
 
 # sent_id = 2863
 # reference = 196a1
@@ -35228,14 +35034,6 @@
 # translation = of the multitude
 1	inna	in	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 2	sochuide	sochuide	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-
-# sent_id = 2962
-# reference = f.199 bottom marg. (TPH p.xxi)
-# scribe = Main Glossator
-# text = ní mmall
-# translation = it is not slow
-1	ní	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
-2	mmall	mall	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 
 # sent_id = 2963
 # reference = 200a1
@@ -36936,45 +36734,6 @@
 8	filter	fillid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
 9	ainm	ainm	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
-# sent_id = 3078
-# reference = f.203 bottom marg. (TPH p.xxi)
-# scribe = Main Glossator
-# text = maithas patric ⁊ brigtae ar máel brigtae na mba olcc a menma frimm ar in scribund roscribad in dul so
-# translation = the beneficence of Patrick and Brigit on Mael Brigte, that he may not be angry with me for the writing that has been written this time
-1	maithas	maithes	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-2	patric	pátric	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
-3	⁊	ocus	CCONJ	_	_	_	_	_	_
-4	brigtae	brigit	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
-5	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-6	máel	máel	PROPN	_	Case=Acc|Number=Sing	_	_	_	_
-7	brigtae	brigtae	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
-8	na	ná	SCONJ	_	Polarity=Neg	_	_	_	_
-9	mba	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
-10	olcc	olc	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
-11	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-12	menma	menma	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-13	frimm	fri	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=1|PronType=Prs	_	_	_	_
-14	ar	ar	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
-15	in	a	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
-16	scribund	scríbend	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-17	roscribad	scríbaid	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Pass	_	_	_	_
-18	in	in	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
-19	dul	dul	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-20	so	so	PART	_	PronType=Dem	_	_	_	_
-
-# sent_id = 3079
-# reference = f.203 bottom marg. (TPH p.xxii)
-# scribe = Main Glossator
-# text = maraith sercc céin mardda aithne a máelecán
-# translation = Love remains as long as property (lit. deposit, ,opes’ Nigra) remains, O Maellecan
-1	maraith	maraid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-2	sercc	serc	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-3	céin	céin	ADV	_	_	_	_	_	_
-4	mardda	maraid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-5	aithne	aithne	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-6	a	a	PART	_	Case=Voc	_	_	_	_
-7	máelecán	maellecan	PROPN	_	Case=Voc|Number=Sing	_	_	_	_
-
 # sent_id = 3081
 # reference = 204a1
 # scribe = Main Glossator
@@ -37069,11 +36828,11 @@
 # scribe = Main Glossator
 # text = a mo aine .i. a mo chland vel proprium
 # translation = My delight! i.e. My child! Or a proper name
-1	a	a	PART	_	Case=Voc	_	_	_	_
+1	a	a	PART	_	PartType=Voc	_	_	_	_
 2	mo	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
 3	aine	áine	NOUN	_	Case=Voc|Number=Sing	_	_	_	_
 4	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-5	a	a	PART	_	Case=Voc	_	_	_	_
+5	a	a	PART	_	PartType=Voc	_	_	_	_
 6	mo	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
 7	chland	cland	NOUN	_	Case=Voc|Number=Sing	_	_	_	_
 8	vel	_	X	_	Foreign=Yes	_	_	_	_
@@ -37112,7 +36871,7 @@
 # scribe = Main Glossator
 # text = a thu su
 # translation = You!
-1	a	a	PART	_	Case=Voc	_	_	_	_
+1	a	a	PART	_	PartType=Voc	_	_	_	_
 2	thu	tú	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 3	su	so	PRON	_	Number=Sing|Person=2|PronType=Emp	_	_	_	_
 
@@ -37184,59 +36943,6 @@
 # translation = i.e. below
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	sis	sis	ADV	_	_	_	_	_	_
-
-# sent_id = 3102
-# reference = f.203-204 bottom marg. (TPH p.290)
-# scribe = Main Glossator
-# text = Do m farcai fidbaidae fál fo m chain lóid luin lúad nad cél huas mo lebrán ind línech fo m chain trírech inna ṅén Fo mm chain cói menn medair mass hi ṁbrot glass de dindgnaib doss debrath no m choimmdiu cóima cáin scríbaimm fo róida ross
-# translation = A hedge of trees surrounds me: a blackbird’s lay sings to me—praise which I will not hide—above my booklet the lined one the trilling of the birds sings to me. In a gray mantle the cuckoo’s beautiful chant sings to me from the tops of bushes: may the Lord be kind to me! I write well under the greenwood
-1	Do	do	PART	_	PartType=Vb	_	_	_	_
-2	m	m	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-3	farcai	dofarcai	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-4	fidbaidae	fidbaid	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
-5	fál	fál	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-6	fo	fo	PART	_	PartType=Vb	_	_	_	_
-7	m	m	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-8	chain	focain	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-9	lóid	lóid	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-10	luin	lon	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-11	lúad	lúad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-12	nad	ná	PART	_	Polarity=Neg|PronType=Rel	_	_	_	_
-13	cél	ceilid	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=Act	_	_	_	_
-14	huas	úas	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-15	mo	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
-16	lebrán	lebrán	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-17	ind	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
-18	línech	línech	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
-19	fo	fo	PART	_	PartType=Vb	_	_	_	_
-20	m	m	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-21	chain	focain	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-22	trírech	trírech	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-23	inna	in	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Art	_	_	_	_
-24	ṅén	én	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
-25	Fo	fo	PART	_	PartType=Vb	_	_	_	_
-26	mm	m	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-27	chain	focain	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-28	cói	cói	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-29	menn	menn	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
-30	medair	medar	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-31	mass	mass	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
-32	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-33	ṁbrot	bratt	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-34	glass	glas	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
-35	de	de	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-36	dindgnaib	dindgna	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
-37	doss	dos	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
-38	debrath	debrath	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-39	no	no	PART	_	PartType=Vb	_	_	_	_
-40	m	m	PRON	_	Number=Sing|Person=1|PronType=Prs	_	_	_	_
-41	choimmdiu	coimdiu	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-42	cóima	coímaid	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-43	cáin	caín	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
-44	scríbaimm	scríbaid	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	_
-45	fo	fo	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-46	róida	rúd	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-47	ross	ros	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 
 # sent_id = 3103
 # reference = 205a1
@@ -37435,13 +37141,6 @@
 1	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 2	foxlaid	fochslaid	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 3	femin	femen	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-
-# sent_id = 3118
-# reference = f.207 top marg. (TPH p.xxii)
-# scribe = Main Glossator
-# text = dongus
-# translation = Dongus
-1	dongus	dongus	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 3119
 # reference = 207a1
@@ -39245,22 +38944,6 @@
 3	as	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
 4	quis	_	X	_	Foreign=Yes	_	_	_	_
 
-# sent_id = 3228
-# reference = f.210 bottom marg. (TPH p.xxii)
-# scribe = Main Glossator
-# text = tiach didiu ma d ferr lat .i. d o o
-# translation = I will go then, if you prefer it
-1	tiach	téit	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=Act	_	_	_	_
-2	didiu	didiu	ADV	_	_	_	_	_	_
-3	ma	má	SCONJ	_	_	_	_	_	_
-4	d	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-5	ferr	maith	ADJ	_	Degree=Pos	_	_	_	_
-6	lat	la	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=2|PronType=Prs	_	_	_	_
-7	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-8	d	_	X	_	Foreign=Yes	_	_	_	_
-9	o	_	X	_	Foreign=Yes	_	_	_	_
-10	o	_	X	_	Foreign=Yes	_	_	_	_
-
 # sent_id = 3229
 # reference = 211a1
 # scribe = Main Glossator
@@ -39692,18 +39375,6 @@
 2	ní	í	PART	_	PartType=Dct	_	_	_	_
 3	as	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
 4	ipse	_	X	_	Foreign=Yes	_	_	_	_
-
-# sent_id = 3259
-# reference = f.211 bottom marg. (TPH p.xxii)
-# scribe = Main Glossator
-# text = uch mo chliab a nóib ingen
-# translation = O my breast, Holy Virgin
-1	uch	uch	INTJ	_	_	_	_	_	_
-2	mo	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
-3	chliab	clíab	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-4	a	a	PART	_	Case=Voc	_	_	_	_
-5	nóib	nóib	ADJ	_	Case=Voc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
-6	ingen	ingen	NOUN	_	Case=Voc|Number=Sing	_	_	_	_
 
 # sent_id = 3260
 # reference = 212a1
@@ -41292,21 +40963,6 @@
 # translation = apposition
 1	comasṅdéis	comaisndís	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
-# sent_id = 3385
-# reference = f.217 bottom marg. (TPH p.xxii)
-# scribe = Main Glossator
-# text = memmbrum naue droch dub ó ní epur na haill
-# translation = New parchment, bad ink. O I say nothing more.
-1	memmbrum	membrum	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-2	naue	nuae	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
-3	droch	droch	ADJ	_	Degree=Pos|Prefix=Yes	_	_	_	_
-4	dub	dub	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-5	ó	ó	INTJ	_	_	_	_	_	_
-6	ní	ní	PART	_	Polarity=Neg	_	_	_	_
-7	epur	asbeir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	_
-8	na	nach	DET	_	Case=Acc|Number=Sing|PronType=Ind	_	_	_	_
-9	haill	aile	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
-
 # sent_id = 3386
 # reference = 218a1
 # scribe = Main Glossator
@@ -42129,61 +41785,6 @@
 1	mochoe	mochoe	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 2	noiṅdrommo	_	X	_	Foreign=Yes	_	_	_	_
 
-# sent_id = 3460
-# reference = f.228 top marg. (TPH p.xxii)
-# scribe = Main Glossator
-# text = is gann membrumm
-# translation = the parchment is scanty
-1	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-2	gann	gann	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
-3	membrumm	membrum	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-
-# sent_id = 3461
-# reference = f.229 top marg. (TPH p.290)
-# scribe = Main Glossator
-# text = Gaib do chuil i sin charcair ni róis chluim na colcaid truag in sin a mail bachal ro t giuil ind ṡrathar dodcaid
-# translation = Take your corner in the prison: you shall reach neither down nor pallet: sad is that, you servant of the rods, the packsaddle of ill-luck has stuck to you
-1	Gaib	gaibid	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	_	_	_	_
-2	do	do	PRON	_	Number=Sing|Person=2|Poss=Yes|PronType=Prs	_	_	_	_
-3	chuil	cúil	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-4	i	i	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
-5	sin	in	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
-6	charcair	carcar	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-7	ni	ní	PART	_	Polarity=Neg	_	_	_	_
-8	róis	rosaig	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut|Voice=Act	_	_	_	_
-9	chluim	clúm	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-10	na	ná	SCONJ	_	Polarity=Neg	_	_	_	_
-11	colcaid	colcaid	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-12	truag	trúag	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
-13	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
-14	sin	sin	PART	_	PronType=Dem	_	_	_	_
-15	a	a	PART	_	Case=Voc	_	_	_	_
-16	mail	mael	PROPN	_	Case=Voc|Number=Sing	_	_	_	_
-17	bachal	bachall	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
-18	ro	ro	PART	_	PartType=Aug	_	_	_	_
-19	t	t	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-20	giuil	glenaid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
-21	ind	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
-22	ṡrathar	srathar	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-23	dodcaid	dodcad	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-
-# sent_id = 3462
-# reference = f.231 top marg. (TPH p.xxii)
-# scribe = Main Glossator
-# text = medon lai
-# translation = mid-day
-1	medon	medón	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-2	lai	lá	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-
-# sent_id = 3463
-# reference = f.233 top marg. (TPH p.xxii)
-# scribe = Main Glossator
-# text = satharnn sam chasc
-# translation = Saturday of Summer-Easter
-1	satharnn	satharnn	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-2	sam	sam	NOUN	_	Prefix=Yes	_	_	_	_
-3	chasc	cásc	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-
 # sent_id = 3464
 # reference = 238b1
 # scribe = Main Glossator
@@ -42228,14 +41829,4 @@
 # text = grácad
 # translation = croaking
 1	grácad	grácad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-
-# sent_id = 3469
-# reference = f.248 top marg. (TPH p.xxii)
-# scribe = Main Glossator
-# text = is tana a ndub
-# translation = The ink is thin
-1	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-2	tana	tana	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
-3	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
-4	ndub	dub	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
