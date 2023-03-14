@@ -11,7 +11,7 @@ The Old Irish text has been drawn from Bernhard Bauer's work on these glosses wh
 
 The conversion from Bauer's annotation scheme to the UD annotation scheme was carried out by Adrian Doyle, during which time some revisions were made to the analysis, manuscript reading, and translation of some glosses. Glosses in the Ogam script were produced specifically for this treebank by Doyle as all earlier editions render them transliterated into the Roman alphabet.
 
-The UD Treebank contains 3,471 glosses. Because of the rarity of Old Irish text surviving in manuscripts from the period, these have not been split into test, dev and train sets.
+The collection, in total, contains 3,471 glosses, though many of these have not yet been annotated with dependency infomation. Because of the rarity of Old Irish text surviving in manuscripts from the period, and because annotation has been completed on only a handful of these to date, only a test set is yet available.
 
 
 # Acknowledgments
