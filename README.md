@@ -11,14 +11,14 @@ The Old Irish text has been drawn from Bernhard Bauer's work on these glosses wh
 
 The conversion from Bauer's annotation scheme to the UD annotation scheme was carried out by Adrian Doyle, during which time some revisions were made to the analysis, manuscript reading, and translation of some glosses. Glosses in the Ogam script were produced specifically for this treebank by Doyle as all earlier editions render them transliterated into the Roman alphabet.
 
-The collection, in total, contains 3,471 glosses, though many of these have not yet been annotated with dependency infomation. Because of the rarity of Old Irish text surviving in manuscripts from the period, and because annotation has been completed on only a handful of these to date, only a test set is yet available.
+The collection, in total, contains 3,471 glosses, though many of these have not yet been annotated with dependency information. Because of the rarity of Old Irish text surviving in manuscripts from the period, and because annotation has been completed on only a handful of these to date, only a test set is yet available.
 
 
 # Acknowledgments
 
 I wish to thank Pádraic Moran for making the contents of the St. Gall Glosses database available to me for this project, as well as Bernhard Bauer and Rijcklof Hofman for allowing their work to be altered and reproduced in this manner.
 
-This research is supported by NUIG through the Digital Arts and Humanities scholarship, as well as by the Irish Research Council.
+This research has been supported by NUIG through the Digital Arts and Humanities scholarship, as well as by the Irish Research Council.
 
 ## References
 
@@ -39,7 +39,7 @@ Thurneysen, Rudolf. (1946). A Grammar of Old Irish. Binchy, D. A. and Bergin, Os
 
 # Changelog
 
-* 2020-11-15 v2.7
+* 2023-05-15 v2.12
   * Initial release in Universal Dependencies.
 
 
@@ -56,6 +56,6 @@ Features: manual native
 Relations: manual native
 Contributors: Doyle, Adrian
 Contributing: elsewhere
-Contact: a.doyle35@nuigalway.ie
+Contact: adrianodughaill@gmail.com
 ===============================================================================
 </pre>
