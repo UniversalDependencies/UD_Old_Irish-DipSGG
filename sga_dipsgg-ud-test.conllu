@@ -588,12 +588,12 @@
 # text = Domfarcai fidbaidae fál fomchain lóid luin lúad nad cél· huas mo lebrán indlínech fomchain trírech innaṅén ··, Fommchain cói menn medair mass hiṁbrot glass de dindgnaibdoss· debrath nomchoimmdiu cóima cáinscríbaimm foróida ross
 # translation = An enclosure of trees surrounds me, a blackbird’s lay sings praise to me which I will not hide. Above my booklet, the lined one, the birds' chirping sings to me. A cuckoo's excellent, clear oration sings to me in a green canopy from treetops: God! may the Lord cherish me! Well do I write under the wood of the forrest.
 1	Do	do	PART	_	PartType=Vb	3	compound:prt	_	SpaceAfter=No
-2	m	m	PRON	_	Number=Sing|Person=1|PronType=Prs	1	obj:infx	_	SpaceAfter=No
+2	m	m	PRON	_	Number=Sing|Person=1|PronClass=A|PronType=Prs	1	obj:infx	_	SpaceAfter=No
 3	farcai	dofarcai	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 4	fidbaidae	fidbaid	NOUN	_	Case=Gen|Number=Plur	5	nmod:pre	_	_
 5	fál	fál	NOUN	_	Case=Nom|Number=Sing	3	nsubj	_	_
 6	fo	fo	PART	_	PartType=Vb	8	compound:prt	_	SpaceAfter=No
-7	m	m	PRON	_	Number=Sing|Person=1|PronType=Prs	6	obj:infx	_	SpaceAfter=No
+7	m	m	PRON	_	Number=Sing|Person=1|PronClass=A|PronType=Prs	6	obj:infx	_	SpaceAfter=No
 8	chain	focain	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	conj	_	_
 9	lóid	lóid	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	_
 10	luin	lon	NOUN	_	Case=Gen|Number=Sing	9	nmod	_	_
@@ -607,14 +607,14 @@
 18	ind	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No
 19	línech	línech	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	17	amod	_	_
 20	fo	fo	PART	_	PartType=Vb	22	compound:prt	_	SpaceAfter=No
-21	m	m	PRON	_	Number=Sing|Person=1|PronType=Prs	20	obj:infx	_	SpaceAfter=No
+21	m	m	PRON	_	Number=Sing|Person=1|PronClass=A|PronType=Prs	20	obj:infx	_	SpaceAfter=No
 22	chain	focain	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	parataxis	_	_
 23	trírech	trírech	NOUN	_	Case=Nom|Number=Sing	22	nsubj	_	_
 24	inna	in	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Art	25	det	_	SpaceAfter=No
 25	ṅén	én	NOUN	_	Case=Gen|Number=Plur	23	nmod	_	_
 26	··,	.,.,.,	PUNCT	_	_	22	punct	_	_
 27	Fo	fo	PART	_	PartType=Vb	29	compound:prt	_	SpaceAfter=No
-28	mm	m	PRON	_	Number=Sing|Person=1|PronType=Prs	27	obj:infx	_	SpaceAfter=No
+28	mm	m	PRON	_	Number=Sing|Person=1|PronClass=A|PronType=Prs	27	obj:infx	_	SpaceAfter=No
 29	chain	focain	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	parataxis	_	_
 30	cói	cói	NOUN	_	Case=Gen|Number=Sing	32	nmod:pre	_	_
 31	menn	menn	ADJ	_	Degree=Pos|Prefix=Yes	32	amod	_	_
@@ -629,7 +629,7 @@
 40	·	·	PUNCT	_	_	29	punct	_	_
 41	debrath	debrath	INTJ	_	_	45	discourse	_	_
 42	no	no	PART	_	PartType=Vb	45	compound:prt	_	SpaceAfter=No
-43	m	m	PRON	_	Number=Sing|Person=1|PronType=Prs	42	obj:infx	_	SpaceAfter=No
+43	m	m	PRON	_	Number=Sing|Person=1|PronClass=A|PronType=Prs	42	obj:infx	_	SpaceAfter=No
 44	choimmdiu	coimdiu	NOUN	_	Case=Nom|Number=Sing	45	nsubj	_	_
 45	cóima	coímaid	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|Voice=Act	3	parataxis	_	_
 46	cáin	caín	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	47	advmod	_	SpaceAfter=No
@@ -726,7 +726,7 @@
 17	mail	mael	PROPN	_	Case=Voc|Number=Sing	13	vocative	_	_
 18	bachal	bachall	NOUN	_	Case=Gen|Number=Plur	17	nmod	_	_
 19	ro	ro	PART	_	PartType=Aug	21	compound:prt	_	SpaceAfter=No
-20	t	t	PRON	_	Number=Sing|Person=2|PronType=Prs	19	obj:infx	_	_
+20	t	t	PRON	_	Number=Sing|Person=2|PronClass=A|PronType=Prs	19	obj:infx	_	_
 21	giuil	glenaid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	1	parataxis	_	_
 22	ind	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	23	det	_	SpaceAfter=No
 23	ṡrathar	srathar	NOUN	_	Case=Nom|Number=Sing	21	obj	_	_
