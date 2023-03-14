@@ -190,7 +190,7 @@
 # reference = 2a8
 # scribe = Main Glossator
 # text = .i. athitol re cach libur ar naroib cummasc foir
-# translation = i.e. before every book its title that there be no confusion upon it
+# translation = i.e. its title before every book that there be no confusion upon it
 1	.i.	.i.	ADV	_	Abbr=Yes	3	advmod	_	_
 2	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	SpaceAfter=No
 3	thitol	titul	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
