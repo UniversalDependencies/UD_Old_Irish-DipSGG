@@ -16670,7 +16670,7 @@
 6	ind	a	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 7	í	í	PART	_	PartType=Dct	_	_	_	_
 8	imm	imm	PART	_	PartType=Vb	_	_	_	_
-9	aimmgaib	immimgaib	VERB	_	Mood=Ind|Number=Sing|Person=3|PronType=Rel|Tense=Pres|Voice=Act	_	_	_	_
+9	aimmgaib	immimgaib	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 
 # sent_id = 1460
 # reference = 59a14

@@ -45,7 +45,7 @@
 2	sí	sí	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	root	_	_
 3	tra	trá	ADV	_	_	2	advmod	_	_
 4	in	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
-5	dias	días	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	SpaceAfter=No
+5	dias	días	NOUN	_	Case=Nom|Number=Sing	2	acl	_	SpaceAfter=No
 6	sa	so	PART	_	PronType=Dem	5	amod	_	_
 7	rosechestar	sechithir	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	5	acl:relcl	_	_
 8	som	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	7	obl:agent	_	_
@@ -199,7 +199,7 @@
 6	libur	lebor	NOUN	_	Case=Dat|Number=Sing	3	nmod	_	_
 7	ar	ara	SCONJ	_	_	9	mark	_	_
 8	na	ná	SCONJ	_	Polarity=Neg	9	mark	_	SpaceAfter=No
-9	roib	attá	VERB	_	Mood=Sub|Number=Sing|PartType=Aug|Person=3|Tense=Pres|Voice=Act	3	ccomp	_	_
+9	roib	attá	VERB	_	Mood=Sub|Number=Sing|PartType=Aug|Person=3|Tense=Pres|Voice=Act	3	acl	_	_
 10	cummasc	cummasc	NOUN	_	Case=Nom|Number=Sing	9	nsubj	_	_
 11	foir	for	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	10	obl:prep	_	_
 
@@ -225,7 +225,7 @@
 3	naib	a	DET	_	Case=Dat|Gender=Neut|Number=Plur|PronType=Art	4	det	_	_
 4	hí	í	PART	_	PartType=Dct	0	root	_	_
 5	th	do	PART	_	PartType=Vb	6	compound:prt	_	SpaceAfter=No
-6	ecmoṅgat	doecmaing	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	4	ccomp	_	_
+6	ecmoṅgat	doecmaing	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	4	acl:relcl	_	_
 
 # sent_id = 19
 # reference = 2b1
@@ -540,7 +540,7 @@
 7	brigtae	brigtae	PROPN	_	Case=Gen|Number=Sing	6	nmod	_	_
 8	na	ná	SCONJ	_	Polarity=Neg	10	mark	_	SpaceAfter=No
 9	mba	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	10	cop	_	_
-10	olcc	olc	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	1	ccomp	_	_
+10	olcc	olc	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	1	acl	_	_
 11	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	nmod:poss	_	SpaceAfter=No
 12	menma	menma	NOUN	_	Case=Nom|Number=Sing	10	nmod	_	_
 13	frimm	fri	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=1|PronType=Prs	10	obl:prep	_	_
