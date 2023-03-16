@@ -598,7 +598,7 @@
 9	lóid	lóid	NOUN	_	Case=Nom|Number=Sing	8	nsubj	_	_
 10	luin	lon	NOUN	_	Case=Gen|Number=Sing	9	nmod	_	_
 11	lúad	lúad	NOUN	_	Case=Nom|Number=Sing	8	obj	_	_
-12	nad	ná	PART	_	Polarity=Neg|PronType=Rel	13	mark	_	_
+12	nad	ná	PART	_	Polarity=Neg|PartType=Rel	13	mark	_	_
 13	cél	ceilid	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|Voice=Act	11	acl:relcl	_	SpaceAfter=No
 14	·	·	PUNCT	_	_	3	punct	_	_
 15	huas	úas	ADP	_	AdpType=Prep|Definite=Ind	17	case	_	_
