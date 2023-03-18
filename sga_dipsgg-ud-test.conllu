@@ -45,7 +45,7 @@
 2	sí	sí	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	0	root	_	_
 3	tra	trá	ADV	_	_	2	advmod	_	_
 4	in	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
-5	dias	días	NOUN	_	Case=Nom|Number=Sing	2	acl	_	SpaceAfter=No
+5	dias	días	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	SpaceAfter=No
 6	sa	so	PART	_	PronType=Dem	5	amod	_	_
 7	rosechestar	sechithir	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	5	acl:relcl	_	_
 8	som	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	7	obl:agent	_	_
@@ -324,11 +324,11 @@
 # text = IS acher ingáith innocht fufuasna fairggae findḟolt ni ágor réimm mora minn dond láechraid lainn óalothlind
 # translation = The wind is bitter tonight, it tosses the ocean’s white hair: I fear not the coursing of a clear sea by the fierce warriors from Lochlann
 1	IS	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	2	cop	_	_
-2	acher	aicher	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+2	acher	aicher	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	0	root	_	_
 3	in	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
-4	gáith	gaíth	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+4	gáith	gaíth	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 5	i	i	ADP	_	AdpType=Prep|Definite=Ind	6	case	_	SpaceAfter=No
-6	nnocht	nocht	NOUN	_	Case=Dat|Number=Sing	4	nmod	_	_
+6	nnocht	nocht	NOUN	_	Case=Dat|Number=Sing	2	nmod	_	_
 7	fu	fo	PART	_	PartType=Vb	8	compound:prt	_	SpaceAfter=No
 8	fuasna	fofúasna	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	4	parataxis	_	_
 9	fairggae	fairge	NOUN	_	Case=Gen|Number=Sing	11	nmod:pre	_	_
@@ -480,9 +480,9 @@
 # text = isgann inmemrum et ascribend
 # translation = The parchment is rough, and the writing
 1	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	2	cop	_	SpaceAfter=No
-2	gann	gann	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+2	gann	gann	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
 3	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
-4	memrum	membrum	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+4	memrum	membrum	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 5	et	_	CCONJ	_	Foreign=Yes	7	cc	_	_
 6	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
 7	scribend	scríbend	NOUN	_	Case=Nom|Number=Sing	4	conj	_	_
@@ -665,7 +665,7 @@
 2	didiv	didiu	ADV	_	_	1	advmod	_	_
 3	ma	má	SCONJ	_	_	5	mark	_	SpaceAfter=No
 4	d	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	5	cop	_	_
-5	ferr	maith	ADJ	_	Degree=Pos	1	amod	_	_
+5	ferr	maith	ADJ	_	Degree=Pos	1	advcl	_	_
 6	lat	la	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=2|PronType=Prs	5	obl:prep	_	_
 7	.i.	.i.	ADV	_	Abbr=Yes	8	advmod	_	_
 8	d	_	X	_	_	1	dislocated	_	SpaceAfter=No
@@ -710,8 +710,8 @@
 # text = isgann membrumm
 # translation = parchment is scanty
 1	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	2	cop	_	SpaceAfter=No
-2	gann	gann	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
-3	membrumm	membrum	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+2	gann	gann	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
+3	membrumm	membrum	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 
 # sent_id = 3461
 # reference = f.229 top marg. (TPH p.290)
@@ -766,7 +766,7 @@
 # text = istana andub
 # translation = The ink is thin
 1	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	2	cop	_	SpaceAfter=No
-2	tana	tana	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+2	tana	tana	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	0	root	_	_
 3	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
-4	ndub	dub	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+4	ndub	dub	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 
