@@ -253,6 +253,13 @@
 9	hi	i	ADP	_	AdpType=Prep|Definite=Ind	10	case	_	_
 10	comṡuidiguth	comṡuidigud	NOUN	_	Case=Dat|Number=Sing	8	nmod	_	_
 
+# sent_id = 288
+# reference = 11a3
+# scribe = Main Glossator
+# text = braigim
+# translation = I fart
+1	braigim	braigid	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	_
+
 # sent_id = 1274
 # reference = f.50 bottom marg. (TPH p.xx)
 # scribe = Main Glossator
