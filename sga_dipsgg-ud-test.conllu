@@ -353,6 +353,14 @@
 21	óa	ó	ADP	_	AdpType=Prep|Definite=Ind	22	case	_	SpaceAfter=No
 22	lothlind	lothlend	PROPN	_	Case=Dat|Number=Sing	19	nmod	_	_
 
+# sent_id = 2196
+# reference = f.113b not in Thesaurus Palaeohibernicus
+# scribe = Main Glossator
+# text = cenéle ṁbiid
+# translation = a kind of food
+1	cenéle	cenélae	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
+2	ṁbiid	biad	NOUN	_	Case=Gen|Number=Sing	1	nmod	_	_
+
 # sent_id = 2198
 # reference = f.114 top marg. (TPH p.xx)
 # scribe = Main Glossator
