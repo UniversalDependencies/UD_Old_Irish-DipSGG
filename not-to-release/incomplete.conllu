@@ -3292,28 +3292,6 @@
 9	in	_	X	_	Foreign=Yes	_	_	_	_
 10	preterito	_	X	_	Foreign=Yes	_	_	_	_
 
-# sent_id = 288
-# reference = 11a3
-# scribe = Main Glossator
-# text = braigim nam displosa sona quantum vesíca pepedi … ⁊ fit pedo nomen animalis ut isidorus dicit
-# translation = I fart; ‘for as loud as the noise of a bursting bladder was the crack when my figwood buttock split’. And ‘pedo’ (one who has broad feet, a splay-foot) is the name of an animal, as Isidore says, etc.
-1	braigim	braigid	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	_
-2	nam	_	X	_	Foreign=Yes	_	_	_	_
-3	displosa	_	X	_	Foreign=Yes	_	_	_	_
-4	sona	_	X	_	Foreign=Yes	_	_	_	_
-5	quantum	_	X	_	Foreign=Yes	_	_	_	_
-6	vesíca	_	X	_	Foreign=Yes	_	_	_	_
-7	pepedi	_	X	_	Foreign=Yes	_	_	_	_
-8	…	_	X	_	Foreign=Yes	_	_	_	_
-9	⁊	ocus	CCONJ	_	_	_	_	_	_
-10	fit	_	X	_	Foreign=Yes	_	_	_	_
-11	pedo	_	X	_	Foreign=Yes	_	_	_	_
-12	nomen	_	X	_	Foreign=Yes	_	_	_	_
-13	animalis	_	X	_	Foreign=Yes	_	_	_	_
-14	ut	_	X	_	Foreign=Yes	_	_	_	_
-15	isidorus	_	X	_	Foreign=Yes	_	_	_	_
-16	dicit	_	X	_	Foreign=Yes	_	_	_	_
-
 # sent_id = 289
 # reference = 11a4
 # scribe = Main Glossator
@@ -6735,12 +6713,13 @@
 14	ind	a	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 15	i	í	PART	_	PartType=Dct	_	_	_	_
 16	dano	dano	ADV	_	_	_	_	_	_
-17	nád	ná	PART	_	PartType=Rel|Polarity=Neg	_	_	_	_
-18	suidigthe	suidigidir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
-19	som	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	_	_	_	_
-20	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-21	anmmaimm	ainm	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-22	doacalmach	doacaldmach	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+17	na	ná	SCONJ	_	Polarity=Neg	_	_	_	_
+18	d	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
+19	suidigthe	suidiugud	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
+20	som	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	_	_	_	_
+21	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
+22	anmmaimm	ainm	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
+23	doacalmach	doacaldmach	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 
 # sent_id = 574
 # reference = 27a2
@@ -24846,14 +24825,6 @@
 # translation = a nit
 1	sned	sned	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
-# sent_id = 2196
-# reference = f.113b not in Thesaurus Palaeohibernicus
-# scribe = Main Glossator
-# text = cenéle ṁbiid
-# translation = a kind of food
-1	cenéle	cenélae	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-2	ṁbiid	biad	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-
 # sent_id = 2197
 # reference = 113b9
 # scribe = Main Glossator
@@ -33804,7 +33775,7 @@
 21	uisse	uisse	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 22	ce	cía	SCONJ	_	_	_	_	_	_
 23	no	no	PART	_	PartType=Vb	_	_	_	_
-24	tectad	techtaid	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
+24	tectad	techtaid	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
 25	il	il	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	_
 26	gotha	guth	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
 27	fri	fri	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
