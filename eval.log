@@ -1,12 +1,12 @@
 Running the following version of UD tools:
-commit 04abe686385f14a9a6f68784bd723a6b60ded594
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 00:14:39 2023 +0200
+Date:   Sat Nov 4 17:10:55 2023 +0100
 Evaluating the following revision of UD_Old_Irish-DipSGG:
-commit 9db38f0c14b9d54efa22094a6c59d29e0bf5eb7f
+commit eb09924bc51b8bd5e7cd33ba66eddb670558044f
+Merge: a58f43a dddaeb9
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 07:43:01 2023 +0200
-Size: counted 400 of 400 words (nodes).
+Size: counted 403 of 403 words (nodes).
 Size: min(0, log((N/1000)**2)) = 0.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Did not find more than 10000 training words.
@@ -15,14 +15,14 @@ Split: Did not find at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.9.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.9.
-Features: 355 out of 400 total words have one or more features.
+Features: 358 out of 403 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
 Universal relations: 24 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL         31
-Udapi: found 31 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 400 words.
+               TOTAL         32
+Udapi: found 32 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 403 words.
 Genres: found 4 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang sga --max-err=10 UD_Old_Irish-DipSGG/sga_dipsgg-ud-test.conllu
 *** PASSED ***
@@ -33,8 +33,8 @@ Validity: 1
 (weight=0.256410256410256) * (score{size}=0) = 0
 (weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.847058823529412) = 0.065158371040724
-(weight=0.307692307692308) * (score{udapi}=0.225) = 0.0692307692307692
+(weight=0.307692307692308) * (score{udapi}=0.205955334987593) = 0.0633708723038748
 (weight=0.0769230769230769) * (score{udeprels}=0.648648648648649) = 0.0498960498960499
-(TOTAL score=0.349051404345522) * (availability=1) * (validity=1) = 0.349051404345522
+(TOTAL score=0.343191507418628) * (availability=1) * (validity=1) = 0.343191507418628
 STARS = 1.5
-UD_Old_Irish-DipSGG	0.349051404345522	1.5
+UD_Old_Irish-DipSGG	0.343191507418628	1.5
