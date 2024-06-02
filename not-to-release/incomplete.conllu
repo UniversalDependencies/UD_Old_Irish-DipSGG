@@ -1371,7 +1371,7 @@
 # scribe = Main Glossator
 # text = buith re lechdachaib
 # translation = being before liquids
-1	buith	both	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+1	buith	buith	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 2	re	re	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 3	lechdachaib	lechdach	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
 
@@ -2305,7 +2305,7 @@
 # text = a buith ar chonsin diuit
 # translation = its being for a simple consonant
 1	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-2	buith	both	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
+2	buith	buith	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 3	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 4	chonsin	conson	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 5	diuit	díuit	ADJ	_	Case=Dat|Degree=Pos|Number=Sing	_	_	_	_
@@ -2326,7 +2326,7 @@
 # text = a buith ar chonsain diabuil
 # translation = its being for a double consonant
 1	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-2	buith	both	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+2	buith	buith	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 4	chonsain	conson	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 5	diabuil	díabul	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
@@ -2415,7 +2415,7 @@
 # text = .i. buith do u consoin ar guti
 # translation = i.e. that u-consonant should be for a vowel
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	buith	both	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
+2	buith	buith	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 3	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 4	u	_	X	_	Foreign=Yes	_	_	_	_
 5	consoin	conson	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
@@ -2686,7 +2686,7 @@
 2	coissig	incoisig	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 3	a	a	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 4	folad	folad	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-5	cétnae	cétnae	NUM	_	NumType=Ord	_	_	_	_
+5	cétnae	cétnae	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 
 # sent_id = 240
 # reference = 9a15
@@ -2711,7 +2711,7 @@
 5	son	son	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	a	a	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 7	folad	folad	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-8	cétne	cétnae	NUM	_	NumType=Ord	_	_	_	_
+8	cétne	cétnae	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 9	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 10	in	in	PART	_	PartType=Vb	_	_	_	_
 11	choisged	incoisig	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
@@ -2872,7 +2872,7 @@
 1	sluindid	sluindid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 2	a	a	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 3	folad	folad	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
-4	cétnae	cétnae	NUM	_	NumType=Ord	_	_	_	_
+4	cétnae	cétnae	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 
 # sent_id = 253
 # reference = 9b5
@@ -2883,7 +2883,7 @@
 2	ed	ed	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 3	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 4	folad	folad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-5	cétnae	cétnae	NUM	_	NumType=Ord	_	_	_	_
+5	cétnae	cétnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 6	sluinditae	sluindid	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 
 # sent_id = 254
@@ -3198,7 +3198,7 @@
 # translation = the same letters
 1	na	in	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_
 2	litre	liter	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
-3	cétni	cétnae	NUM	_	NumType=Ord	_	_	_	_
+3	cétni	cétnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	_
 
 # sent_id = 282
 # reference = 10a14
@@ -5049,7 +5049,7 @@
 # text = .i. buith do l post ct reliqua
 # translation = i.e. the occurrence of l after ct, etc.
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	buith	both	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
+2	buith	buith	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 3	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 4	l	_	X	_	Foreign=Yes	_	_	_	_
 5	post	_	X	_	Foreign=Yes	_	_	_	_
@@ -7735,7 +7735,7 @@
 3	forcenn	forcenn	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 4	ind	a	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 5	ḟolaid	folad	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-6	chéthnai	cétnae	NUM	_	NumType=Ord	_	_	_	_
+6	chéthnai	cétnae	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 
 # sent_id = 650
 # reference = 28b20
@@ -7747,7 +7747,7 @@
 3	epil	atbaill	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 4	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 5	folad	folad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-6	cetne	cétnae	NUM	_	NumType=Ord	_	_	_	_
+6	cetne	cétnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 7	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 8	folud	folad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 9	duini	duine	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
@@ -16372,7 +16372,7 @@
 4	ba	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 5	riagoldae	ríagolda	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 6	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-7	buith	both	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
+7	buith	buith	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 8	ní	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
 9	ed	ed	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 10	immurgu	immurgu	SCONJ	_	_	_	_	_	_
@@ -16408,7 +16408,7 @@
 3	id	d	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 4	ruburt	asbeir	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=1|Tense=Past|Voice=Act	_	_	_	_
 5	a	a	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-6	mbuith	both	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+6	mbuith	buith	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 7	a	_	X	_	Foreign=Yes	_	_	_	_
 8	nominibus	_	X	_	Foreign=Yes	_	_	_	_
 9	secundae	_	X	_	Foreign=Yes	_	_	_	_
@@ -16541,7 +16541,7 @@
 3	id	d	PRON	_	PronType=Void	_	_	_	_
 4	biur	asbeir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	_
 5	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-6	buith	both	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+6	buith	buith	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 7	hua	ó	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 8	nd	a	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 9	í	í	PART	_	PartType=Dct	_	_	_	_
@@ -20062,7 +20062,7 @@
 # text = a buith
 # translation = its existence
 1	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-2	buith	both	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+2	buith	buith	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 1793
 # reference = 69a24
@@ -20973,7 +20973,7 @@
 3	sí	sí	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 4	in	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 5	dobriather	dobríathar	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-6	chétna	cétnae	NUM	_	NumType=Ord	_	_	_	_
+6	chétna	cétnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
 7	ad	ad	PART	_	PartType=Vb	_	_	_	_
 8	chomaltar	adcomla	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
 9	fri	fri	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
@@ -21196,7 +21196,7 @@
 3	ed	ed	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 4	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 5	folad	folad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-6	cétna	cétnae	NUM	_	NumType=Ord	_	_	_	_
+6	cétna	cétnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 7	beos	beus	ADV	_	_	_	_	_	_
 8	to	do	PART	_	PartType=Vb	_	_	_	_
 9	ḟóirṅdet	dofoirndea	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
@@ -21341,7 +21341,7 @@
 2	tre	tre	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 3	gnais	gnás	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 4	a	a	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-5	ṁbuithe	both	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
+5	ṁbuithe	buith	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 6	in	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 7	hilur	ilar	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
@@ -21365,7 +21365,7 @@
 # translation = the same substance
 1	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 2	folad	folad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-3	cetna	cétnae	NUM	_	NumType=Ord	_	_	_	_
+3	cetna	cétnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 
 # sent_id = 1906
 # reference = 73a16
@@ -21885,7 +21885,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 3	folad	folad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-4	cétna	cétnae	NUM	_	NumType=Ord	_	_	_	_
+4	cétna	cétnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 
 # sent_id = 1942
 # reference = 75b7
@@ -22602,7 +22602,7 @@
 # text = .i. buith inna geniten in as
 # translation = i.e. [the] being of the genitive in .as.
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	buith	both	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+2	buith	buith	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	inna	in	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 4	geniten	genitiu	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 5	in	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -23758,7 +23758,7 @@
 4	ase	assae	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 5	ditia	_	X	_	Foreign=Yes	_	_	_	_
 6	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-7	buith	both	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
+7	buith	buith	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 8	ua	ó	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 9	nd	a	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 10	í	í	PART	_	PartType=Dct	_	_	_	_
@@ -23995,7 +23995,7 @@
 10	⁊	ocus	CCONJ	_	_	_	_	_	_
 11	athos	_	X	_	Foreign=Yes	_	_	_	_
 12	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-13	buith	both	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
+13	buith	buith	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 14	biid	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 15	dano	dano	ADV	_	_	_	_	_	_
 16	in	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -24182,7 +24182,7 @@
 # text = a buith far cethramad quando est fastus .i. lebor
 # translation = that it is of the fourth (declension) quando etc. i.e. a book
 1	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-2	buith	both	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+2	buith	buith	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	far	for	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 4	cethramad	cethramad	NUM	_	NumType=Ord	_	_	_	_
 5	quando	_	X	_	Foreign=Yes	_	_	_	_
@@ -24375,7 +24375,7 @@
 1	for	for	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 2	riaguil	ríagol	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 3	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-4	buith	both	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
+4	buith	buith	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 5	tra	tra	ADV	_	_	_	_	_	_
 6	i	i	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 7	snaib	a	DET	_	Case=Dat|Gender=Neut|Number=Plur|PronType=Art	_	_	_	_
@@ -25329,7 +25329,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	í	_	X	_	Foreign=Yes	_	_	_	_
 3	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-4	buith	both	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
+4	buith	buith	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 5	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	chonsain	conson	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 7	in	_	X	_	Foreign=Yes	_	_	_	_
@@ -27371,7 +27371,7 @@
 6	frecṅdairc	frecndairc	ADJ	_	Case=Acc|Degree=Pos|Number=Sing	_	_	_	_
 7	de	_	X	_	Foreign=Yes	_	_	_	_
 8	presenti	_	X	_	Foreign=Yes	_	_	_	_
-9	buith	both	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+9	buith	buith	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 10	neich	nech	PRON	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Ind	_	_	_	_
 11	de	de	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 12	chen	cen	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -27508,7 +27508,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	for	for	PART	_	PartType=Vb	_	_	_	_
 3	comnacair	forcumaing	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
-4	buith	both	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+4	buith	buith	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 6	maicc	macc	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 7	som	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	_	_	_	_
@@ -28638,7 +28638,7 @@
 13	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 14	u	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 15	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-16	buith	both	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
+16	buith	buith	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 17	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 18	foacomol	foacomol	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 19	oc	oc	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -28797,7 +28797,7 @@
 2	t	do	PART	_	PartType=Vb	_	_	_	_
 3	ecmaing	doecmaing	VERB	_	Mood=Ind|Voice=Act	_	_	_	_
 4	dano	dano	ADV	_	_	_	_	_	_
-5	buith	both	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+5	buith	buith	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	briathar	bríathar	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
 7	huadib	ó	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 8	sem	som	PRON	_	Number=Plur|Person=3|PronType=Emp	_	_	_	_
@@ -29099,7 +29099,7 @@
 4	lat	la	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=2|PronType=Prs	_	_	_	_
 5	reperio	_	X	_	Foreign=Yes	_	_	_	_
 6	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-7	buith	both	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
+7	buith	buith	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 8	for	for	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 9	cobedin	coibedan	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 10	ce	cía	SCONJ	_	_	_	_	_	_
@@ -29969,7 +29969,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	iure	_	X	_	Foreign=Yes	_	_	_	_
 3	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-4	buithe	both	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
+4	buithe	buith	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 5	cen	cen	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	forṅgarthid	forngarthaid	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 7	do	do	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
@@ -32976,7 +32976,7 @@
 # translation = i.e. its being from the first person
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-3	buith	both	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+3	buith	buith	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	ó	ó	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 5	n	in	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 6	chétni	cétnae	NUM	_	NumType=Ord	_	_	_	_
@@ -33021,7 +33021,7 @@
 3	í	_	X	_	Foreign=Yes	_	_	_	_
 4	airdíxa	airdíxa	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
 5	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-6	buith	both	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
+6	buith	buith	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 7	indib	i	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 
 # sent_id = 2822
@@ -36655,7 +36655,7 @@
 13	hé	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 14	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 15	fogur	fogur	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-16	cétna	cétnae	NUM	_	NumType=Ord	_	_	_	_
+16	cétna	cétnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
 17	filter	fillid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
 18	and	i	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 
@@ -37323,7 +37323,7 @@
 4	menad	domoinethar	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
 5	nech	nech	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	_	_	_	_
 6	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-7	buith	both	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+7	buith	buith	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 8	o	ó	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 9	tu	_	X	_	Foreign=Yes	_	_	_	_
 10	air	ar	SCONJ	_	_	_	_	_	_
@@ -37681,7 +37681,7 @@
 3	coitchen	coitchenn	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 4	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 5	ṡuidib	suide	PRON	_	Case=Dat|Number=Plur|PronType=Ana	_	_	_	_
-6	buith	both	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+6	buith	buith	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 7	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 8	cacha	cach	DET	_	Case=Dat|Definite=Def|Number=Plur	_	_	_	_
 9	persanaib	persan	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
@@ -39101,7 +39101,7 @@
 14	écsamil	écsamail	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 15	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 16	cenél	cenél	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-17	cetne	cétnae	NUM	_	NumType=Ord	_	_	_	_
+17	cetne	cétnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 18	fil	attá	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 19	i	i	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 20	sind	a	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
@@ -39455,7 +39455,7 @@
 # translation = i.e. that the preposition should be at the end in apposition
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-3	buith	both	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+3	buith	buith	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	ind	in	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 5	remṡuidigtheo	remṡuidigud	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 6	fo	fo	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -39676,7 +39676,7 @@
 6	t	do	PART	_	PartType=Vb	_	_	_	_
 7	ecmaiṅg	doecmaing	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 8	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-9	buith	both	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+9	buith	buith	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 10	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 11	comsuidigud	comṡuidigud	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 12	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -39697,7 +39697,7 @@
 # translation = i.e. its being in anteposition
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-3	buith	both	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+3	buith	buith	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 5	remṡamugud	remṡamugud	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
@@ -39996,7 +39996,7 @@
 # text = .i. buith ind aiccind in fine
 # translation = i.e. the accent’s being on the end
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	buith	both	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+2	buith	buith	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	ind	in	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 4	aiccind	aiccent	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 5	in	_	X	_	Foreign=Yes	_	_	_	_
@@ -40372,7 +40372,7 @@
 2	aicsenogud	aicsenugud	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	comacomuil	comaccomol	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 4	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-5	buith	both	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
+5	buith	buith	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 6	hí	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 7	remsuidigud	remṡuidigud	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
@@ -40533,7 +40533,7 @@
 # translation = i.e. that it should be in composition before an adverb
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-3	buit	both	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+3	buit	buith	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	sem	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	_	_	_	_
 5	hi	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	comsuidigud	comṡuidigud	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
