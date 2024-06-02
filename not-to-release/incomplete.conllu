@@ -6713,12 +6713,13 @@
 14	ind	a	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 15	i	í	PART	_	PartType=Dct	_	_	_	_
 16	dano	dano	ADV	_	_	_	_	_	_
-17	nád	ná	PART	_	PartType=Rel|Polarity=Neg	_	_	_	_
-18	suidigthe	suidigidir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
-19	som	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	_	_	_	_
-20	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-21	anmmaimm	ainm	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
-22	doacalmach	doacaldmach	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+17	na	ná	SCONJ	_	Polarity=Neg	_	_	_	_
+18	d	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
+19	suidigthe	suidiugud	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
+20	som	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	_	_	_	_
+21	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
+22	anmmaimm	ainm	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
+23	doacalmach	doacaldmach	ADJ	_	Case=Dat|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 
 # sent_id = 574
 # reference = 27a2
@@ -11905,7 +11906,7 @@
 # sent_id = 992
 # reference = 40a15
 # scribe = Main Glossator
-# text = c indas ṁbias iar na cétbuid sem co nid gau dóib sem in chruth sin a nas berat nadṁbed ad plures
+# text = c indas ṁbias iar na cétbuid sem co nid gau dóib sem in chruth sin a nas berat nad ṁbed ad plures
 # translation = how then will it be according to their opinion? so that they are wrong then when they say that there is no (comparison) ad plures
 1	c	cía	PRON	_	PronType=Int	_	_	_	_
 2	indas	indas	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -11925,9 +11926,10 @@
 16	a	a	SCONJ	_	_	_	_	_	_
 17	nas	as	PART	_	PartType=Vb	_	_	_	_
 18	berat	asbeir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-19	nadṁbed	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Neg|PronType=Rel|Tense=Past|VerbType=Cop	_	_	_	_
-20	ad	_	X	_	Foreign=Yes	_	_	_	_
-21	plures	_	X	_	Foreign=Yes	_	_	_	_
+19	nad	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
+20	ṁbed	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
+21	ad	_	X	_	Foreign=Yes	_	_	_	_
+22	plures	_	X	_	Foreign=Yes	_	_	_	_
 
 # sent_id = 993
 # reference = 40a16
@@ -24824,14 +24826,6 @@
 # translation = a nit
 1	sned	sned	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
-# sent_id = 2196
-# reference = f.113b not in Thesaurus Palaeohibernicus
-# scribe = Main Glossator
-# text = cenéle ṁbiid
-# translation = a kind of food
-1	cenéle	cenélae	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-2	ṁbiid	biad	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-
 # sent_id = 2197
 # reference = 113b9
 # scribe = Main Glossator
@@ -33782,7 +33776,7 @@
 21	uisse	uisse	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 22	ce	cía	SCONJ	_	_	_	_	_	_
 23	no	no	PART	_	PartType=Vb	_	_	_	_
-24	tectad	techtaid	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
+24	tectad	techtaid	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
 25	il	il	ADJ	_	Case=Acc|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	_
 26	gotha	guth	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
 27	fri	fri	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
