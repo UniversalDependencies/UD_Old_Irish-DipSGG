@@ -374,7 +374,7 @@
 6	amen	_	ADV	_	Foreign=Yes	1	advmod	_	SpaceAfter=No
 7	·–	·–	PUNCT	_	_	6	punct	_	_
 
-# sent_id = 2199
+# sent_id = 2200
 # reference = f.114 top marg. (TPH p.xx)
 # scribe = Main Glossator
 # text = mar uar dom·–
@@ -384,7 +384,7 @@
 3	dom	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=1|PronType=Prs	2	obl:prep	_	SpaceAfter=No
 4	·–	·–	PUNCT	_	_	2	punct	_	_
 
-# sent_id = 2534
+# sent_id = 2535
 # reference = f.158 top marg. (TPH p.xx)
 # scribe = Main Glossator
 # text = sén anóibingen
@@ -394,7 +394,7 @@
 3	nóib	nóib	ADJ	_	Degree=Pos|Prefix=Yes	4	amod	_	SpaceAfter=No
 4	ingen	ingen	NOUN	_	Case=Voc|Number=Sing	1	vocative	_	_
 
-# sent_id = 2547
+# sent_id = 2548
 # reference = f.159 top marg. (TPH p.xx)
 # scribe = Main Glossator
 # text = ruadri adest
@@ -402,7 +402,7 @@
 1	ruadri	ruadrí	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 2	adest	_	VERB	_	Foreign=Yes	0	root	_	_
 
-# sent_id = 2612
+# sent_id = 2613
 # reference = f.165 bottom marg. (TPH p.xxi)
 # scribe = Main Glossator
 # text = isdorchæ dom
@@ -411,7 +411,7 @@
 2	dorchæ	dorchae	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
 3	dom	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=1|PronType=Prs	2	obl:prep	_	_
 
-# sent_id = 2632
+# sent_id = 2633
 # reference = f.170 top marg. (TPH p.xxi)
 # scribe = Main Glossator
 # text = ᚛ᚋᚔᚅ ᚉᚆᚐᚄᚉ
@@ -420,7 +420,7 @@
 2	ᚋᚔᚅ	min	ADJ	_	Degree=Pos|Prefix=Yes	3	amod	_	_
 3	ᚉᚆᚐᚄᚉ	cásc	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 
-# sent_id = 2663
+# sent_id = 2664
 # reference = f.176 top marg. (TPH p.xxi)
 # scribe = Main Glossator
 # text = uit mo chrob
@@ -429,21 +429,21 @@
 2	mo	mo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	_
 3	chrob	crob	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 
-# sent_id = 2703
+# sent_id = 2704
 # reference = f.182 top marg. (TPH p.xxi)
 # scribe = Main Glossator
 # text = finguine
 # translation = Finguine
 1	finguine	finguine	PROPN	_	Case=Nom|Number=Sing	0	root	_	_
 
-# sent_id = 2784
+# sent_id = 2785
 # reference = f.189 top marg. (TPH p.xxi)
 # scribe = Main Glossator
 # text = lathaeirt
 # translation = massive hangover
 1	lathaeirt	laithirt	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 
-# sent_id = 2805
+# sent_id = 2806
 # reference = f.190 top marg. (TPH p.xxi)
 # scribe = Main Glossator
 # text = follega
@@ -451,7 +451,7 @@
 1	fo	fo	PART	_	PartType=Vb	2	compound:prt	_	SpaceAfter=No
 2	llega	folega	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	0	root	_	_
 
-# sent_id = 2833
+# sent_id = 2834
 # reference = f.193 top marg. (TPH p.xxi)
 # scribe = Main Glossator
 # text = ᚛ᚉᚑᚉᚐᚏᚈ
@@ -459,14 +459,14 @@
 1	᚛	᚛	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	ᚉᚑᚉᚐᚏᚈ	cocart	NOUN	_	Case=Nom|Number=Sing|Typo=Yes	0	root	_	_
 
-# sent_id = 2846
+# sent_id = 2847
 # reference = f.194 top marg. (TPH p.xxi)
 # scribe = Main Glossator
 # text = donngus
 # translation = Dongus
 1	donngus	dongus	PROPN	_	Case=Nom|Number=Sing	0	root	_	_
 
-# sent_id = 2847
+# sent_id = 2848
 # reference = f.194 top marg. (TPH p.xxi)
 # scribe = Main Glossator
 # text = ᚛ᚉᚑᚉᚐᚏᚈ
@@ -474,7 +474,7 @@
 1	᚛	᚛	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	ᚉᚑᚉᚐᚏᚈ	cocart	NOUN	_	Case=Nom|Number=Sing|Typo=Yes	0	root	_	_
 
-# sent_id = 2852
+# sent_id = 2853
 # reference = f.194 bottom marg. (TPH p.xxi)
 # scribe = Main Glossator
 # text = do inis maddoc dún .i. mei sse ⁊ choirbbre
@@ -489,7 +489,7 @@
 8	⁊	ocus	CCONJ	_	_	9	cc	_	_
 9	choirbbre	coirbbre	PROPN	_	Case=Nom|Number=Sing	6	conj	_	_
 
-# sent_id = 2853
+# sent_id = 2854
 # reference = f.195 top marg. (TPH p.xxi)
 # scribe = Main Glossator
 # text = isgann inmemrum et ascribend
@@ -502,14 +502,14 @@
 6	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
 7	scribend	scríbend	NOUN	_	Case=Nom|Number=Sing	4	conj	_	_
 
-# sent_id = 2854
+# sent_id = 2855
 # reference = f.195 top marg. (TPH p.xxi)
 # scribe = Main Glossator
 # text = ᚉᚑᚉᚐᚏᚈ
 # translation = correction
 1	ᚉᚑᚉᚐᚏᚈ	cocart	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 
-# sent_id = 2861
+# sent_id = 2862
 # reference = f.195 bottom marg. (TPH p.xxi)
 # scribe = Main Glossator
 # text = ní ǽrmall roscríbad inletráimso
@@ -522,7 +522,7 @@
 6	letráim	letraim	NOUN	_	Case=Nom|Number=Sing	4	obj	_	SpaceAfter=No
 7	so	so	PART	_	PronType=Dem	6	amod	_	_
 
-# sent_id = 2862
+# sent_id = 2863
 # reference = f.196 top marg. (TPH p.xxi)
 # scribe = Main Glossator
 # text = ᚛ᚐ ᚙᚑᚉᚐᚏᚈ ᚔᚅ ᚄᚑ
@@ -533,7 +533,7 @@
 4	ᚔᚅ	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	ᚄᚑ	so	PART	_	PronType=Dem	3	amod	_	_
 
-# sent_id = 2919
+# sent_id = 2920
 # reference = 198a11
 # scribe = Main Glossator
 # text = .i. connach ainm samlaid
@@ -544,7 +544,7 @@
 4	ainm	ainm	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 5	samlaid	amal	ADV	_	_	4	advmod	_	_
 
-# sent_id = 2962
+# sent_id = 2963
 # reference = f.199 bottom marg. (TPH p.xxi)
 # scribe = Main Glossator
 # text = ní mmall
@@ -552,7 +552,7 @@
 1	ní	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	2	nsubj	_	_
 2	mmall	mall	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
 
-# sent_id = 3078
+# sent_id = 3079
 # reference = f.203 bottom marg. (TPH p.xxi)
 # scribe = Main Glossator
 # text = maithas patric ⁊ brigtae ar máel brigtae namba olcc amenma frimm arinscribund roscribad indulso
@@ -578,7 +578,7 @@
 19	dul	dul	NOUN	_	Case=Acc|Number=Sing	17	obl	_	SpaceAfter=No
 20	so	so	PART	_	PronType=Dem	19	amod	_	_
 
-# sent_id = 3079
+# sent_id = 3080
 # reference = f.203 bottom marg. (TPH p.xxii)
 # scribe = Main Glossator
 # text = maraith sercc céin mardda aithne amáelecán
@@ -591,7 +591,7 @@
 6	a	a	PART	_	PartType=Voc	7	case:voc	_	SpaceAfter=No
 7	máelecán	maellecan	PROPN	_	Case=Voc|Number=Sing	1	vocative	_	_
 
-# sent_id = 3080
+# sent_id = 3081
 # reference = f.204 top marg. (TPH p.xxii)
 # scribe = Main Glossator
 # text = ᚛ᚂᚐᚈᚆᚓᚔᚏᚈ
@@ -599,7 +599,7 @@
 1	᚛	᚛	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	ᚂᚐᚈᚆᚓᚔᚏᚈ	laithirt	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 
-# sent_id = 3094
+# sent_id = 3095
 # reference = 204b6
 # scribe = Main Glossator
 # text = athvsv
@@ -608,7 +608,7 @@
 2	thv	tú	PRON	_	Number=Sing|Person=2|PronType=Prs	0	root	_	SpaceAfter=No
 3	sv	so	PRON	_	Number=Sing|Person=2|PronType=Emp	2	amod	_	_
 
-# sent_id = 3102
+# sent_id = 3103
 # reference = f.203-204 bottom marg. (TPH p.290)
 # scribe = Main Glossator
 # text = Domfarcai fidbaidae fál fomchain lóid luin lúad nad cél· huas mo lebrán indlínech fomchain trírech innaṅén ··, Fommchain cói menn medair mass hiṁbrot glass de dindgnaibdoss· debrath nomchoimmdiu cóima cáinscríbaimm foróida ross
@@ -664,14 +664,14 @@
 49	róida	rúd	NOUN	_	Case=Gen|Number=Sing	50	nmod:pre	_	_
 50	ross	ros	NOUN	_	Case=Acc|Number=Sing	47	obl	_	_
 
-# sent_id = 3118
+# sent_id = 3119
 # reference = f.207 top marg. (TPH p.xxii)
 # scribe = Main Glossator
 # text = dongus
 # translation = Dongus
 1	dongus	dongus	PROPN	_	Case=Nom|Number=Sing	0	root	_	_
 
-# sent_id = 3228
+# sent_id = 3229
 # reference = f.210 bottom marg. (TPH p.xxii)
 # scribe = Main Glossator
 # text = tiach didiv mad ferr lat .i. d·o·o·
@@ -690,7 +690,7 @@
 12	o	_	X	_	_	8	flat	_	SpaceAfter=No
 13	·	·	PUNCT	_	_	12	punct	_	_
 
-# sent_id = 3259
+# sent_id = 3260
 # reference = f.211 bottom marg. (TPH p.xxii)
 # scribe = Main Glossator
 # text = ··, uch mochliab anóibingen ··–
@@ -704,7 +704,7 @@
 7	ingen	ingen	NOUN	_	Case=Voc|Number=Sing	4	parataxis	_	_
 8	··–	·–	PUNCT	_	_	7	punct	_	_
 
-# sent_id = 3385
+# sent_id = 3386
 # reference = f.217 bottom marg. (TPH p.xxii)
 # scribe = Main Glossator
 # text = memmbrum naue drochdub ó níepur na haill
@@ -719,7 +719,7 @@
 8	na	nach	DET	_	Case=Acc|Definite=Ind|Number=Sing	9	det	_	_
 9	haill	aile	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
 
-# sent_id = 3460
+# sent_id = 3461
 # reference = f.228 top marg. (TPH p.xxii)
 # scribe = Main Glossator
 # text = isgann membrumm
@@ -728,7 +728,7 @@
 2	gann	gann	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
 3	membrumm	membrum	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
 
-# sent_id = 3461
+# sent_id = 3462
 # reference = f.229 top marg. (TPH p.290)
 # scribe = Main Glossator
 # text = Gaib do chuil isin charcair niróis chluim nacolcaid · truag insin amail bachal rot giuil indṡrathar dodcaid
@@ -758,7 +758,7 @@
 23	ṡrathar	srathar	NOUN	_	Case=Nom|Number=Sing	21	obj	_	_
 24	dodcaid	dodcad	NOUN	_	Case=Gen|Number=Sing	23	nmod	_	_
 
-# sent_id = 3462
+# sent_id = 3463
 # reference = f.231 top marg. (TPH p.xxii)
 # scribe = Main Glossator
 # text = medon lai
@@ -766,7 +766,7 @@
 1	medon	medón	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 2	lai	lá	NOUN	_	Case=Gen|Number=Sing	1	nmod	_	_
 
-# sent_id = 3463
+# sent_id = 3464
 # reference = f.233 top marg. (TPH p.xxii)
 # scribe = Main Glossator
 # text = satharnn samchasc
@@ -775,7 +775,7 @@
 2	sam	sam	NOUN	_	Prefix=Yes	3	nmod	_	SpaceAfter=No
 3	chasc	cásc	NOUN	_	Case=Gen|Number=Sing	1	nmod	_	_
 
-# sent_id = 3469
+# sent_id = 3470
 # reference = f.248 top marg. (TPH p.xxii)
 # scribe = Main Glossator
 # text = istana andub
