@@ -36765,14 +36765,14 @@
 # sent_id = 3089
 # reference = 204a8
 # scribe = Main Glossator
-# text = .i. cia so doacaldmach aṅ grammatice
+# text = .i. cia so doacaldmach a ṅ grammatice
 # translation = i.e. though grammatice is appellative
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	cia	cía	SCONJ	_	_	_	_	_	_
 3	so	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 4	doacaldmach	doacaldmach	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
-5	aṅ	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
-6	grammatice	_	X	_	Foreign=Yes	_	_	_	_
+5	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
+6	ṅ grammatice	_	X	_	Foreign=Yes	_	_	_	_
 
 # sent_id = 3090
 # reference = 204b1

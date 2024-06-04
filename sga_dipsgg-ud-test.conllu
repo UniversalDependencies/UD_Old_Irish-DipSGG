@@ -256,9 +256,24 @@
 # sent_id = 288
 # reference = 11a3
 # scribe = Main Glossator
-# text = braigim
-# translation = I fart
+# text = braigim nam displosa sona quantum vesíca pepedi ·· ⁊ fit pedo nomen animalis ut isidorus dicit
+# translation = I fart, for an explosive sound as much as a bladder I have farted, and pedo results from the name of an animal, as Isidore says
 1	braigim	braigid	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	_
+2	nam	_	X	_	Foreign=Yes	_	_	_	_
+3	displosa	_	X	_	Foreign=Yes	_	_	_	_
+4	sona	_	X	_	Foreign=Yes	_	_	_	_
+5	quantum	_	X	_	Foreign=Yes	_	_	_	_
+6	vesíca	_	X	_	Foreign=Yes	_	_	_	_
+7	pepedi	_	X	_	Foreign=Yes	_	_	_	_
+8	··	_	PUNCT	_	_	_	_	_	_
+9	⁊	ocus	CCONJ	_	_	_	_	_	_
+10	fit	_	X	_	Foreign=Yes	_	_	_	_
+11	pedo	_	X	_	Foreign=Yes	_	_	_	_
+12	nomen	_	X	_	Foreign=Yes	_	_	_	_
+13	animalis	_	X	_	Foreign=Yes	_	_	_	_
+14	ut	_	X	_	Foreign=Yes	_	_	_	_
+15	isidorus	_	X	_	Foreign=Yes	_	_	_	_
+16	dicit	_	X	_	Foreign=Yes	_	_	_	_
 
 # sent_id = 1274
 # reference = f.50 bottom marg. (TPH p.xx)
