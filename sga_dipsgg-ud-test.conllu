@@ -477,9 +477,9 @@
 # sent_id = 2847
 # reference = f.194 top marg. (TPH p.xxi)
 # scribe = Main Glossator
-# text = donngus
+# text = donngvs
 # translation = Dongus
-1	donngus	dongus	PROPN	_	Case=Nom|Number=Sing	0	root	_	_
+1	donngvs	dongus	PROPN	_	Case=Nom|Number=Sing	0	root	_	_
 
 # sent_id = 2848
 # reference = f.194 top marg. (TPH p.xxi)
@@ -492,12 +492,12 @@
 # sent_id = 2853
 # reference = f.194 bottom marg. (TPH p.xxi)
 # scribe = Main Glossator
-# text = do inis maddoc dún .i. mei sse ⁊ choirbbre
+# text = do inis maddoc dv́n .i. mei sse ⁊ choirbbre
 # translation = We are from Inis Maddoc i.e. myself and Coirbbre
 1	do	do	ADP	_	AdpType=Prep|Definite=Ind	2	case	_	_
 2	inis	inis	NOUN	_	Case=Dat|Number=Sing	0	root	_	_
 3	maddoc	maddoc	PROPN	_	Case=Dat|Number=Sing	2	nmod	_	_
-4	dún	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=1|PronType=Prs	2	obl:prep	_	_
+4	dv́n	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=1|PronType=Prs	2	obl:prep	_	_
 5	.i.	.i.	ADV	_	Abbr=Yes	6	advmod	_	_
 6	mei	mé	PRON	_	Number=Sing|Person=1|PronType=Prs	2	dislocated	_	_
 7	sse	sa	PRON	_	Number=Sing|Person=1|PronType=Emp	6	amod	_	_
