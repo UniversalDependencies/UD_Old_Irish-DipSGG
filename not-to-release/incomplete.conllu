@@ -3353,7 +3353,7 @@
 8	són	side	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ana	_	_	_	_
 9	desimrechtaigedar	desimrechtaigid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
 10	som	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	_	_	_	_
-11	namma	namma	ADV	_	_	_	_	_	_
+11	namma	nammá	ADV	_	_	_	_	_	_
 12	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 13	nna	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 14	deud	dead	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
