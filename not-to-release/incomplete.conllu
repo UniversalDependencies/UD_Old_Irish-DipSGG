@@ -6713,7 +6713,7 @@
 14	ind	a	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 15	i	í	PART	_	PartType=Dct	_	_	_	_
 16	dano	dano	ADV	_	_	_	_	_	_
-17	nád	ná	PART	_	Polarity=Neg|PronType=Rel	_	_	_	_
+17	nád	ná	PART	_	PartType=Rel|Polarity=Neg	_	_	_	_
 18	suidigthe	suidigidir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
 19	som	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	_	_	_	_
 20	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
