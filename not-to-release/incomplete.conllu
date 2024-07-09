@@ -429,7 +429,7 @@
 6	fuath	fúath	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
 7	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 8	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-9	hé	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+9	hé	é_1	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 10	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 11	gloṡnáthe	glóṡnáithe	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 12	caracter	cárachtar	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -903,7 +903,7 @@
 # translation = i.e. these are the words (of Servius)
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	it	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-3	hé	é	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
+3	hé	é_2	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 4	se	so	PART	_	PronType=Dem	_	_	_	_
 5	inna	in	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_
 6	briathra	bríathar	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
@@ -1035,7 +1035,7 @@
 # translation = i.e. it is they who think that, those who, etc.
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	hit	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-3	hé	é	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
+3	hé	é_2	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 4	do	do	PART	_	PartType=Vb	_	_	_	_
 5	d	id_2	PRON	_	Gender=Neut|Number=Sing|Person=3|PronClass=C|PronType=Prs	_	_	_	_
 6	mainetar	domoinethar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
@@ -5411,7 +5411,7 @@
 # translation = i.e. those are the other parts which he has mentioned above
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	hit	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-3	hé	é	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
+3	hé	é_2	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 4	sin	sin	PART	_	PronType=Dem	_	_	_	_
 5	inna	in	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_
 6	ranna	rann	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
@@ -7707,7 +7707,7 @@
 3	tréna	trén	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	_	_	_	_
 4	didiu	didiu	ADV	_	_	_	_	_	_
 5	it	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-6	hé	é	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
+6	hé	é_2	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 7	do	do	PART	_	PartType=Vb	_	_	_	_
 8	ḟormmagddar	doformaig	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
 9	do	do	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
@@ -8853,7 +8853,7 @@
 # translation = i.e. that is Apollo
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-3	hé	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+3	hé	é_1	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 4	apoill	apoill	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 5	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 6	sin	sin	PART	_	PronType=Dem	_	_	_	_
@@ -8865,7 +8865,7 @@
 # translation = i.e. it is Romulus
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-3	hé	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+3	hé	é_1	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 4	romuil	romuil	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 732
@@ -8895,7 +8895,7 @@
 # translation = i.e. that is Epaphus
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-3	hé	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+3	hé	é_1	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 4	epachus	_	X	_	Foreign=Yes	_	_	_	_
 5	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 6	sin	sin	PART	_	PronType=Dem	_	_	_	_
@@ -9429,7 +9429,7 @@
 11	si	si	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Emp	_	_	_	_
 12	lee	la	ADP	_	AdpType=Prep|Definite=Ind|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 13	it	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-14	he	é	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
+14	he	é_2	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 15	con	con	PART	_	PartType=Vb	_	_	_	_
 16	rótgatar	conutaing	VERB	_	Mood=Ind|Number=Plur|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 17	in	in	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
@@ -9451,7 +9451,7 @@
 9	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 10	acrisioneus	_	X	_	Foreign=Yes	_	_	_	_
 11	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-12	hé	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+12	hé	é_1	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 13	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 14	ḟoxlaid	fochslaid	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 15	ilair	ilar	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
@@ -11325,7 +11325,7 @@
 3	persanaib	persan	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
 4	beodaib	béodae	ADJ	_	Case=Dat|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	_
 5	it	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-6	hé	é	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
+6	hé	é_2	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 7	sidi	side	PRON	_	PronType=Ana	_	_	_	_
 8	con	con	PART	_	PartType=Vb	_	_	_	_
 9	ṅdelggaddar	condelca	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
@@ -11434,7 +11434,7 @@
 4	bí	beo	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	_
 5	ɫ	nó	CCONJ	_	_	_	_	_	_
 6	it	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-7	é	é	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
+7	é	é_2	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 8	vivi	_	X	_	Foreign=Yes	_	_	_	_
 9	in	in	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	_	_	_	_
 10	dóini	duine	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
@@ -13143,7 +13143,7 @@
 # text = Hít é in maicc do berat inna anmman ɫ is forru do berar
 # translation = it is the boys that give the names (here mentioned), or it is to them that it is given
 1	Hít	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-2	é	é	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
+2	é	é_2	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 3	in	in	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	_	_	_	_
 4	maicc	macc	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 5	do	do	PART	_	PartType=Vb	_	_	_	_
@@ -15311,7 +15311,7 @@
 # text = it hé sidi
 # translation = it is they
 1	it	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-2	hé	é	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
+2	hé	é_2	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 3	sidi	side	PRON	_	PronType=Ana	_	_	_	_
 
 # sent_id = 1337
@@ -17233,7 +17233,7 @@
 # translation = i.e. it is they
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	it	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-3	é	é	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
+3	é	é_2	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 
 # sent_id = 1518
 # reference = 61a9
@@ -22180,7 +22180,7 @@
 # translation = i.e. these are they that do not possess either sign-aspect
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	it	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-3	hé	é	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
+3	hé	é_2	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 4	sidi	side	PRON	_	PronType=Ana	_	_	_	_
 5	nad	ná	PART	_	PartType=Rel|Polarity=Neg	_	_	_	_
 6	techtat	techtaid	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
@@ -22209,7 +22209,7 @@
 # translation = i.e. and they, i.e. unless they possess the two significations
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	ot	os	SCONJ	_	_	_	_	_	_
-3	é	é	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
+3	é	é_2	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 4	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 5	ma	má	SCONJ	_	_	_	_	_	_
 6	ni	ní	PART	_	Polarity=Neg	_	_	_	_
@@ -22279,7 +22279,7 @@
 # translation = i.e. these are aptota according to him (Priscian) before
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	it	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-3	é	é	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
+3	é	é_2	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 4	són	side	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ana	_	_	_	_
 5	aptota	_	X	_	Foreign=Yes	_	_	_	_
 6	les	la	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -22451,7 +22451,7 @@
 # translation = i.e. this is the consolation, i.e. because it is to be corrected
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-3	he	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+3	he	é_1	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 4	se	so	PART	_	PronType=Dem	_	_	_	_
 5	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 6	com	com	PART	_	Prefix=Yes	_	_	_	_
@@ -24679,7 +24679,7 @@
 # text = it hé sidi greic
 # translation = they are Greek
 1	it	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-2	hé	é	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
+2	hé	é_2	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 3	sidi	side	PRON	_	PronType=Ana	_	_	_	_
 4	greic	gréc	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 
@@ -26419,7 +26419,7 @@
 12	césad	césad	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 13	⁊	ocus	CCONJ	_	_	_	_	_	_
 14	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-15	hé	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+15	hé	é_1	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 16	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 17	fír	fír	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
 18	gním	gním	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -26653,7 +26653,7 @@
 # translation = i.e. those are the true neutrals
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	it	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-3	hé	é	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
+3	hé	é_2	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 4	inna	a	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Art	_	_	_	_
 5	fír	fír	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	_	_	_	_
 6	neuturáldi	neuturáldae	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	_	_	_	_
@@ -27703,7 +27703,7 @@
 3	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 4	co	co	SCONJ	_	_	_	_	_	_
 5	mbad	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	_	_	_	_
-6	hé	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+6	hé	é_1	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 7	écrichdatu	éccríchdatu	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 8	sin	sin	PART	_	PronType=Dem	_	_	_	_
 9	no	no	PART	_	PartType=Vb	_	_	_	_
@@ -28996,7 +28996,7 @@
 # text = is he in so tuasolcud ind imchomairc as rubart riam
 # translation = this is the solution of the question which he has previously put (Quaeritur in compositis etc.)
 1	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-2	he	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+2	he	é_1	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 3	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 4	so	so	PART	_	PronType=Dem	_	_	_	_
 5	tuasolcud	túasulcud	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -30428,7 +30428,7 @@
 6	da	_	X	_	Foreign=Yes	_	_	_	_
 7	⁊	ocus	CCONJ	_	_	_	_	_	_
 8	nip	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
-9	he	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+9	he	é_1	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 10	som	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	_	_	_	_
 11	bes	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
 12	ḟorcenn	forcenn	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -32219,7 +32219,7 @@
 8	fere	_	X	_	Foreign=Yes	_	_	_	_
 9	cétnide	cétnaide	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 10	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-11	é	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+11	é	é_1	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 12	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 13	mess	mes	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 14	limm	la	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=1|PronType=Prs	_	_	_	_
@@ -33886,7 +33886,7 @@
 # text = ce hé roscríb
 # translation = who it is that has written
 1	ce	cía	PRON	_	PronType=Int	_	_	_	_
-2	hé	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+2	hé	é_1	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 3	roscríb	scríbaid	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	_	_	_	_
 
 # sent_id = 2891
@@ -34001,7 +34001,7 @@
 9	tri	trí	NUM	_	NumType=Card	_	_	_	_
 10	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 11	it	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-12	é	é	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
+12	é	é_2	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 13	inna	a	DET	_	Case=Nom|Gender=Neut|Number=Plur|PronType=Art	_	_	_	_
 14	noi	noí	NUM	_	NumType=Card	_	_	_	_
 15	didiu	didiu	ADV	_	_	_	_	_	_
@@ -34048,7 +34048,7 @@
 2	demonstratio	_	X	_	Foreign=Yes	_	_	_	_
 3	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 4	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-5	he	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+5	he	é_1	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 6	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 7	foilsigud	foillsigud	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 8	frecre	frecrae	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -34679,7 +34679,7 @@
 5	fo	fo	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	bíth	bíth	SCONJ	_	_	_	_	_	_
 7	it	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-8	é	é	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
+8	é	é_2	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 9	no	no	PART	_	PartType=Vb	_	_	_	_
 10	da	da_2	PRON	_	Number=Plur|Person=3|PronClass=C|PronType=Prs	_	_	_	_
 11	engraicigetar	engraicigidir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
@@ -34836,7 +34836,7 @@
 2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 3	airi	ar	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 4	it	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-5	é	é	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
+5	é	é_2	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 6	inna	in	DET	_	Case=Gen|Gender=Masc|Number=Plur|PronType=Art	_	_	_	_
 7	fír	fír	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	_
 8	érchóilte	érchoiliud	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
@@ -34855,7 +34855,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	ma	má	SCONJ	_	_	_	_	_	_
 3	d	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-4	he	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+4	he	é_1	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 5	herchoiliud	érchoiliud	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	cétne	cétnae	NUM	_	NumType=Ord	_	_	_	_
 7	persine	persan	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
@@ -35163,7 +35163,7 @@
 8	⁊	ocus	CCONJ	_	_	_	_	_	_
 9	tu	_	X	_	Foreign=Yes	_	_	_	_
 10	it	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-11	é	é	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
+11	é	é_2	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 12	tra	trá	ADV	_	_	_	_	_	_
 13	in	in	DET	_	Case=Nom|Gender=Fem|Number=Dual|PronType=Art	_	_	_	_
 14	di	dá	NUM	_	NumType=Card	_	_	_	_
@@ -35650,7 +35650,7 @@
 4	hilair	ilar	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 5	neutair	neutur	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 6	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-7	he	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+7	he	é_1	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 8	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 9	óenur	óinar	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 10	ar	ar	PART	_	PartType=Vb	_	_	_	_
@@ -36291,7 +36291,7 @@
 # text = it hé in so inna briathra at á coitchennas tra itar in di brethir so i nimmognom
 # translation = these are the verbs. There is a community then between these two verbs in construction
 1	it	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-2	hé	é	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
+2	hé	é_2	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 3	in	in	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	_	_	_	_
 4	so	so	PART	_	PronType=Dem	_	_	_	_
 5	inna	in	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_
@@ -36326,7 +36326,7 @@
 # text = is aí di ɫ ablativus .i. d a rorbai .i. is ái in cin quasi cuius vel ablativus pro genitivo ut supradicti
 # translation = it is his, or an ablative, i.e. it has come to him, i.e. his is the crime quasi etc.
 1	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-2	aí	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+2	aí	é_1	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 3	di	side	PRON	_	PronType=Ana	_	_	_	_
 4	ɫ	nó	CCONJ	_	_	_	_	_	_
 5	ablativus	_	X	_	Foreign=Yes	_	_	_	_
@@ -36645,7 +36645,7 @@
 10	hilar	ilar	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 11	air	ar	SCONJ	_	_	_	_	_	_
 12	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-13	hé	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+13	hé	é_1	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 14	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 15	fogur	fogur	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 16	cétna	cétnae	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
@@ -37173,7 +37173,7 @@
 6	sind	in	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 7	ainmnid	ainmmnid	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 8	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-9	é	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+9	é	é_1	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 10	bias	attá	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Voice=Act	_	_	_	_
 11	for	for	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 12	snaib	in	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
@@ -38410,7 +38410,7 @@
 # text = is é side ro d finnad
 # translation = it is he that used to know it
 1	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-2	é	é	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+2	é	é_1	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 3	side	side	PRON	_	PronType=Ana	_	_	_	_
 4	ro	ro	PART	_	PartType=Vb	_	_	_	_
 5	d	id_2	PRON	_	Gender=Neut|Number=Sing|Person=3|PronClass=C|PronType=Prs	_	_	_	_
