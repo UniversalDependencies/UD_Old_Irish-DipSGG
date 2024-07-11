@@ -802,7 +802,7 @@
 9	ainmmnichthe	ainmmnigud	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
 10	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 11	sí	sí	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	_
-12	ám	ám	INTJ	_	_	_	_	_	_
+12	ám	ám	ADV	_	_	_	_	_	_
 13	inne	inne	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 14	ainmmnichthe	ainmmnigud	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 15	guthaichthe	guthaigthe	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
@@ -4356,7 +4356,7 @@
 2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 3	mút	mút	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	si	so	PART	_	PronType=Dem	_	_	_	_
-5	am	ám	INTJ	_	_	_	_	_	_
+5	am	ám	ADV	_	_	_	_	_	_
 6	quanquam	_	X	_	Foreign=Yes	_	_	_	_
 7	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 8	ci	cía	SCONJ	_	_	_	_	_	_
@@ -5700,7 +5700,7 @@
 5	vel	_	X	_	Foreign=Yes	_	_	_	_
 6	non	_	X	_	Foreign=Yes	_	_	_	_
 7	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-8	nai	nai	INTJ	_	_	_	_	_	_
+8	nai	nacc	ADV	_	_	_	_	_	_
 9	co	co	SCONJ	_	_	_	_	_	_
 10	ní	ní	PART	_	Polarity=Neg	_	_	_	_
 11	cumscaigther	conoscaigi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
@@ -6053,7 +6053,7 @@
 4	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 5	rann	rann	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	si	si	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Emp	_	_	_	_
-7	ám	ám	INTJ	_	_	_	_	_	_
+7	ám	ám	ADV	_	_	_	_	_	_
 8	orationis	_	X	_	Foreign=Yes	_	_	_	_
 
 # sent_id = 529
@@ -11799,7 +11799,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 3	dliged	dliged	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-4	áem	ém	ADV	_	_	_	_	_	_
+4	áem	ám	ADV	_	_	_	_	_	_
 5	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 6	ndliged	dliged	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 7	do	de	PART	_	PartType=Vb	_	_	_	_
@@ -24479,7 +24479,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	a	ad	PART	_	PartType=Vb	_	_	_	_
 3	ta	attá	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-4	ám	ám	INTJ	_	_	_	_	_	_
+4	ám	ám	ADV	_	_	_	_	_	_
 
 # sent_id = 2163
 # reference = 109a4
@@ -24929,7 +24929,7 @@
 # translation = they are pares indeed
 1	it	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 2	pares	_	X	_	Foreign=Yes	_	_	_	_
-3	ám	ám	INTJ	_	_	_	_	_	_
+3	ám	ám	ADV	_	_	_	_	_	_
 
 # sent_id = 2208
 # reference = 114b4
@@ -25352,7 +25352,7 @@
 # translation = i.e. but still it (socius) distinguishes gender, from -us into -a, into -um
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	noch	noch	SCONJ	_	_	_	_	_	_
-3	ám	am	INTJ	_	_	_	_	_	_
+3	ám	ám	ADV	_	_	_	_	_	_
 4	fo	fo	PART	_	PartType=Vb	_	_	_	_
 5	dáli	fodáli	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 6	cenél	cenél	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
@@ -26667,7 +26667,7 @@
 # translation = they are indeed in that way […]
 1	a	ad	PART	_	PartType=Vb	_	_	_	_
 2	taat	attá	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-3	ám	ám	INTJ	_	_	_	_	_	_
+3	ám	ám	ADV	_	_	_	_	_	_
 4	in	in	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 5	chrut	cruth	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 6	sin	sin	PART	_	PronType=Dem	_	_	_	_
@@ -26751,7 +26751,7 @@
 3	airi	ar	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 4	as	as	PART	_	PartType=Vb	_	_	_	_
 5	biur	asbeir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-6	ám	ám	INTJ	_	_	_	_	_	_
+6	ám	ám	ADV	_	_	_	_	_	_
 7	am	is	AUX	_	Mood=Ind|Number=Sing|Person=1|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 8	slán	slán	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
 9	nam	_	X	_	Foreign=Yes	_	_	_	_
@@ -29462,7 +29462,7 @@
 # translation = we indeed make
 1	do	de	PART	_	PartType=Vb	_	_	_	_
 2	gniam	dogní	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	_	_	_	_
-3	ám	ám	INTJ	_	_	_	_	_	_
+3	ám	ám	ADV	_	_	_	_	_	_
 
 # sent_id = 2565
 # reference = 161a1
@@ -34029,7 +34029,7 @@
 # text = frecndairc ám
 # translation = present indeed
 1	frecndairc	frecndairc	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
-2	ám	ám	INTJ	_	_	_	_	_	_
+2	ám	ám	ADV	_	_	_	_	_	_
 
 # sent_id = 2901
 # reference = 197b9
@@ -34665,7 +34665,7 @@
 6	sa	a	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 7	nartocol	articol	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 8	son	side	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ana	_	_	_	_
-9	ám	ám	INTJ	_	_	_	_	_	_
+9	ám	ám	ADV	_	_	_	_	_	_
 
 # sent_id = 2941
 # reference = 198b8
@@ -35560,7 +35560,7 @@
 # translation = there is indeed
 1	at	ad	PART	_	PartType=Vb	_	_	_	_
 2	á	attá	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
-3	em	ém	ADV	_	_	_	_	_	_
+3	em	ám	ADV	_	_	_	_	_	_
 
 # sent_id = 3002
 # reference = 201a9
@@ -36959,7 +36959,7 @@
 1	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 2	netarrogo	etarrogu	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 3	són	side	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ana	_	_	_	_
-4	ám	ám	INTJ	_	_	_	_	_	_
+4	ám	ám	ADV	_	_	_	_	_	_
 
 # sent_id = 3109
 # reference = 205b2
@@ -38928,7 +38928,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	iss	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 3	ed	ed	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
-4	ám	ám	INTJ	_	_	_	_	_	_
+4	ám	ám	ADV	_	_	_	_	_	_
 5	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 6	nécóir	écóir	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
 7	putare	_	X	_	Foreign=Yes	_	_	_	_
