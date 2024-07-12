@@ -209,11 +209,11 @@
 # text = .i. ut accentus .d. hí .c
 # translation = i.e. like "adcentus" d into c
 1	.i.	.i.	ADV	_	Abbr=Yes	3	advmod	_	_
-2	ut	_	SCONJ	_	Foreign=Yes	3	mark	_	_
-3	accentus	_	NOUN	_	Foreign=Yes|Typo=Yes	0	root	_	_
-4	.d.	_	X	_	Foreign=Yes	3	flat:foreign	_	_
+2	ut	_	SCONJ	_	Foreign=Yes	3	mark	_	Lang=la
+3	accentus	_	NOUN	_	Foreign=Yes|Typo=Yes	0	root	_	Lang=la
+4	.d.	_	X	_	Foreign=Yes	3	flat:foreign	_	Lang=la
 5	hí	i	ADP	_	AdpType=Prep|Definite=Ind	6	case	_	_
-6	.c	_	X	_	Foreign=Yes	4	flat:foreign	_	_
+6	.c	_	X	_	Foreign=Yes	4	flat:foreign	_	Lang=la
 
 # sent_id = 18
 # reference = 2a10
@@ -259,21 +259,21 @@
 # text = braigim nam displosa sona quantum vesíca pepedi ·· ⁊ fit pedo nomen animalis ut isidorus dicit
 # translation = I fart, for an explosive sound as much as a bladder I have farted, and pedo results from the name of an animal, as Isidore says
 1	braigim	braigid	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	0	root	_	_
-2	nam	_	X	_	Foreign=Yes	_	_	_	_
-3	displosa	_	X	_	Foreign=Yes	_	_	_	_
-4	sona	_	X	_	Foreign=Yes	_	_	_	_
-5	quantum	_	X	_	Foreign=Yes	_	_	_	_
-6	vesíca	_	X	_	Foreign=Yes	_	_	_	_
-7	pepedi	_	X	_	Foreign=Yes	_	_	_	_
-8	··	_	PUNCT	_	_	_	_	_	_
-9	⁊	ocus	CCONJ	_	_	_	_	_	_
-10	fit	_	X	_	Foreign=Yes	_	_	_	_
-11	pedo	_	X	_	Foreign=Yes	_	_	_	_
-12	nomen	_	X	_	Foreign=Yes	_	_	_	_
-13	animalis	_	X	_	Foreign=Yes	_	_	_	_
-14	ut	_	X	_	Foreign=Yes	_	_	_	_
-15	isidorus	_	X	_	Foreign=Yes	_	_	_	_
-16	dicit	_	X	_	Foreign=Yes	_	_	_	_
+2	nam	_	ADV	_	Foreign=Yes	7	discourse	_	Lang=la
+3	displosa	_	ADJ	_	Foreign=Yes	4	amod	_	Lang=la
+4	sona	_	NOUN	_	Foreign=Yes	7	nsubj	_	Lang=la
+5	quantum	_	ADV	_	Foreign=Yes	7	advmod	_	Lang=la
+6	vesíca	_	NOUN	_	Foreign=Yes	7	obl	_	Lang=la
+7	pepedi	_	VERB	_	Foreign=Yes	1	advcl	_	Lang=la
+8	··	_	PUNCT	_	_	7	punct	_	_
+9	⁊	_	CCONJ	_	Foreign=Yes	7	cc	_	Lang=la
+10	fit	_	VERB	_	Foreign=Yes	_	_	_	Lang=la
+11	pedo	_	NOUN	_	Foreign=Yes	_	_	_	Lang=la
+12	nomen	_	NOUN	_	Foreign=Yes	_	_	_	Lang=la
+13	animalis	_	NOUN	_	Foreign=Yes	_	_	_	Lang=la
+14	ut	_	SCONJ	_	Foreign=Yes	_	mark	_	Lang=la
+15	isidorus	_	PROPN	_	Foreign=Yes	_	_	_	Lang=la
+16	dicit	_	VERB	_	Foreign=Yes	_	_	_	Lang=la
 
 # sent_id = 1274
 # reference = f.50 bottom marg. (TPH p.xx)
@@ -281,9 +281,9 @@
 # text = ᚛ᚃᚓᚏᚔᚐ ᚉᚐᚔ ᚆᚑᚇᚔᚓ
 # translation = holiday of lamentation today
 1	᚛	᚛	PUNCT	_	_	2	punct	_	SpaceAfter=No
-2	ᚃᚓᚏᚔᚐ	feria	NOUN	_	Foreign=Yes	0	root	_	_
+2	ᚃᚓᚏᚔᚐ	feria	NOUN	_	Foreign=Yes	0	root	_	Lang=la
 3	ᚉᚐᚔ	caí	NOUN	_	Case=Gen|Number=Sing	2	nmod	_	_
-4	ᚆᚑᚇᚔᚓ	hodie	NOUN	_	Foreign=Yes	2	obl:tmod	_	_
+4	ᚆᚑᚇᚔᚓ	hodie	NOUN	_	Foreign=Yes	2	obl:tmod	_	Lang=la
 
 # sent_id = 1298
 # reference = f.52 top marg. (TPH p.xx)
@@ -314,7 +314,7 @@
 # translation = strife: it is a feminine then, and there is increase in it
 1	immargal	immargal	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	3	nsubj	_	_
-3	femininum	_	NOUN	_	Foreign=Yes	1	dislocated	_	_
+3	femininum	_	NOUN	_	Foreign=Yes	1	dislocated	_	Lang=la
 4	dano	dano	ADV	_	_	3	advmod	_	_
 5	⁊	ocus	CCONJ	_	_	7	cc	_	_
 6	a	ad	PART	_	PartType=Vb	7	compound:prt	_	SpaceAfter=No
@@ -386,7 +386,7 @@
 3	anmmain	anim	NOUN	_	Case=Dat|Number=Sing	1	nmod	_	_
 4	ferguso	fergus	PROPN	_	Case=Gen|Number=Sing	3	nmod	_	SpaceAfter=No
 5	·	·	PUNCT	_	_	1	punct	_	_
-6	amen	_	ADV	_	Foreign=Yes	1	advmod	_	SpaceAfter=No
+6	amen	_	ADV	_	Foreign=Yes	1	advmod	_	SpaceAfter=No|Lang=la
 7	·–	·–	PUNCT	_	_	6	punct	_	_
 
 # sent_id = 2199
@@ -415,7 +415,7 @@
 # text = ruadri adest
 # translation = Ruadrí is here
 1	ruadri	ruadrí	PROPN	_	Case=Nom|Number=Sing	2	nsubj	_	_
-2	adest	_	VERB	_	Foreign=Yes	0	root	_	_
+2	adest	_	VERB	_	Foreign=Yes	0	root	_	Lang=la
 
 # sent_id = 2613
 # reference = f.165 bottom marg. (TPH p.xxi)
@@ -513,7 +513,7 @@
 2	gann	gann	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	0	root	_	_
 3	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	4	det	_	SpaceAfter=No
 4	memrum	membrum	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	_
-5	et	_	CCONJ	_	Foreign=Yes	7	cc	_	_
+5	et	_	CCONJ	_	Foreign=Yes	7	cc	_	Lang=la
 6	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
 7	scribend	scríbend	NOUN	_	Case=Nom|Number=Sing	4	conj	_	_
 
