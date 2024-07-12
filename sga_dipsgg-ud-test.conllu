@@ -265,15 +265,15 @@
 5	quantum	_	ADV	_	Foreign=Yes	7	advmod	_	Lang=la
 6	vesíca	_	NOUN	_	Foreign=Yes	7	obl	_	Lang=la
 7	pepedi	_	VERB	_	Foreign=Yes	1	advcl	_	Lang=la
-8	··	_	PUNCT	_	_	7	punct	_	_
-9	⁊	_	CCONJ	_	Foreign=Yes	7	cc	_	Lang=la
-10	fit	_	VERB	_	Foreign=Yes	_	_	_	Lang=la
-11	pedo	_	NOUN	_	Foreign=Yes	_	_	_	Lang=la
-12	nomen	_	NOUN	_	Foreign=Yes	_	_	_	Lang=la
-13	animalis	_	NOUN	_	Foreign=Yes	_	_	_	Lang=la
-14	ut	_	SCONJ	_	Foreign=Yes	_	mark	_	Lang=la
-15	isidorus	_	PROPN	_	Foreign=Yes	_	_	_	Lang=la
-16	dicit	_	VERB	_	Foreign=Yes	_	_	_	Lang=la
+8	··	_	PUNCT	_	_	1	punct	_	_
+9	⁊	_	CCONJ	_	Foreign=Yes	16	cc	_	Lang=la
+10	fit	_	VERB	_	Foreign=Yes	16	advcl	_	Lang=la
+11	pedo	_	NOUN	_	Foreign=Yes	10	nsubj	_	Lang=la
+12	nomen	_	NOUN	_	Foreign=Yes	10	obj	_	Lang=la
+13	animalis	_	NOUN	_	Foreign=Yes	12	nmod	_	Lang=la
+14	ut	_	SCONJ	_	Foreign=Yes	16	mark	_	Lang=la
+15	isidorus	_	PROPN	_	Foreign=Yes	16	nsubj	_	Lang=la
+16	dicit	_	VERB	_	Foreign=Yes	7	advcl	_	Lang=la
 
 # sent_id = 1274
 # reference = f.50 bottom marg. (TPH p.xx)
