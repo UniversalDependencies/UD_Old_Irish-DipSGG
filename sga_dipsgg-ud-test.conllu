@@ -211,7 +211,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	3	advmod	_	_
 2	ut	_	SCONJ	_	Foreign=Yes	3	mark	_	Lang=la
 3	accentus	_	NOUN	_	Foreign=Yes|Typo=Yes	0	root	_	Lang=la
-4	.d.	_	X	_	Foreign=Yes	3	flat:foreign	_	Lang=la
+4	.d.	_	X	_	Foreign=Yes	3	advcl	_	Lang=la
 5	hí	i	ADP	_	AdpType=Prep|Definite=Ind	6	case	_	_
 6	.c	_	X	_	Foreign=Yes	4	flat:foreign	_	Lang=la
 
