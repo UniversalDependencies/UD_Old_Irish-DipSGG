@@ -552,10 +552,10 @@
 # reference = 198a11
 # scribe = Main Glossator
 # text = .i. connach ainm samlaid
-# translation = i.e. so that thus it is not a noun
+# translation = i.e. so that it is not a noun therefore
 1	.i.	.i.	ADV	_	Abbr=Yes	4	advmod	_	_
 2	con	co	SCONJ	_	_	4	mark	_	SpaceAfter=No
-3	nach	ná	SCONJ	_	Gender=Neut|Number=Sing|Person=3|Polarity=Neg|PronClass=Neg|PronType=Prs	4	mark	_	_
+3	nach	nách_3	SCONJ	_	Gender=Neut|Number=Sing|Person=3|Polarity=Neg|PronType=Prs|VerbType=Cop	4	mark	_	_
 4	ainm	ainm	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 5	samlaid	amal	ADV	_	_	4	advmod	_	_
 
