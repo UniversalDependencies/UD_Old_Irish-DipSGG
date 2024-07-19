@@ -35589,7 +35589,7 @@
 # translation = it [is] one and the same
 1	ed	ed	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 2	non	inunn	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
-3	óen	oín	NUM	_	NumType=Card	_	_	_	_
+3	óen	oín	PRON	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Ind	_	_	_	_
 
 # sent_id = 3005
 # reference = 201b1
