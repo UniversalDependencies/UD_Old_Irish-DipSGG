@@ -28889,7 +28889,7 @@
 5	ṅdoib	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 6	di	de	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 7	n	in	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
-8	gnim	gnim	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
+8	gnim	gním	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 9	gníte	gníid	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 
 # sent_id = 2523
@@ -34797,7 +34797,7 @@
 9	neuch	nech	PRON	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Ind	_	_	_	_
 10	fo	for	PART	_	PartType=Vb	_	_	_	_
 11	rrorcongrad	forcongair	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Pass	_	_	_	_
-12	gním	gnim	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+12	gním	gním	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 13	iarum	íar	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 14	do	do	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 15	nd	in	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
