@@ -957,7 +957,7 @@
 # text = .i. noch is méit for núaislichter són
 # translation = i.e. that is, as far as they are surpassed
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	noch	noch	SCONJ	_	_	_	_	_	_
+2	noch	noch	CCONJ	_	_	_	_	_	_
 3	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 4	méit	méit	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 5	for	for	PART	_	PartType=Vb	_	_	_	_
@@ -8389,7 +8389,7 @@
 11	inna	in	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
 12	inne	inne	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 13	so	so	PART	_	PronType=Dem	_	_	_	_
-14	noch	noch	SCONJ	_	_	_	_	_	_
+14	noch	noch	CCONJ	_	_	_	_	_	_
 15	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 16	relativum	_	X	_	Foreign=Yes	_	_	_	_
 17	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
@@ -9205,7 +9205,7 @@
 2	amal	amal	SCONJ	_	_	_	_	_	_
 3	no	no	PART	_	PartType=Vb	_	_	_	_
 4	bed	attá	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
-5	noch	noch	SCONJ	_	_	_	_	_	_
+5	noch	noch	CCONJ	_	_	_	_	_	_
 6	ní	ní	PART	_	Polarity=Neg	_	_	_	_
 7	fail	attá	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 8	ar	ar	SCONJ	_	_	_	_	_	_
@@ -12060,7 +12060,7 @@
 # scribe = Main Glossator
 # text = noch ní cóir son acht co rop máa i nóen ṡillaib in comparit iss ed as chóir
 # translation = yet this is not right - only that the comparative be greater by one syllable, this is what it is right
-1	noch	noch	SCONJ	_	_	_	_	_	_
+1	noch	noch	CCONJ	_	_	_	_	_	_
 2	ní	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
 3	cóir	cóir	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
 4	son	side	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ana	_	_	_	_
@@ -12476,7 +12476,7 @@
 # text = tóisechu noch is nomen nuirdd híc ⁊ con delgthar calléic
 # translation = ‘prior’, yet it is here a noun of order, and nevertheless it is compared
 1	tóisechu	toísech	ADJ	_	Degree=Cmp	_	_	_	_
-2	noch	noch	SCONJ	_	_	_	_	_	_
+2	noch	noch	CCONJ	_	_	_	_	_	_
 3	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 4	nomen	_	X	_	Foreign=Yes	_	_	_	_
 5	nuirdd	ord	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
@@ -19041,7 +19041,7 @@
 # scribe = Main Glossator
 # text = noch ba ed ba riagolda immurgu inderbus and in tain bed femininum ⁊ derba in tain bed mascul
 # translation = although this would be regular: uncertainty in it when it is feminine and certainty when it is masculine
-1	noch	noch	SCONJ	_	_	_	_	_	_
+1	noch	noch	CCONJ	_	_	_	_	_	_
 2	ba	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 3	ed	ed	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 4	ba	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
@@ -25347,7 +25347,7 @@
 # text = .i. noch ám fo dáli cenél a us in a in um
 # translation = i.e. but still it (socius) distinguishes gender, from -us into -a, into -um
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	noch	noch	SCONJ	_	_	_	_	_	_
+2	noch	noch	CCONJ	_	_	_	_	_	_
 3	ám	ám	ADV	_	_	_	_	_	_
 4	fo	fo	PART	_	PartType=Vb	_	_	_	_
 5	dáli	fodáli	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
@@ -29630,7 +29630,7 @@
 # text = .i. noch ni ed ón bis hi forgariu
 # translation = i.e. but it is not this that is in a command
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	noch	noch	SCONJ	_	_	_	_	_	_
+2	noch	noch	CCONJ	_	_	_	_	_	_
 3	ni	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
 4	ed	ed	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 5	ón	ón	PART	_	PronType=Dem	_	_	_	_
