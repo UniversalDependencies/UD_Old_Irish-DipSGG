@@ -14104,7 +14104,7 @@
 # scribe = Main Glossator
 # text = sen
 # translation = old person
-1	sen	sen	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
+1	sen	sen	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 1209
 # reference = 49b7
