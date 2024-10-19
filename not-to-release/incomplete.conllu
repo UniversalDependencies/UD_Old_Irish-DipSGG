@@ -30994,7 +30994,7 @@
 1	ní	ní	PART	_	Gender=Neut|Number=Sing|Person=3|Polarity=Neg|PronType=Prs	_	_	_	_
 2	thabur	dobeir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	_
 3	dit	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=2|PronType=Prs	_	_	_	_
-4	ón	on	PART	_	PronType=Dem	_	_	_	_
+4	ón	ón	PART	_	PronType=Dem	_	_	_	_
 
 # sent_id = 2681
 # reference = 179a5
