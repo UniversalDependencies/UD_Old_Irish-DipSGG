@@ -6449,7 +6449,7 @@
 6	vel	_	X	_	Foreign=Yes	_	_	_	_
 7	huare	óre	SCONJ	_	_	_	_	_	_
 8	ná	ná	PART	_	PartType=Rel|Polarity=Neg	_	_	_	_
-9	ndun	don	PRON	_	Number=Plur|Person=1|PronClass=C|PronType=Prs	_	_	_	_
+9	ndun	don_1	PRON	_	Number=Plur|Person=1|PronClass=C|PronType=Prs	_	_	_	_
 10	tanaic	doicc	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	_	_	_	_
 11	a	a	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 12	carachtar	cárachtar	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
