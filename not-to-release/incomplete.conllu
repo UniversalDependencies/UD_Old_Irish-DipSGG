@@ -8752,7 +8752,7 @@
 # translation = i.e. from another thing they have been named, i.e. denominatives etc.
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	de	de	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-3	rét	ret	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
+3	rét	rét	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 4	ailiu	aile	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
 5	roainmnichthe	ainmnigidir	VERB	_	Mood=Ind|Number=Plur|PartType=Aug|Person=3|Tense=Past|Voice=Pass	_	_	_	_
 6	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
@@ -22165,7 +22165,7 @@
 2	ainmnigud	ainmmnigud	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	di	de	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 4	nd	in	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
-5	rét	ret	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
+5	rét	rét	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 6	as	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
 7	mám	már	ADJ	_	Degree=Sup	_	_	_	_
 8	and	i	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -24640,7 +24640,7 @@
 2	cridi	cride	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 3	⁊	ocus	CCONJ	_	_	_	_	_	_
 4	alaaili	aile	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	_
-5	réta	ret	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
+5	réta	rét	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 6	ut	_	X	_	Foreign=Yes	_	_	_	_
 7	isidorus	_	X	_	Foreign=Yes	_	_	_	_
 8	dicit	_	X	_	Foreign=Yes	_	_	_	_
@@ -27471,7 +27471,7 @@
 # translation = i.e. the things which the optative desires, they are not however
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	ind	in	DET	_	Case=Nom|Gender=Masc|Number=Plur|PronType=Art	_	_	_	_
-3	réta	ret	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
+3	réta	rét	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 4	ad	ad	PART	_	PartType=Vb	_	_	_	_
 5	gúsi	asgúisi	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 6	optait	optait	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -31779,7 +31779,7 @@
 # translation = i.e. name of an incorporeal thing, and it is of the fourth declension
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	ainm	ainm	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-3	reto	ret	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
+3	reto	rét	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 4	neph	neph	PART	_	Polarity=Neg|Prefix=Yes	_	_	_	_
 5	chorpdi	corpdae	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
 6	⁊	ocus	CCONJ	_	_	_	_	_	_
