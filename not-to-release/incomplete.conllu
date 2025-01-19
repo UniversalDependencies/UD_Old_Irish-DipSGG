@@ -899,14 +899,13 @@
 # sent_id = 88
 # reference = 4b12
 # scribe = Main Glossator
-# text = .i. it hé se inna briathra
-# translation = i.e. these are the words (of Servius)
-1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	it	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-3	hé	é_2	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
-4	se	so	PART	_	PronType=Dem	_	_	_	_
-5	inna	in	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_
-6	briathra	bríathar	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
+# text = ithé se innabriathra
+# translation = these are the words
+1	it	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
+2	hé	é_2	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
+3	se	so	PART	_	PronType=Dem	_	_	_	_
+4	inna	in	DET	_	Case=Nom|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_
+5	briathra	bríathar	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 
 # sent_id = 89
 # reference = 4b13
