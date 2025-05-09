@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Old_Irish-DipSGG:
-commit 84ca5f77a46fb05392e5c903e8faa444f5bb2812
-Merge: 79ae352 3e80a97
+commit 9ff7307d490e229cdfb3c8eb01e555e6d3dbfbdf
+Merge: 4be5487 4557053
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 418 of 418 words (nodes).
 Size: min(0, log((N/1000)**2)) = 0.
@@ -23,18 +23,18 @@ Udapi:
                TOTAL         35
 Udapi: found 35 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 418 words.
-Genres: found 4 out of 17 known.
+Genres: found 4 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang sga --max-err=10 UD_Old_Irish-DipSGG/sga_dipsgg-ud-test.conllu
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
-(weight=0.0769230769230769) * (score{genres}=0.235294117647059) = 0.0180995475113122
+(weight=0.0769230769230769) * (score{genres}=0.222222222222222) = 0.0170940170940171
 (weight=0.0769230769230769) * (score{lemmas}=0.01) = 0.000769230769230769
 (weight=0.256410256410256) * (score{size}=0) = 0
 (weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.847058823529412) = 0.065158371040724
 (weight=0.307692307692308) * (score{udapi}=0.162679425837321) = 0.0500552079499448
 (weight=0.0769230769230769) * (score{udeprels}=0.648648648648649) = 0.0498960498960499
-(TOTAL score=0.261414304603159) * (availability=1) * (validity=1) = 0.261414304603159
+(TOTAL score=0.260408774185864) * (availability=1) * (validity=1) = 0.260408774185864
 STARS = 1.5
-UD_Old_Irish-DipSGG	0.261414304603159	1.5
+UD_Old_Irish-DipSGG	0.260408774185864	1.5
