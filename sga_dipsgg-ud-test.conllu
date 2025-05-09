@@ -747,7 +747,7 @@
 # reference = f.229 top marg. (TPH p.290)
 # scribe = Main Glossator
 # text = Gaib do chuil isin charcair niróis chluim nacolcaid · truag insin amail bachal rot giuil indṡrathar dodcaid
-# translation = Take your corner in the cell; you shall acquire neither down nor bedding; that is pitiable, o devotee of croziers; the pack-saddle of misfortune has stuck to you
+# translation = Take your corner in the cell; you shall acquire neither pelt nor feather-bed; that is pitiable, o devotee of croziers; the bedding of misfortune has stuck to you
 1	Gaib	gaibid	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres|Voice=Act	0	root	_	_
 2	do	do	PRON	_	Number=Sing|Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	_
 3	chuil	cúil	NOUN	_	Case=Acc|Number=Sing	1	obj	_	_
