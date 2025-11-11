@@ -1,11 +1,15 @@
 Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
+commit 26e6c87a2f518322d15901a351199b6be6569062
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
+Date:   Fri Nov 7 15:39:58 2025 +0100
 Evaluating the following revision of UD_Old_Irish-DipSGG:
-commit 9ff7307d490e229cdfb3c8eb01e555e6d3dbfbdf
-Merge: 4be5487 4557053
+commit e8f220da00f14e7be31b455c6bf55246f63370bf
+Merge: 201479c 54ad817
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'sga_dipsgg'
+Language code (from CoNLL-U file name) = 'sga'
+Found the following data files: sga_dipsgg-ud-test.conllu
 Size: counted 418 of 418 words (nodes).
 Size: min(0, log((N/1000)**2)) = 0.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -19,22 +23,25 @@ Features: 372 out of 418 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
 Universal relations: 24 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
-Udapi:
-               TOTAL         35
-Udapi: found 35 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 418 words.
 Genres: found 4 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang sga --max-err=10 UD_Old_Irish-DipSGG/sga_dipsgg-ud-test.conllu
+[Line 110 Sent 10]: [L3 Warning pron-det-without-prontype] The word 'cach' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 182 Sent 15]: [L3 Warning obl-should-be-nmod] The parent (node [21] 'buith') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 186 Sent 15]: [L3 Warning obl-should-be-nmod] The parent (node [25] 'coimthecht') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 198 Sent 16]: [L3 Warning pron-det-without-prontype] The word 'cach' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 204 Sent 16]: [L3 Warning obl-should-be-nmod] The parent (node [10] 'cummasc') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 323 Sent 1731]: [L3 Warning obl-should-be-nmod] The parent (node [8] 'forbart') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 734 Sent 3386]: [L3 Warning pron-det-without-prontype] The word 'na' is tagged 'DET' but it lacks the 'PronType' feature
+Warnings: 7
 *** PASSED ***
 Validity: 1
-(weight=0.0769230769230769) * (score{features}=1) = 0.0769230769230769
-(weight=0.0769230769230769) * (score{genres}=0.222222222222222) = 0.0170940170940171
-(weight=0.0769230769230769) * (score{lemmas}=0.01) = 0.000769230769230769
-(weight=0.256410256410256) * (score{size}=0) = 0
-(weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
-(weight=0.0769230769230769) * (score{tags}=0.847058823529412) = 0.065158371040724
-(weight=0.307692307692308) * (score{udapi}=0.162679425837321) = 0.0500552079499448
-(weight=0.0769230769230769) * (score{udeprels}=0.648648648648649) = 0.0498960498960499
-(TOTAL score=0.260408774185864) * (availability=1) * (validity=1) = 0.260408774185864
+(weight=0.111111111111111) * (score{features}=1) = 0.111111111111111
+(weight=0.111111111111111) * (score{genres}=0.222222222222222) = 0.0246913580246914
+(weight=0.111111111111111) * (score{lemmas}=0.01) = 0.00111111111111111
+(weight=0.37037037037037) * (score{size}=0) = 0
+(weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
+(weight=0.111111111111111) * (score{tags}=0.847058823529412) = 0.0941176470588235
+(weight=0.111111111111111) * (score{udeprels}=0.648648648648649) = 0.0720720720720721
+(TOTAL score=0.30384404011855) * (availability=1) * (validity=1) = 0.30384404011855
 STARS = 1.5
-UD_Old_Irish-DipSGG	0.260408774185864	1.5
+UD_Old_Irish-DipSGG	0.30384404011855	1.5
