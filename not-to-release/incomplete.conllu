@@ -15617,7 +15617,7 @@
 13	sacardd	sacart	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
 14	oc	oc	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 15	ind	in	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
-16	edpairt	edpart	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
+16	edpairt	idbart	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
 # sent_id = 1367
 # reference = 54a12
@@ -16075,7 +16075,7 @@
 6	thón	tón	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 7	bís	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 8	oc	oc	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-9	edpartaib	edpart	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
+9	edpartaib	idbart	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
 10	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 11	deib	día	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
 
@@ -17288,7 +17288,7 @@
 # scribe = Main Glossator
 # text = con mescatar da cenél indib
 # translation = two genders are mixed in them
-1	con	com	PART	_	PartType=Vb	_	_	_	_
+1	con	con	PART	_	PartType=Vb	_	_	_	_
 2	mescatar	conmesca	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
 3	da	dá	NUM	_	NumType=Card	_	_	_	_
 4	cenél	cenél	NOUN	_	Case=Nom|Number=Dual	_	_	_	_
@@ -18624,7 +18624,7 @@
 # scribe = Main Glossator
 # text = con osciget chenel ma chon oschiget tairmorcien
 # translation = they change the gender if they change the termination
-1	con	com	PART	_	PartType=Vb	_	_	_	_
+1	con	con	PART	_	PartType=Vb	_	_	_	_
 2	osciget	conoscaigi	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 3	chenel	cenél	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 4	ma	má	SCONJ	_	_	_	_	_	_
@@ -26885,7 +26885,7 @@
 # text = .i. con táig .i. adit usus est
 # translation = i.e. I accompany
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	con	com	PART	_	PartType=Vb	_	_	_	_
+2	con	con	PART	_	PartType=Vb	_	_	_	_
 3	táig	contaít	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	_	_	_	_
 4	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 5	adit	_	X	_	Foreign=Yes	_	_	_	_
@@ -36985,7 +36985,7 @@
 4	ui	_	X	_	Foreign=Yes	_	_	_	_
 5	in	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 6	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-7	con	com	PART	_	PartType=Vb	_	_	_	_
+7	con	con	PART	_	PartType=Vb	_	_	_	_
 8	roscaiged	conoscaigi	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Pass	_	_	_	_
 9	and	i	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 10	tantum	_	X	_	Foreign=Yes	_	_	_	_
@@ -37056,7 +37056,7 @@
 3	so	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 4	in	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 5	us	_	X	_	Foreign=Yes	_	_	_	_
-6	con	com	PART	_	PartType=Vb	_	_	_	_
+6	con	con	PART	_	PartType=Vb	_	_	_	_
 7	osna	conosna	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 8	són	side	PRON	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Ana	_	_	_	_
 9	ní	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
