@@ -24797,7 +24797,7 @@
 # translation = two-headed, a pair of shears
 1	dechenda	déchendae	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
 2	de	dá	NUM	_	NumType=Card	_	_	_	_
-3	mess	mess	NOUN	_	Case=Nom|Number=Dual	_	_	_	_
+3	mess	mes	NOUN	_	Case=Nom|Number=Dual	_	_	_	_
 
 # sent_id = 2192
 # reference = 113b5
@@ -32232,7 +32232,7 @@
 10	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 11	é	é_1	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 12	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-13	mess	mes	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+13	mess	mess	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 14	limm	la	ADP	_	AdpType=Prep|Definite=Ind|Number=Sing|Person=1|PronType=Prs	_	_	_	_
 15	⁊	ocus	CCONJ	_	_	_	_	_	_
 16	fere	_	X	_	Foreign=Yes	_	_	_	_
