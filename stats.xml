@@ -22,11 +22,11 @@
     <tag name="CCONJ">7</tag><!-- ocus, _, ná -->
     <tag name="DET">31</tag><!-- in, a, cach, nach -->
     <tag name="INTJ">4</tag><!-- debrath, uch, uit, ó -->
-    <tag name="NOUN">118</tag><!-- _, cocart, membrum, cásc, dub, día, días, ingen, laithirt, lebor -->
+    <tag name="NOUN">119</tag><!-- _, cocart, membrum, cásc, dub, día, días, ingen, laithirt, lebor -->
     <tag name="NUM">2</tag><!-- dá, tress -->
     <tag name="PART">32</tag><!-- a, fo, so, ní, sin, ad, do, í, in, no -->
     <tag name="PRON">22</tag><!-- a, m, mo, so, do, mé, sa, som, sí, t_1 -->
-    <tag name="PROPN">16</tag><!-- dongus, _, brigit, brigtae, coirbbre, fergus, finguine, lothlend, maddoc, mael -->
+    <tag name="PROPN">15</tag><!-- dongus, _, brigit, brigtae, coirbbre, fergus, finguine, lothlend, maddoc, maellecan -->
     <tag name="PUNCT">21</tag><!-- ·, ᚛, .,.,.,, ·–, _ -->
     <tag name="SCONJ">14</tag><!-- cía, _, co, ná, amal, ara, má, nách_3 -->
     <tag name="VERB">32</tag><!-- _, attá, focain, scríbaid, maraid, sechithir, adágathar, asbeir, braigid, ceilid -->
