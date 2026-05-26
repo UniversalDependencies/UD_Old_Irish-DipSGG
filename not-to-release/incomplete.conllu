@@ -37468,10 +37468,11 @@
 5	grecu	gréc	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
 6	ní	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
 7	ecen	éicen	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-8	dunni	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=1|PronType=Prs	_	_	_	_
-9	beta	is	AUX	_	Mood=Sub|Number=Plur|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
-10	comsuidigthi	comṡuidigud	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
-11	linn	la	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=1|PronType=Prs	_	_	_	_
+8	dun	do	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=1|PronType=Prs	_	_	_	_
+9	ni	ni	PRON	_	Number=Plur|Person=1|PronType=Emp	_	_	_	_
+10	beta	is	AUX	_	Mood=Sub|Number=Plur|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
+11	comsuidigthi	comṡuidigud	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
+12	linn	la	ADP	_	AdpType=Prep|Definite=Ind|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 
 # sent_id = 3143
 # reference = 207b12
