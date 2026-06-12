@@ -1067,7 +1067,7 @@
 # reference = 5a9
 # scribe = Main Glossator
 # text = .i. eter fot ⁊ gair
-# translation = i.e. both length and shortness 
+# translation = i.e. both length and shortness
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	eter	eter	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 3	fot	fot	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
@@ -1742,7 +1742,7 @@
 # reference = 6b20
 # scribe = Main Glossator
 # text = a ní sin a scribend inter alias
-# translation = that, (namely) that is written among the others 
+# translation = that, (namely) that is written among the others
 1	a	a	DET	_	Case=Nom|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 2	ní	í	PART	_	PartType=Dct	_	_	_	_
 3	sin	sin	PART	_	PronType=Dem	_	_	_	_
@@ -3708,7 +3708,7 @@
 # reference = 14a9
 # scribe = Main Glossator
 # text = .i. do nd l aili
-# translation = i.e. to the other l 
+# translation = i.e. to the other l
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	do	do	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 3	nd	in	DET	_	Case=Dat|Gender=Fem|Number=Sing|PronType=Art	_	_	_	_
@@ -3788,7 +3788,7 @@
 # reference = 14b1
 # scribe = Main Glossator
 # text = .i. idem ⁊ idem fo n óen chummi
-# translation = i.e. ‘idem et idem,’ in one way 
+# translation = i.e. ‘idem et idem,’ in one way
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	idem	_	X	_	Foreign=Yes	_	_	_	_
 3	⁊	_	X	_	Foreign=Yes	_	_	_	_
@@ -3998,7 +3998,7 @@
 # reference = 15b4
 # scribe = Main Glossator
 # text = .i. a ndo coisgedar ne comaccomuil s
-# translation = i.e. when the conjunction ne follows s 
+# translation = i.e. when the conjunction ne follows s
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	a	a	SCONJ	_	_	_	_	_	_
 3	ndo	do	PART	_	PartType=Vb	_	_	_	_
@@ -4555,7 +4555,7 @@
 # reference = 17b14
 # scribe = Main Glossator
 # text = .i. y pro υ indib
-# translation = i.e. (because) u (occurs) for y in them 
+# translation = i.e. (because) u (occurs) for y in them
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	y	_	X	_	Foreign=Yes	_	_	_	_
 3	pro	_	X	_	Foreign=Yes	_	_	_	_
@@ -8332,7 +8332,7 @@
 # reference = 30a10
 # scribe = Main Glossator
 # text = .i. is id méit
-# translation = i.e. it is how much 
+# translation = i.e. it is how much
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 3	id	ed	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -8416,7 +8416,7 @@
 # reference = 30a16
 # scribe = Main Glossator
 # text = .i. hérredcha aliud nomen illis
-# translation = i.e. ‘redditives’ is another name for them 
+# translation = i.e. ‘redditives’ is another name for them
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	hérredcha	érrethach	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
 3	aliud	_	X	_	Foreign=Yes	_	_	_	_
@@ -8982,7 +8982,7 @@
 # reference = 31b6
 # scribe = Main Glossator
 # text = .i. romándi huili
-# translation = i.e. Romans all 
+# translation = i.e. Romans all
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	romándi	rómándae	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	_
 3	huili	uile	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	_
@@ -10151,7 +10151,7 @@
 # reference = 34a2
 # scribe = Main Glossator
 # text = .i. ar ind í a treba airther quia fit eos .i. oriens
-# translation = i.e. because he possesses the east, quia etc. 
+# translation = i.e. because he possesses the east, quia etc.
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	ar	ar	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 3	ind	a	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
@@ -26896,7 +26896,7 @@
 # reference = 144b1
 # scribe = Main Glossator
 # text = .i. is hinunn chiall indib il litred gníma ⁊ chesto
-# translation = i.e. the meaning in them is the same in-the-series-of-letters (expressing) active and passive (as mereo, mereor)  
+# translation = i.e. the meaning in them is the same in-the-series-of-letters (expressing) active and passive (as mereo, mereor)
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 3	hinunn	inunn	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	_	_	_	_
@@ -27031,7 +27031,7 @@
 # reference = 146a1
 # scribe = Main Glossator
 # text = .i. iss ed as beir híc ar berr chial chesto as ind í as difficio quando pro vincor accipitur ut inante ostendit
-# translation = i.e. it is this he says here: a passive meaning is derived from deficio when it is taken for vincor, as he shows afterwards 
+# translation = i.e. it is this he says here: a passive meaning is derived from deficio when it is taken for vincor, as he shows afterwards
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	iss	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 3	ed	ed	PRON	_	Gender=Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -28462,7 +28462,7 @@
 # reference = 153a1
 # scribe = Main Glossator
 # text = .i. impersonali nad biat hua brethir ut poenitet pudet reliqua
-# translation = i.e. impersonals which are not from a verb, as poenitet etc. 
+# translation = i.e. impersonals which are not from a verb, as poenitet etc.
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	impersonali	_	X	_	Foreign=Yes	_	_	_	_
 3	nad	ná	PART	_	PartType=Rel|Polarity=Neg	_	_	_	_
@@ -28741,7 +28741,7 @@
 # reference = 155b2
 # scribe = Main Glossator
 # text = .i. o nd í as notus
-# translation = i.e. from notus 
+# translation = i.e. from notus
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	o	ó	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 3	nd	a	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
@@ -30136,7 +30136,7 @@
 # reference = 165a1
 # scribe = Main Glossator
 # text = .i. aicned bis i sin chetni persin in presenti is ed bís in pre-terito
-# translation = i.e. the nature that is in the first person in the present it is this that is in the preterite. 
+# translation = i.e. the nature that is in the first person in the present it is this that is in the preterite.
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	aicned	aicned	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	bis	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
@@ -30573,7 +30573,7 @@
 # reference = 172a2
 # scribe = Main Glossator
 # text = .i. is i nd ranngabail ad rodarcar a ndéde sin .i. gním ⁊ césad quia fuit iuror apud antiquos ut inante dicit in participio
-# translation = i.e. it is in the participle (iuratus) that these two things, i.e. active and passive, can be seen, because with the ancients there was iuror, as he, Priscian, says below in dealing with the participle 
+# translation = i.e. it is in the participle (iuratus) that these two things, i.e. active and passive, can be seen, because with the ancients there was iuror, as he, Priscian, says below in dealing with the participle
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 3	i	i	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
@@ -31226,7 +31226,7 @@
 # reference = 181a8
 # scribe = Main Glossator
 # text = de ratione .i. in tan as conguin dligid hua dligud ailiu sechi b ed dliged són .i. forbrisiud dligid hua dligud ailiu
-# translation = De ratione i.e. when it is the violation (? lit. wounding) of a reckoning by another reckoning, whatsoever this reckoning is, i.e. the infraction of a reckoning by another reckoning. 
+# translation = De ratione i.e. when it is the violation (? lit. wounding) of a reckoning by another reckoning, whatsoever this reckoning is, i.e. the infraction of a reckoning by another reckoning.
 1	de	_	X	_	Foreign=Yes	_	_	_	_
 2	ratione	_	X	_	Foreign=Yes	_	_	_	_
 3	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
@@ -31294,7 +31294,7 @@
 # reference = 181b1
 # scribe = Main Glossator
 # text = fri sa religo fil hua nd í as ligo con riug
-# translation = from religo, which is from ligo ‘I tie together’ 
+# translation = from religo, which is from ligo ‘I tie together’
 1	fri	fri	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 2	sa	a	DET	_	Case=Acc|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
 3	religo	_	X	_	Foreign=Yes	_	_	_	_
@@ -32119,7 +32119,7 @@
 # reference = 188a13
 # scribe = Main Glossator
 # text = .i. dochum cétnidetad fri sin cosmil iss ed tete a ndíruidigthe ut bene dochum ind í as fere .i. in ná folud naicneta reliqua
-# translation = i.e. the primitive origin to which (it is) like, it is to this that the derivative goes as bene to fere, i.e. in its natural substance etc. 
+# translation = i.e. the primitive origin to which (it is) like, it is to this that the derivative goes as bene to fere, i.e. in its natural substance etc.
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	dochum	dochum	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 3	cétnidetad	cétnaidetu	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
@@ -37840,7 +37840,7 @@
 # reference = 208b8
 # scribe = Main Glossator
 # text = .i. circunflex la grecu for alailib diib ut est in hís pronominibus graecis
-# translation = i.e. the Greeks have the circumflex on some of them, ut est etc. 
+# translation = i.e. the Greeks have the circumflex on some of them, ut est etc.
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	circunflex	circunflex	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	la	la	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -39091,7 +39091,7 @@
 # reference = 211a14
 # scribe = Main Glossator
 # text = .i. a cosmiligmmer dúli ecsamli .i. do chenelaib ⁊ áirmib ecsamlib ar is écsamil a cenél cetne fil i sind í as mare ⁊ as nilus…
-# translation = i.e. when we compare different things, i.e. to different genders and numbers, for different is the same gender which is in mare and Nilus 
+# translation = i.e. when we compare different things, i.e. to different genders and numbers, for different is the same gender which is in mare and Nilus
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	a	a	SCONJ	_	_	_	_	_	_
 3	cosmiligmmer	cosmailigidir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|Voice=Act	_	_	_	_
