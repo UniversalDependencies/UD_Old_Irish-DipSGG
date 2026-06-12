@@ -37459,7 +37459,7 @@
 # sent_id = 3142
 # reference = 207b11
 # scribe = Main Glossator
-# text = ci t comsuidigthi la grecu ní ecen dunni beta comsuidigthi linn
+# text = ci t comsuidigthi la grecu ní ecen dun ni beta comsuidigthi linn
 # translation = although they are compounds with the Greeks it is unnecessary for us that they should be compounds with us
 1	ci	cía	SCONJ	_	_	_	_	_	_
 2	t	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
