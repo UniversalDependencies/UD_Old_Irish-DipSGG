@@ -151,7 +151,7 @@
 2	amal	amal	SCONJ	_	_	5	mark	_	_
 3	bid	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	5	nsubj	_	_
 4	do	do	ADP	_	AdpType=Prep|Definite=Ind	5	case	_	_
-5	dia	día	NOUN	_	Case=Dat|Number=Sing	0	root	_	_
+5	dia	día	PROPN	_	Case=Dat|Number=Sing	0	root	_	_
 
 # sent_id = 15
 # reference = 2a7
@@ -168,7 +168,7 @@
 8	ind	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
 9	inducbál	inducbál	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 10	ó	ó	ADP	_	AdpType=Prep|Definite=Ind	11	case	_	_
-11	dia	día	NOUN	_	Case=Dat|Number=Sing	9	nmod	_	_
+11	dia	día	PROPN	_	Case=Dat|Number=Sing	9	nmod	_	_
 12	tar	tar	ADP	_	AdpType=Prep|Definite=Ind	13	case	_	SpaceAfter=No
 13	hési	éis	NOUN	_	Case=Acc|Number=Sing	9	nmod	_	_
 14	denmo	dénum	NOUN	_	Case=Gen|Number=Sing	13	nmod	_	_
