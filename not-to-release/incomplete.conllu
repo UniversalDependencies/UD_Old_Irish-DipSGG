@@ -6432,7 +6432,7 @@
 # text = .i. os ní
 # translation = i.e. we ourselves
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	os	os	SCONJ	_	_	_	_	_	_
+2	os	os	CCONJ	_	_	_	_	_	_
 3	ní	ni	PRON	_	Number=Plur|Person=1|PronType=Emp	_	_	_	_
 
 # sent_id = 557
@@ -22211,7 +22211,7 @@
 # text = .i. ot é .i. ma ni techtat in da airdigtha
 # translation = i.e. and they, i.e. unless they possess the two significations
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	ot	os	SCONJ	_	_	_	_	_	_
+2	ot	os	CCONJ	_	_	_	_	_	_
 3	é	é_2	PRON	_	Number=Plur|Person=3|PronType=Prs	_	_	_	_
 4	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 5	ma	má	SCONJ	_	_	_	_	_	_
@@ -35859,7 +35859,7 @@
 # scribe = Main Glossator
 # text = os tú
 # translation = even you [sg.]
-1	os	os	SCONJ	_	_	_	_	_	_
+1	os	os	CCONJ	_	_	_	_	_	_
 2	tú	tú	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 
 # sent_id = 3025
@@ -35867,7 +35867,7 @@
 # scribe = Main Glossator
 # text = os tú
 # translation = even you [sg.]
-1	os	os	SCONJ	_	_	_	_	_	_
+1	os	os	CCONJ	_	_	_	_	_	_
 2	tú	tú	PRON	_	Number=Sing|Person=2|PronType=Prs	_	_	_	_
 
 # sent_id = 3026
