@@ -22398,7 +22398,7 @@
 # text = nícon talla obbad fair itir
 # translation = it does not admit of refusal at all
 1	nícon	nícon	PART	_	Polarity=Neg	_	_	_	_
-2	talla	doella	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
+2	talla	doalla	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 3	obbad	obbad	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 4	fair	for	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 5	itir	eter	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
