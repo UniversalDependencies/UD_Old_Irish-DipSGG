@@ -25677,7 +25677,7 @@
 # text = .i. lam brat
 # translation = i.e. a handkerchief
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	lam	lam	NOUN	_	Prefix=Yes	_	_	_	_
+2	lam	lám	NOUN	_	Prefix=Yes	_	_	_	_
 3	brat	bratt	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 2273
@@ -25697,7 +25697,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	o	ó	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 3	nd	in	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
-4	lam	lam	NOUN	_	Prefix=Yes	_	_	_	_
+4	lam	lám	NOUN	_	Prefix=Yes	_	_	_	_
 5	brot	bratt	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
 # sent_id = 2275
@@ -25824,7 +25824,7 @@
 # scribe = Main Glossator
 # text = lám brat
 # translation = handkerchief
-1	lám	lam	NOUN	_	Prefix=Yes	_	_	_	_
+1	lám	lám	NOUN	_	Prefix=Yes	_	_	_	_
 2	brat	bratt	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 2284
@@ -25834,7 +25834,7 @@
 # translation = from the handkerchief
 1	ó	ó	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 2	nd	in	DET	_	Case=Dat|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
-3	lám	lam	NOUN	_	Prefix=Yes	_	_	_	_
+3	lám	lám	NOUN	_	Prefix=Yes	_	_	_	_
 4	brot	bratt	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
 # sent_id = 2285
@@ -30605,7 +30605,7 @@
 # text = mantile lam brat bís tar glúne
 # translation = mantile a napkin that is over the knees
 1	mantile	_	X	_	Foreign=Yes	_	_	_	_
-2	lam	lam	NOUN	_	Prefix=Yes	_	_	_	_
+2	lam	lám	NOUN	_	Prefix=Yes	_	_	_	_
 3	brat	bratt	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	bís	attá	VERB	_	Aspect=Hab|Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 5	tar	tar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
