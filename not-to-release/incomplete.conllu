@@ -5672,7 +5672,7 @@
 4	ar	ar	SCONJ	_	_	_	_	_	_
 5	ni	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	_	_	_	_
 6	dechor	dechor	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-7	ṁbindius	binnius	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+7	ṁbindius	bindius	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 8	file	attá	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 9	híc	_	X	_	Foreign=Yes	_	_	_	_
 10	sed	_	X	_	Foreign=Yes	_	_	_	_
@@ -11098,7 +11098,7 @@
 # scribe = Main Glossator
 # text = ingen latin
 # translation = daughter of Latinus
-1	ingen	ingen	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+1	ingen	ingen_1	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 2	latin	latin	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
 
 # sent_id = 921
@@ -13519,7 +13519,7 @@
 # scribe = Glossator C
 # text = ingen
 # translation = nail
-1	ingen	ingen	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+1	ingen	ingen_2	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 1140
 # reference = 47a1
@@ -19435,7 +19435,7 @@
 # scribe = Main Glossator
 # text = ingen bráthar .i. femininum ind í as nepos ut postea dicet
 # translation = a brother’s daughter, the feminine of nepos, as he will say afterwards
-1	ingen	ingen	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+1	ingen	ingen_1	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 2	bráthar	bráthair	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 3	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 4	femininum	_	X	_	Foreign=Yes	_	_	_	_
@@ -23443,7 +23443,7 @@
 # text = céle ingine
 # translation = a daughter’s husband
 1	céle	céile	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-2	ingine	ingen	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
+2	ingine	ingen_1	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 
 # sent_id = 2074
 # reference = 100a7
@@ -25045,7 +25045,7 @@
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	do	do	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 3	naib	in	DET	_	Case=Dat|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_
-4	ingenaib	ingen	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
+4	ingenaib	ingen_1	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
 
 # sent_id = 2218
 # reference = 117a3
@@ -25054,7 +25054,7 @@
 # translation = to the daughters
 1	do	do	ADP	_	AdpType=Prep|Definite=Def	_	_	_	_
 2	naib	in	DET	_	Case=Dat|Gender=Fem|Number=Plur|PronType=Art	_	_	_	_
-3	ingenaib	ingen	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
+3	ingenaib	ingen_1	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
 
 # sent_id = 2219
 # reference = 117a4
@@ -25063,7 +25063,7 @@
 # translation = i.e. daugther
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
 2	gnata	_	X	_	Foreign=Yes	_	_	_	_
-3	ingen	ingen	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+3	ingen	ingen_1	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 
 # sent_id = 2220
 # reference = 117a5
@@ -27878,7 +27878,7 @@
 8	tan	tan	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 9	ara	ar	PART	_	PartType=Vb	_	_	_	_
 10	mberar	arbeir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
-11	ciall	ciall	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+11	ciall	cíall	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 12	chesta	cesad	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 13	ass	a	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 14	ut	_	X	_	Foreign=Yes	_	_	_	_
@@ -28308,7 +28308,7 @@
 2	ar	ar	SCONJ	_	_	_	_	_	_
 3	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 4	lán	lan	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
-5	chiál	ciall	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+5	chiál	cíall	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	i	i	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 7	nolḟoirbthiu	olfoirbthe	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 8	chene	cen	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -30620,7 +30620,7 @@
 2	bíth	bíth	SCONJ	_	_	_	_	_	_
 3	ṅoenaigedar	oenaigidir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Act	_	_	_	_
 4	a	a	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-5	cialla	ciall	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
+5	cialla	cíall	NOUN	_	Case=Acc|Number=Plur	_	_	_	_
 6	ar	ar	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
 7	chinn	cenn	NOUN	_	Case=Acc|Number=Sing	_	_	_	_
 
@@ -30945,7 +30945,7 @@
 # text = .i. ciall chésto ⁊ gnima and
 # translation = i.e. the meaning of the passive and the active in it
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	ciall	ciall	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+2	ciall	cíall	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	chésto	césad	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 4	⁊	ocus	CCONJ	_	_	_	_	_	_
 5	gnima	gním	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
@@ -34600,7 +34600,7 @@
 14	disruthaigedar	díṡruthaigidir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Voice=Pass	_	_	_	_
 15	acht	acht	SCONJ	_	_	_	_	_	_
 16	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
-17	ciall	ciall	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+17	ciall	cíall	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 18	ind	in	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Art	_	_	_	_
 19	ildatad	ildatu	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 20	ind	a	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Art	_	_	_	_
@@ -35722,7 +35722,7 @@
 2	is	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	_	_	_	_
 3	si	sí	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 4	a	a	PRON	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-5	ciall	ciall	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+5	ciall	cíall	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	som	som	PRON	_	Number=Plur|Person=3|PronType=Emp	_	_	_	_
 7	ata	is	AUX	_	Mood=Ind|Number=Plur|Person=3|Polarity=Pos|PronType=Rel|Tense=Pres|VerbType=Cop	_	_	_	_
 8	comṡuidigthi	comṡuidigthe	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Plur	_	_	_	_
@@ -37922,7 +37922,7 @@
 # text = .i. ciall chésta and do gres
 # translation = i.e. the sense of a passive is always in it
 1	.i.	.i.	ADV	_	Abbr=Yes	_	_	_	_
-2	ciall	ciall	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+2	ciall	cíall	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	chésta	césad	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 4	and	i	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 5	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
@@ -40711,7 +40711,7 @@
 # text = do ingin
 # translation = to (the) nail
 1	do	do	ADP	_	AdpType=Prep|Definite=Ind	_	_	_	_
-2	ingin	ingen	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
+2	ingin	ingen_2	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 
 # sent_id = 3367
 # reference = 217a8

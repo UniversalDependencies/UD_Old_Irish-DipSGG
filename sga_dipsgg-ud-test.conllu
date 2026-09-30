@@ -407,7 +407,7 @@
 1	sén	sén	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 2	a	a	PART	_	PartType=Voc	4	case:voc	_	SpaceAfter=No
 3	nóib	nóib	ADJ	_	Degree=Pos|Prefix=Yes	4	amod	_	SpaceAfter=No
-4	ingen	ingen	NOUN	_	Case=Voc|Number=Sing	1	vocative	_	_
+4	ingen	ingen_1	NOUN	_	Case=Voc|Number=Sing	1	vocative	_	_
 
 # sent_id = 2548
 # reference = f.159 top marg. (TPH p.xx)
@@ -716,7 +716,7 @@
 4	chliab	clíab	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 5	a	a	PART	_	PartType=Voc	7	case:voc	_	SpaceAfter=No
 6	nóib	nóib	ADJ	_	Degree=Pos|Prefix=Yes	7	amod	_	SpaceAfter=No
-7	ingen	ingen	NOUN	_	Case=Voc|Number=Sing	4	parataxis	_	_
+7	ingen	ingen_1	NOUN	_	Case=Voc|Number=Sing	4	parataxis	_	_
 8	··–	·–	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 3386
