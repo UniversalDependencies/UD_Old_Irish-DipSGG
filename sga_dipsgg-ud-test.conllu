@@ -47,8 +47,9 @@
 4	in	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
 5	dias	días	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	SpaceAfter=No
 6	sa	so	PART	_	PronType=Dem	5	amod	_	_
-7	rosechestar	sechithir	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	5	acl:relcl	_	_
-8	som	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	7	obl:agent	_	_
+7	ro	ro	PART	_	PartType=Aug	8	compound:prt	_	SpaceAfter=No
+8	sechestar	sechithir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	5	acl:relcl	_	_
+9	som	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	8	obl:agent	_	_
 
 # sent_id = 5
 # reference = 1a5
@@ -532,10 +533,11 @@
 1	ní	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	3	nsubj	_	_
 2	ǽr	ér	PART	_	Prefix=Yes	3	amod	_	SpaceAfter=No
 3	mall	mall	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
-4	roscríbad	scríbaid	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Pass	3	acl:relcl	_	_
-5	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
-6	letráim	letraim	NOUN	_	Case=Nom|Number=Sing	4	obj	_	SpaceAfter=No
-7	so	so	PART	_	PronType=Dem	6	amod	_	_
+4	ro	ro	PART	_	PartType=Aug	5	compound:prt	_	SpaceAfter=No
+5	scríbad	scríbaid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	3	acl:relcl	_	_
+6	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	letráim	letraim	NOUN	_	Case=Nom|Number=Sing	5	obj	_	SpaceAfter=No
+8	so	so	PART	_	PronType=Dem	7	amod	_	_
 
 # sent_id = 2863
 # reference = f.196 top marg. (TPH p.xxi)
@@ -588,10 +590,11 @@
 14	ar	ar	ADP	_	AdpType=Prep|Definite=Def	16	case	_	SpaceAfter=No
 15	in	a	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	16	det	_	SpaceAfter=No
 16	scribund	scríbend	NOUN	_	Case=Dat|Number=Sing	10	nmod	_	_
-17	roscribad	scríbaid	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Pass	16	acl:relcl	_	_
-18	in	in	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No
-19	dul	dul	NOUN	_	Case=Acc|Number=Sing	17	obl	_	SpaceAfter=No
-20	so	so	PART	_	PronType=Dem	19	amod	_	_
+17	ro	ro	PART	_	PartType=Aug	18	compound:prt	_	SpaceAfter=No
+18	scribad	scríbaid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	16	acl:relcl	_	_
+19	in	in	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No
+20	dul	dul	NOUN	_	Case=Acc|Number=Sing	18	obl	_	SpaceAfter=No
+21	so	so	PART	_	PronType=Dem	20	amod	_	_
 
 # sent_id = 3080
 # reference = f.203 bottom marg. (TPH p.xxii)
