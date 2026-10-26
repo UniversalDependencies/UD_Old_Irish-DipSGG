@@ -592,7 +592,7 @@
 16	scribund	scríbend	NOUN	_	Case=Dat|Number=Sing	10	nmod	_	_
 17	ro	ro	PART	_	PartType=Aug	18	compound:prt	_	SpaceAfter=No
 18	scribad	scríbaid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	16	acl:relcl	_	_
-19	in	in	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No
+19	in	in	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	20	det	_	SpaceAfter=No
 20	dul	dul	NOUN	_	Case=Acc|Number=Sing	18	obl	_	SpaceAfter=No
 21	so	so	PART	_	PronType=Dem	20	amod	_	_
 
