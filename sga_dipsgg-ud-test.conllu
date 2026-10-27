@@ -158,7 +158,7 @@
 # reference = 2a7
 # scribe = Main Glossator
 # text = .i. cid bec cid mar indinducbál ó dia tarhési denmo ind libuir bith má de do buith daitsiu hi coimthecht oco.,
-# translation = i.e. whether it may be small, whether it may be large, the glory from God after making the book, it will be greater from your being in associated with it
+# translation = i.e. whether it may be small, whether it may be large, the glory from God after making the book, it will be greater from your being associated with it
 1	.i.	.i.	ADV	_	Abbr=Yes	9	advmod	_	_
 2	ci	cía	SCONJ	_	_	4	mark	_	SpaceAfter=No
 3	d	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	4	cop	_	_
