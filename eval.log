@@ -1,16 +1,16 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Old_Irish-DipSGG:
-commit c997ab32759b6221d3b816348a0414427dc0b50c
-Merge: 338385b 973d23a
+commit 1fa39e8ef3abbc0edc1cbd23a5753a326f417bb9
+Merge: e92ab88 39796ea
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'sga_dipsgg'
 Language code (from CoNLL-U file name) = 'sga'
 Found the following data files: sga_dipsgg-ud-test.conllu
-Size: counted 418 of 418 words (nodes).
+Size: counted 421 of 421 words (nodes).
 Size: min(0, log((N/1000)**2)) = 0.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Did not find more than 10000 training words.
@@ -19,20 +19,16 @@ Split: Did not find at least 10000 test words.
 Lemmas: '_' is the most frequent lemma.
 Universal POS tags: 16 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.9.
-Features: 372 out of 418 total words have one or more features.
+Features: 375 out of 421 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
 Universal relations: 24 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 4 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang sga --max-err=10 UD_Old_Irish-DipSGG/sga_dipsgg-ud-test.conllu
-[Line 110 Sent 10]: [L3 WARNING pron-det-without-prontype] The word 'cach' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 182 Sent 15]: [L3 SYNTAX obl-should-be-nmod] The parent (node [21] 'buith') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 186 Sent 15]: [L3 SYNTAX obl-should-be-nmod] The parent (node [25] 'coimthecht') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 198 Sent 16]: [L3 WARNING pron-det-without-prontype] The word 'cach' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 204 Sent 16]: [L3 SYNTAX obl-should-be-nmod] The parent (node [10] 'cummasc') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 323 Sent 1731]: [L3 SYNTAX obl-should-be-nmod] The parent (node [8] 'forbart') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
-[Line 734 Sent 3386]: [L3 WARNING pron-det-without-prontype] The word 'na' is tagged 'DET' but it lacks the 'PronType' feature
-Warnings: 3
+[Line 183 Sent 15]: [L3 SYNTAX obl-should-be-nmod] The parent (node [21] 'buith') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 187 Sent 15]: [L3 SYNTAX obl-should-be-nmod] The parent (node [25] 'coimthecht') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 205 Sent 16]: [L3 SYNTAX obl-should-be-nmod] The parent (node [10] 'cummasc') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 324 Sent 1731]: [L3 SYNTAX obl-should-be-nmod] The parent (node [8] 'forbart') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 SYNTAX errors: 4
 *** FAILED *** with 4 errors
 Exit code: 1
