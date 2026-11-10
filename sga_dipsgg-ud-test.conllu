@@ -47,8 +47,9 @@
 4	in	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	5	det	_	SpaceAfter=No
 5	dias	días	NOUN	_	Case=Nom|Number=Sing	2	nsubj	_	SpaceAfter=No
 6	sa	so	PART	_	PronType=Dem	5	amod	_	_
-7	rosechestar	sechithir	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Act	5	acl:relcl	_	_
-8	som	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	7	obl:agent	_	_
+7	ro	ro	PART	_	PartType=Aug	8	compound:prt	_	SpaceAfter=No
+8	sechestar	sechithir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Act	5	acl:relcl	_	_
+9	som	som	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|PronType=Emp	8	obl:agent	_	_
 
 # sent_id = 5
 # reference = 1a5
@@ -107,7 +108,7 @@
 # text = hicach ceniul fis ⁊ ecni
 # translation = in every kind of knowledge and wisdom
 1	hi	i	ADP	_	AdpType=Prep|Definite=Ind	3	case	_	SpaceAfter=No
-2	cach	cach	DET	_	Case=Dat|Definite=Def|Number=Sing	3	det	_	_
+2	cach	cach	DET	_	Case=Dat|Number=Sing|PronType=Tot	3	det	_	_
 3	ceniul	cenél	NOUN	_	Case=Dat|Number=Sing	0	root	_	_
 4	fis	fis	NOUN	_	Case=Gen|Number=Sing	3	nmod	_	_
 5	⁊	ocus	CCONJ	_	_	6	cc	_	_
@@ -151,13 +152,13 @@
 2	amal	amal	SCONJ	_	_	5	mark	_	_
 3	bid	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop	5	nsubj	_	_
 4	do	do	ADP	_	AdpType=Prep|Definite=Ind	5	case	_	_
-5	dia	día	NOUN	_	Case=Dat|Number=Sing	0	root	_	_
+5	dia	día	PROPN	_	Case=Dat|Number=Sing	0	root	_	_
 
 # sent_id = 15
 # reference = 2a7
 # scribe = Main Glossator
 # text = .i. cid bec cid mar indinducbál ó dia tarhési denmo ind libuir bith má de do buith daitsiu hi coimthecht oco.,
-# translation = i.e. whether it may be small, whether it may be large, the glory from God after making the book, it will be greater from your being in associated with it
+# translation = i.e. whether it may be small, whether it may be large, the glory from God after making the book, it will be greater from your being associated with it
 1	.i.	.i.	ADV	_	Abbr=Yes	9	advmod	_	_
 2	ci	cía	SCONJ	_	_	4	mark	_	SpaceAfter=No
 3	d	is	AUX	_	Mood=Sub|Number=Sing|Person=3|Polarity=Pos|Tense=Pres|VerbType=Cop	4	cop	_	_
@@ -168,7 +169,7 @@
 8	ind	in	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Art	9	det	_	SpaceAfter=No
 9	inducbál	inducbál	NOUN	_	Case=Nom|Number=Sing	4	nsubj	_	_
 10	ó	ó	ADP	_	AdpType=Prep|Definite=Ind	11	case	_	_
-11	dia	día	NOUN	_	Case=Dat|Number=Sing	9	nmod	_	_
+11	dia	día	PROPN	_	Case=Dat|Number=Sing	9	nmod	_	_
 12	tar	tar	ADP	_	AdpType=Prep|Definite=Ind	13	case	_	SpaceAfter=No
 13	hési	éis	NOUN	_	Case=Acc|Number=Sing	9	nmod	_	_
 14	denmo	dénum	NOUN	_	Case=Gen|Number=Sing	13	nmod	_	_
@@ -195,7 +196,7 @@
 2	a	a	PRON	_	Gender=Masc,Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	nmod:poss	_	SpaceAfter=No
 3	thitol	titul	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 4	re	re	ADP	_	AdpType=Prep|Definite=Ind	6	case	_	_
-5	cach	cach	DET	_	Case=Dat|Definite=Def|Number=Sing	6	det	_	_
+5	cach	cach	DET	_	Case=Dat|Number=Sing|PronType=Tot	6	det	_	_
 6	libur	lebor	NOUN	_	Case=Dat|Number=Sing	3	nmod	_	_
 7	ar	ara	SCONJ	_	_	9	mark	_	_
 8	na	ná	SCONJ	_	Polarity=Neg	9	mark	_	SpaceAfter=No
@@ -407,7 +408,7 @@
 1	sén	sén	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 2	a	a	PART	_	PartType=Voc	4	case:voc	_	SpaceAfter=No
 3	nóib	nóib	ADJ	_	Degree=Pos|Prefix=Yes	4	amod	_	SpaceAfter=No
-4	ingen	ingen	NOUN	_	Case=Voc|Number=Sing	1	vocative	_	_
+4	ingen	ingen_1	NOUN	_	Case=Voc|Number=Sing	1	vocative	_	_
 
 # sent_id = 2548
 # reference = f.159 top marg. (TPH p.xx)
@@ -532,10 +533,11 @@
 1	ní	is	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbType=Cop	3	nsubj	_	_
 2	ǽr	ér	PART	_	Prefix=Yes	3	amod	_	SpaceAfter=No
 3	mall	mall	ADJ	_	Case=Nom|Degree=Pos|Number=Sing	0	root	_	_
-4	roscríbad	scríbaid	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Pass	3	acl:relcl	_	_
-5	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	6	det	_	SpaceAfter=No
-6	letráim	letraim	NOUN	_	Case=Nom|Number=Sing	4	obj	_	SpaceAfter=No
-7	so	so	PART	_	PronType=Dem	6	amod	_	_
+4	ro	ro	PART	_	PartType=Aug	5	compound:prt	_	SpaceAfter=No
+5	scríbad	scríbaid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	3	acl:relcl	_	_
+6	in	in	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Art	7	det	_	SpaceAfter=No
+7	letráim	letraim	NOUN	_	Case=Nom|Number=Sing	5	obj	_	SpaceAfter=No
+8	so	so	PART	_	PronType=Dem	7	amod	_	_
 
 # sent_id = 2863
 # reference = f.196 top marg. (TPH p.xxi)
@@ -588,10 +590,11 @@
 14	ar	ar	ADP	_	AdpType=Prep|Definite=Def	16	case	_	SpaceAfter=No
 15	in	a	DET	_	Case=Dat|Gender=Neut|Number=Sing|PronType=Art	16	det	_	SpaceAfter=No
 16	scribund	scríbend	NOUN	_	Case=Dat|Number=Sing	10	nmod	_	_
-17	roscribad	scríbaid	VERB	_	Mood=Ind|Number=Sing|PartType=Aug|Person=3|Tense=Past|Voice=Pass	16	acl:relcl	_	_
-18	in	in	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	19	det	_	SpaceAfter=No
-19	dul	dul	NOUN	_	Case=Acc|Number=Sing	17	obl	_	SpaceAfter=No
-20	so	so	PART	_	PronType=Dem	19	amod	_	_
+17	ro	ro	PART	_	PartType=Aug	18	compound:prt	_	SpaceAfter=No
+18	scribad	scríbaid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	16	acl:relcl	_	_
+19	in	in	DET	_	Case=Acc|Gender=Masc|Number=Sing|PronType=Art	20	det	_	SpaceAfter=No
+20	dul	dul	NOUN	_	Case=Acc|Number=Sing	18	obl	_	SpaceAfter=No
+21	so	so	PART	_	PronType=Dem	20	amod	_	_
 
 # sent_id = 3080
 # reference = f.203 bottom marg. (TPH p.xxii)
@@ -716,7 +719,7 @@
 4	chliab	clíab	NOUN	_	Case=Nom|Number=Sing	0	root	_	_
 5	a	a	PART	_	PartType=Voc	7	case:voc	_	SpaceAfter=No
 6	nóib	nóib	ADJ	_	Degree=Pos|Prefix=Yes	7	amod	_	SpaceAfter=No
-7	ingen	ingen	NOUN	_	Case=Voc|Number=Sing	4	parataxis	_	_
+7	ingen	ingen_1	NOUN	_	Case=Voc|Number=Sing	4	parataxis	_	_
 8	··–	·–	PUNCT	_	_	7	punct	_	_
 
 # sent_id = 3386
@@ -731,7 +734,7 @@
 5	ó	ó	INTJ	_	_	7	discourse	_	_
 6	ní	ní	PART	_	Polarity=Neg	7	advmod	_	SpaceAfter=No
 7	epur	asbeir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|Voice=Act	1	parataxis	_	_
-8	na	nach	DET	_	Case=Acc|Definite=Ind|Number=Sing	9	det	_	_
+8	na	nach	DET	_	Case=Acc|Number=Sing|PronType=Neg	9	det	_	_
 9	haill	aile	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	7	amod	_	_
 
 # sent_id = 3461
