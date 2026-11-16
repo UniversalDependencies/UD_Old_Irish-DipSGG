@@ -184,7 +184,7 @@
 23	siu	so	PRON	_	Number=Sing|Person=2|PronType=Emp	22	amod	_	_
 24	hi	i	ADP	_	AdpType=Prep|Definite=Ind	25	case	_	_
 25	coimthecht	coimitecht	NOUN	_	Case=Dat|Number=Sing	21	nmod	_	_
-26	oco	oc	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	25	obl:prep	_	SpaceAfter=No
+26	oco	oc	ADP	_	AdpType=Prep|Definite=Ind|Gender=Masc,Neut|Number=Sing|Person=3|PronType=Prs	25	nmod	_	SpaceAfter=No
 27	.,	.,.,.,	PUNCT	_	_	18	punct	_	_
 
 # sent_id = 16
