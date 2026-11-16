@@ -5,10 +5,10 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>64</sentences><tokens>418</tokens><words>418</words><fused>0</fused></total>
+    <total><sentences>64</sentences><tokens>421</tokens><words>421</words><fused>0</fused></total>
     <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>64</sentences><tokens>418</tokens><words>418</words><fused>0</fused></test>
+    <test><sentences>64</sentences><tokens>421</tokens><words>421</words><fused>0</fused></test>
   </size>
   <lemmas unique="210" /><!-- in, .i., is, a, do, i, so, ·, ᚛, fo, m, attá, cocart, cía, de -->
   <forms unique="282" /><!-- .i., a, in, is, do, ·, ᚛, d, fo, ⁊, ar, ci, hi, ind, inna -->
@@ -22,18 +22,18 @@
     <tag name="CCONJ">7</tag><!-- ocus, _, ná -->
     <tag name="DET">31</tag><!-- in, a, cach, nach -->
     <tag name="INTJ">4</tag><!-- debrath, uch, uit, ó -->
-    <tag name="NOUN">119</tag><!-- _, cocart, membrum, cásc, dub, día, días, ingen, laithirt, lebor -->
+    <tag name="NOUN">117</tag><!-- _, cocart, membrum, cásc, dub, días, ingen_1, laithirt, lebor, scríbend -->
     <tag name="NUM">2</tag><!-- dá, tress -->
-    <tag name="PART">32</tag><!-- a, fo, so, ní, sin, ad, do, í, in, no -->
+    <tag name="PART">35</tag><!-- a, fo, so, ro, ní, sin, ad, do, í, in -->
     <tag name="PRON">22</tag><!-- a, m, mo, so, do, mé, sa, som, sí, t_1 -->
-    <tag name="PROPN">15</tag><!-- dongus, _, brigit, brigtae, coirbbre, fergus, finguine, lothlend, maddoc, maellecan -->
+    <tag name="PROPN">17</tag><!-- dongus, día, _, brigit, brigtae, coirbbre, fergus, finguine, lothlend, maddoc -->
     <tag name="PUNCT">21</tag><!-- ·, ᚛, .,.,.,, ·–, _ -->
     <tag name="SCONJ">14</tag><!-- cía, _, co, ná, amal, ara, má, nách_3 -->
     <tag name="VERB">32</tag><!-- _, attá, focain, scríbaid, maraid, sechithir, adágathar, asbeir, braigid, ceilid -->
     <tag name="X">5</tag><!-- _ -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="50">
+  <feats unique="52">
     <feat name="Abbr" value="Yes" upos="ADV">18</feat><!-- .i. -->
     <feat name="AdpType" value="Prep" upos="ADP">41</feat><!-- do, hi, ar, dom, i, de, di, huas, and, dait -->
     <feat name="Aspect" value="Hab" upos="VERB">1</feat><!-- ṁbís -->
@@ -42,8 +42,8 @@
     <feat name="Case" value="Gen" upos="ADJ,DET,NOUN,PROPN">33</feat><!-- inna, brigtae, bachal, chasc, con, cói, denmo, dodcaid, doss, ecni -->
     <feat name="Case" value="Nom" upos="ADJ,DET,NOUN,PROPN">87</feat><!-- in, a, ind, ᚉᚑᚉᚐᚏᚈ, dias, gann, acher, ainm, airdircus, aite -->
     <feat name="Case" value="Voc" upos="NOUN,PROPN">4</feat><!-- ingen, mail, máelecán -->
-    <feat name="Definite" value="Def" upos="ADP,DET">7</feat><!-- cach, do, ar, di, i -->
-    <feat name="Definite" value="Ind" upos="ADP,DET">37</feat><!-- hi, do, dom, ar, de, huas, i, and, dait, di -->
+    <feat name="Definite" value="Def" upos="ADP">5</feat><!-- do, ar, di, i -->
+    <feat name="Definite" value="Ind" upos="ADP">36</feat><!-- hi, do, dom, ar, de, huas, i, and, dait, di -->
     <feat name="Degree" value="Cmp" upos="ADJ">1</feat><!-- má -->
     <feat name="Degree" value="Pos" upos="ADJ">28</feat><!-- gann, mar, nóib, acher, bec, cáin, dorchæ, droch, ferr, find -->
     <feat name="Foreign" value="Yes" upos="ADJ,ADV,CCONJ,NOUN,PROPN,SCONJ,VERB,X">24</feat><!-- ut, .c, .d., accentus, adest, amen, animalis, dicit, displosa, et -->
@@ -59,7 +59,7 @@
     <feat name="Number" value="Sing" upos="ADJ,ADP,AUX,DET,NOUN,PRON,PROPN,SCONJ,VERB">231</feat><!-- in, is, a, d, ind, m, chain, dom, mo, ᚉᚑᚉᚐᚏᚈ -->
     <feat name="NumType" value="Card" upos="NUM">1</feat><!-- di -->
     <feat name="NumType" value="Ord" upos="NUM">1</feat><!-- tris -->
-    <feat name="PartType" value="Aug" upos="PART,VERB">5</feat><!-- ro, roib, roscribad, roscríbad, rosechestar -->
+    <feat name="PartType" value="Aug" upos="PART,VERB">5</feat><!-- ro, roib -->
     <feat name="PartType" value="Dct" upos="PART">2</feat><!-- hí, ní -->
     <feat name="PartType" value="Rel" upos="PART">1</feat><!-- nad -->
     <feat name="PartType" value="Vb" upos="PART">11</feat><!-- fo, Do, a, at, fu, in, no, th -->
@@ -75,15 +75,17 @@
     <feat name="PronType" value="Art" upos="DET">28</feat><!-- in, a, ind, inna, naib, inḍt, nd, sin, ᚔᚅ, ṅ -->
     <feat name="PronType" value="Dem" upos="PART">8</feat><!-- sin, so, sa, ᚄᚑ -->
     <feat name="PronType" value="Emp" upos="PRON">4</feat><!-- siu, som, sse, sv -->
+    <feat name="PronType" value="Neg" upos="DET">1</feat><!-- na -->
     <feat name="PronType" value="Prs" upos="ADP,PRON,SCONJ">31</feat><!-- a, m, dom, mo, and, dait, de, do, dv́n, foir -->
     <feat name="PronType" value="Rel" upos="AUX">1</feat><!-- mba -->
+    <feat name="PronType" value="Tot" upos="DET">2</feat><!-- cach -->
     <feat name="Tense" value="Fut" upos="AUX,VERB">4</feat><!-- bith, cél, róis, tiach -->
-    <feat name="Tense" value="Past" upos="AUX,VERB">5</feat><!-- bid, giuil, roscribad, roscríbad, rosechestar -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">5</feat><!-- bid, giuil, scribad, scríbad, sechestar -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">36</feat><!-- is, d, chain, ní, Gaib, braigim, cóima, ecmoṅgat, epur, farcai -->
     <feat name="Typo" value="Yes" upos="DET,NOUN">5</feat><!-- ᚉᚑᚉᚐᚏᚈ, accentus, inḍt, ᚙᚑᚉᚐᚏᚈ -->
     <feat name="VerbType" value="Cop" upos="AUX,SCONJ">18</feat><!-- is, d, ní, bid, bith, mba, nach -->
     <feat name="Voice" value="Act" upos="VERB">26</feat><!-- chain, Gaib, braigim, cél, cóima, ecmoṅgat, epur, farcai, fuasna, giuil -->
-    <feat name="Voice" value="Pass" upos="VERB">2</feat><!-- roscribad, roscríbad -->
+    <feat name="Voice" value="Pass" upos="VERB">2</feat><!-- scribad, scríbad -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="33">
@@ -96,7 +98,7 @@
     <dep name="case:voc">5</dep>
     <dep name="cc">7</dep>
     <dep name="ccomp">1</dep>
-    <dep name="compound:prt">12</dep>
+    <dep name="compound:prt">15</dep>
     <dep name="conj">9</dep>
     <dep name="cop">8</dep>
     <dep name="det">31</dep>
